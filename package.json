@@ -1,12 +1,9 @@
 {
-  "name": "nextjs-toolbox",
+  "name": "writing-with-no-purpose",
   "version": "1.0.0",
-  "author": "Netlify Inc",
+  "author": "Ashton Winters",
   "contributors": [
-    "Tara Manicsic",
-    "Prince Wilson",
-    "Charlie Gerard",
-    "Ben Hong"
+    "Ashton Winters"
   ],
   "homepage": "https://github.com/netlify-templates/nextjs-toolbox",
   "bugs": {
