@@ -9,7 +9,7 @@ export default function Header() {
 
     return (
       <div>
-        <div className='flex justify-between galaxyfold:justify-center items-center regular:h-20 border-b border-b-gray-200'>            
+        <nav className='flex justify-between galaxyfold:justify-center items-center regular:h-20 border-b border-b-gray-200'>            
             <Link  href="/">
               <a className="ml-1 galaxyfold:ml-0 font-merriweather text-l regular:text-6xl galaxyfold:text-xl">
                 WRITING WITH NO PURPOSE
@@ -23,7 +23,7 @@ export default function Header() {
                   <svg className={`w-7 h-7 ${open ? "" : "hidden"}`} fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path strokeLinecap="square" strokeLinejoin="square" strokeWidth={2} d="M6 18L18 6M6 6l12 12" /></svg>
             </div>
 
-        </div>
+        </nav>
         
         {/* Mobile Navbar */}
         <span className={`content regular:hidden`}>
@@ -43,7 +43,7 @@ export default function Header() {
         </span>
 
         <nav className="flex justify-center items-center filter drop-shadow-md bg-white">
-            <ul className="mt-3 mb-3 space-x-20 items-center font-opensans hidden regular:flex">
+            <ul className="mt-3 mb-5 space-x-20 items-center font-opensans hidden regular:flex">
               <li> 
                 <Link href="/">
                     <a className="text-gray-900 hover:text-black">HOME</a>
@@ -51,7 +51,7 @@ export default function Header() {
               </li>
 
               <li>
-                <Image height={40} width={40} src={castleLogo}/>
+                <Image height={40} width={40} src={castleLogo} alt={"castle"} />
               </li>
 
               <li>

@@ -9,17 +9,6 @@ body {
   box-sizing: border-box;
 }
 
-*
-main {
-  padding: 2rem;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  margin: 0 auto;
-  width: 70%;
-}
-*
-
 hr {
   width: 100%;
 }

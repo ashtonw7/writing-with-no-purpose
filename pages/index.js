@@ -34,7 +34,8 @@ export default function Home({ posts }) {
         <title>Writing with No Purpose</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-    
+      <h1 className='hidden'>Writing with No Purpose Home</h1>
+
       {posts.map(({ slug, frontmatter }) => (
         <ArticleCard key={slug} slug={slug} title={frontmatter.title} author={frontmatter.author} quote={frontmatter.quote} img={frontmatter.image} date={frontmatter.date} />
       ))}
