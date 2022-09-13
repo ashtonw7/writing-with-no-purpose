@@ -9,6 +9,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
+        "merriweather": ["Merriweather"],
         "helvetica": ["Helvetica", ...defaultTheme.fontFamily.sans],
       },
       screens: {
