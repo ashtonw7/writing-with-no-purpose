@@ -13,9 +13,9 @@ module.exports = {
         "helvetica": ["Helvetica", ...defaultTheme.fontFamily.sans],
       },
       screens: {
-        'galaxyfold': '318px',
+        'galaxyfold': '360px',
         'phone': '415px',
-        'regular': '820px',
+        'regular': '876px',
       },
       height: {
         "10v": "10vw",

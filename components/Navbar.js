@@ -9,31 +9,13 @@ function NavLink({to, children}) {
     </a>
 }
 
-function MobileNav({open, setOpen}) {
-    return (
-        <div className={`absolute top-0 left-0 h-screen w-screen bg-white transform ${open ? "-translate-x-0" : "-translate-x-full"} transition-transform duration-300 ease-in-out filter drop-shadow-md`}>
-            <div className="flex items-center justify-center filter drop-shadow-md bg-white h-20"> {/*logo container*/}
-                <a className="text-xl font-semibold" href="/">Search</a>
-            </div>
-            <div className="flex flex-col ml-4">
-                <a className="text-xl font-medium my-4" href="/" onClick={() => setTimeout(() => {setOpen(!open)}, 100)}>
-                    About
-                </a>
-                <a className="text-xl font-normal my-4" href="/" onClick={() => setTimeout(() => {setOpen(!open)}, 100)}>
-                    Contact
-                </a>
-            </div>  
-        </div>
-    )
-}
-
 export default function Navbar() {
 
     const [open, setOpen] = useState(false)
 
     return (
       <div>
-        <div className='flex justify-between galaxyfold:justify-center items-center regular:h-20'>
+        <div className='flex justify-between galaxyfold:justify-center items-center regular:h-20 border-b border-b-gray-200'>
 
             <a className="ml-1 galaxyfold:ml-0 font-merriweather text-l regular:text-6xl galaxyfold:text-xl" href="/">WRITING WITH NO PURPOSE</a>
 
@@ -45,9 +27,24 @@ export default function Navbar() {
             </div>
 
         </div>
+        
+        <span className={"content regular:hidden"}>
+        <nav className={`${open ? "-translate-x-0" : "-translate-x-full"} transition-transform duration-300 ease-in-out`}>
+          <div className="flex items-center justify-center filter drop-shadow-md bg-white h-20"> {/*logo container*/}
+            <a className="text-xl font-semibold" href="/">Search</a>
+          </div>
+          <div className="flex flex-col ml-4">
+            <a className="text-xl font-medium my-4" href="/" onClick={() => setTimeout(() => {setOpen(!open)}, 100)}>
+                About
+            </a>
+            <a className="text-xl font-normal my-4" href="/" onClick={() => setTimeout(() => {setOpen(!open)}, 100)}>
+                Contact
+            </a>
+          </div>  
+        </nav>
+        </span>
 
-        <nav className="flex justify-center items-center filter drop-shadow-md bg-white border-t">
-            <MobileNav open={open} setOpen={setOpen}/>
+        <nav className="flex justify-center items-center filter drop-shadow-md bg-white">
             <ul className="mt-3 mb-3 font-helvetica hidden regular:flex">
               <li> 
                 <NavLink to="/">
