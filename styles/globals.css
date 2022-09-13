@@ -9,6 +9,7 @@ body {
   box-sizing: border-box;
 }
 
+*
 main {
   padding: 2rem 20px;
   display: flex;
@@ -17,7 +18,12 @@ main {
   margin: 0 auto;
   max-width: 60ch;
 }
+*
 
 hr {
   width: 100%;
 }
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

@@ -1,6 +1,14 @@
+.merriweather{
+  font-family: 'Merriweather'
+}
+
+.helvetica{
+  font-family: 'Helvetica'
+}
+
 .title{
   text-align: center;
-  font-size: 2.7vw;
+  font-size: clamp(20px, 2.7vw, 2.7vw);
   font-family: 'Merriweather';
   padding-top: 1%;
   padding-bottom: 1%;
@@ -26,10 +34,10 @@
 
 .navbar a {
   float: left;
-  padding: 12px;
+  padding: 1%;
   color: rgb(60, 60, 60);
   text-decoration: none;
-  font-size: 17px;
+  font-size: clamp(13px, 1vw, 1vw);
   width: 16.6%; /* Four equal-width links. If you have two links, use 50%, and 33.33% for three links, etc.. */
   text-align: center; /* If you want the text to be centered */
 }
