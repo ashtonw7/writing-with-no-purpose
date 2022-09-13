@@ -10,11 +10,13 @@ module.exports = {
     extend: {
       fontFamily: {
         "merriweather": ["Merriweather"],
-        "helvetica": ["Helvetica", ...defaultTheme.fontFamily.sans],
+        "opensans": ["OpenSans"],
+        "garrmond": ["Garramond"],
       },
       screens: {
         'galaxyfold': '360px',
         'phone': '415px',
+        'verticalindex': '768px',
         'regular': '876px',
       },
       height: {
@@ -22,6 +24,8 @@ module.exports = {
         "20v": "20vw",
       },
   },
-  plugins: [],
+  plugins: [
+    require('@tailwindcss/typography'),
+  ],
   }
 }

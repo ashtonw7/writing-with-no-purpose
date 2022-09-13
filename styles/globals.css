@@ -11,12 +11,12 @@ body {
 
 *
 main {
-  padding: 2rem 20px;
+  padding: 2rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
   margin: 0 auto;
-  max-width: 60ch;
+  width: 70%;
 }
 *
 
@@ -26,7 +26,11 @@ hr {
 
 @font-face {
   font-family: "Merriweather";
-  src: url("../assets/fonts/Merriweather-Regular.ttf");
+  src: url("../public/assets/fonts/Merriweather-Regular.ttf");
+  font-family: "Garramond";
+  src: url("../public/assets/fonts/CormorantGaramond-Regular.ttf");
+  font-family: "OpenSans";
+  src: url("../public/assets/fonts/OpenSans-Regular.ttf")
 }
 
 @tailwind base;

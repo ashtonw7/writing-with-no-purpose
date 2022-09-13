@@ -1,8 +1,32 @@
 import Head from "next/head";
-import MainList from "@components/MainList"
-import CenteredContainer from "@components/CenteredContainer";
 
-export default function Home() {
+import matter from 'gray-matter';
+import Image from 'next/image';
+import Link from 'next/link';
+const fs = require('fs');
+
+import ArticleCard from '../components/ArticleCard'
+
+export async function getStaticProps() {
+  const files = fs.readdirSync('posts');
+  const posts = files.map((fileName) => {
+    const slug = fileName.replace('.md', '');
+    const readFile = fs.readFileSync(`posts/${fileName}`, 'utf-8');
+    const { data: frontmatter } = matter(readFile);
+    return {
+      slug,
+      frontmatter,
+    };
+  });
+
+  return {
+    props: {
+      posts,
+    },
+  };
+}
+
+export default function Home({ posts }) {
   return (
     <div className="container">
       <Head>
@@ -11,9 +35,9 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-
-      <main>
-      </main>
+      {posts.map(({ slug, frontmatter }) => (
+        <ArticleCard key={slug} slug={slug} title={frontmatter.title} author={frontmatter.author} quote={frontmatter.quote} img={frontmatter.image} date={frontmatter.date} />
+      ))}
     </div>
   );
 }

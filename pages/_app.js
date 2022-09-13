@@ -1,11 +1,18 @@
 import '@styles/globals.css'
-import Navbar from '@components/Navbar'
+import Header from '@components/Header'
+import Footer from '@components/Footer'
 
 function Application({ Component, pageProps }) {
   return(
     <>
-      <Navbar />
-      <Component {...pageProps} />
+      <div className="flex flex-col h-screen">
+        <Header />
+        <div className="flex grow max-w-5xl ml-auto mr-auto mt-10">
+            <Component {...pageProps} />
+        </div>
+        <Footer />
+      </div>
+
     </>
   ) 
 }
