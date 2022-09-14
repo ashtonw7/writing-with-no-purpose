@@ -1,4 +1,4 @@
-import Head from "next/head";
+import HeadTag from '@components/HeadTag';
 
 import matter from 'gray-matter';
 import Image from 'next/image';
@@ -28,12 +28,8 @@ export async function getStaticProps() {
 
 export default function Home({ posts }) {
   return (
-    <div className="container">
-      <Head>
-        <meta content="width=device-width, initial-scale=1" name="viewport" />
-        <title>Writing with No Purpose</title>
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
+    <div>
+      <HeadTag title="Writing with No Purpose" />
       <h1 className='hidden'>Writing with No Purpose</h1>
 
       {posts.map(({ slug, frontmatter }) => (

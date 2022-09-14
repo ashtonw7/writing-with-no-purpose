@@ -1,3 +1,5 @@
+import HeadTag from '@components/HeadTag';
+
 const fs = require('fs');
 import matter from 'gray-matter';
 import ReactMarkdown from 'react-markdown';
@@ -28,10 +30,11 @@ export async function getStaticProps({ params: { slug } }) {
 
 export default function PostPage({ frontmatter, content }) {
     return (
-      <div className='flex justify-center mb-10'>
+    <div className='flex justify-center mb-10'>
+        <HeadTag title={frontmatter.title + ' | Writing with No Purpose'} />
         <div className='items-center w-4/5'>
           <h1 className='text-5xl text-center mb-10'>{frontmatter.title}</h1>
-            <article className="article font-garramond text-xl verticalindex:text-2xl [&>*]:mb-5">
+            <article className="article font-garramond text-xl verticalindex:text-2xl [&>*]:mb-5 [&>*]:font-garramond">
               <ReactMarkdown>{content}</ReactMarkdown>
             </article>
         </div>

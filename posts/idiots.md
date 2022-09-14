@@ -1,7 +1,7 @@
 ---
 title: 'Idiots'
 author: 'Ashton Winters'
-quote: 'Sometimes when you talk to an idiot, you like to humor them a little bit, just to like, keep yourself entertained. But inside you’re laughing because what is this idiot even talking about? This happened to me a lot in college.'
+quote: 'Sometimes when you talk to an idiot, you like to humor them a little bit, just to like, keep yourself entertained.'
 metaTitle: ''
 metaDesc: ''
 date: '13 Sep 2022'
