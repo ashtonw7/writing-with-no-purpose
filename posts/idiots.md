@@ -23,4 +23,4 @@ I remember one time I went to go see the Tour De France, and I was looking at th
 
 And I was just smirking to myself, like, okay idiot. Because the bikes are going to hit me? Riggghht. Ever heard of something called being a pedestrian? The guys on the bikes couldn’t hit me because it would be illegal. What I didn’t consider was the fact that all the bikers were idiots too. And they all hit me and ran right over me. I think one idiot in the back even swerved a bit to hit my pinky.
 
-Yep, it seems like there’s more and more idiots out there every day. Just about everywhere you look you’re bound to see an idiot. Unless, of course, you’re looking in a mirror and you’re me.
+Yep, it seems like there are more and more idiots out there every day. Just about everywhere you look you’re bound to see an idiot. Unless, of course, you’re looking in a mirror and you’re me.

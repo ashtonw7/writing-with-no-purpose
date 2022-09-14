@@ -27,18 +27,21 @@ export default function Header() {
         
         {/* Mobile Navbar */}
         <span className={`content regular:hidden`}>
-          <nav className={`${open ? "content" : "hidden"}`}>
-            <div className="flex items-center justify-center filter drop-shadow-md bg-white h-20"> {/*logo container*/}
-              <Link className="text-xl font-semibold" href="/">Search</Link>
-            </div>
-            <div className="flex flex-col ml-4">
-              <Link className="text-xl font-medium my-4" href="/" >
-                  <span onClick={() => setTimeout(() => {setOpen(!open)}, 100)}>About</span>
-              </Link>
-              <Link className="text-xl font-normal my-4" href="/">
-              <span onClick={() => setTimeout(() => {setOpen(!open)}, 100)}>Contact</span>
-              </Link>
-            </div>  
+          <nav className={`${open ? "content" : "hidden"} border-b`}>
+              <div className="flex flex-col ml-4">
+                <Link href="/" >
+                    <span className="font-opensans text-gray-900 hover:text-black my-2" onClick={() => setTimeout(() => {setOpen(!open)}, 100)}>Search</span>
+                </Link>
+                <Link href="/" >
+                    <span className="font-opensans text-gray-900 hover:text-black my-2" onClick={() => setTimeout(() => {setOpen(!open)}, 100)}>Home</span>
+                </Link>
+                <Link href="/about">
+                <span className="font-opensans text-gray-900 hover:text-black my-2" onClick={() => setTimeout(() => {setOpen(!open)}, 100)}>About</span>
+                </Link>
+                <Link href="/">
+                <span className="font-opensans text-gray-900 hover:text-black my-2" onClick={() => setTimeout(() => {setOpen(!open)}, 100)}>Contact</span>
+                </Link>
+              </div>
           </nav>
         </span>
 

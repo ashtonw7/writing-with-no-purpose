@@ -81,17 +81,17 @@ export default function Home({ posts }) {
             </p>
 
             <p className="text-left italic font-garramond text-lg verticalindex:text-2xl mb-5">
-              Why doesn't the website look that good compared to some of my favorite websites that are so much cooler?
+              Why doesn't this website look that good compared to some of my favorite websites that are so much cooler?
             </p>
             <p className="text-left font-garramond text-lg verticalindex:text-2xl mb-10">
-              Because I'm not that big of a dork.
+              Because I'm not as big of a dork as the people who made those cool websites.
             </p>
 
             <p className="text-left italic font-garramond text-lg verticalindex:text-2xl mb-5">
               I am a person who is well-connected to other people who would pay you to write funny things. Is there a way I can contact you?
             </p>
             <p className="text-left font-garramond text-lg verticalindex:text-2xl mb-10">
-              Why hello there. Yes, go to the contact section and reach out to me. Also, this isn't really a frequently asked question, but I would like it to be one.
+              Hello there. Yes, go to the contact section and reach out to me. Also, this isn't really a frequently asked question, but I would like it to be one.
             </p>
 
             <p className="text-left italic font-garramond text-lg verticalindex:text-2xl mb-5">
