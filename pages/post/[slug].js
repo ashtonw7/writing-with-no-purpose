@@ -33,7 +33,7 @@ export default function PostPage({ frontmatter, content }) {
     <div className='flex justify-center mb-10'>
         <HeadTag title={frontmatter.title + ' | Writing with No Purpose'} />
         <div className='items-center w-4/5'>
-          <h1 className='text-5xl text-center mb-10'>{frontmatter.title}</h1>
+          <h1 className='text-4xl phone:text-6xl text-center mb-10'>{frontmatter.title}</h1>
             <article className="article font-garramond text-xl verticalindex:text-2xl [&>*]:mb-5 [&>*]:font-garramond">
               <ReactMarkdown>{content}</ReactMarkdown>
             </article>

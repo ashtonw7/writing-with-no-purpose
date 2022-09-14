@@ -1,7 +1,7 @@
 ---
 title: 'Gremlins'
 author: 'Ashton Winters'
-quote: 'Sometimes I wish gremlins were real, you know? '
+quote: 'Sometimes I wish gremlins were real, you know?,'
 metaTitle: ''
 metaDesc: ''
 date: '13 Sep 2022'

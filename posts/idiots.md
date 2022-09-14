@@ -1,7 +1,7 @@
 ---
 title: 'Idiots'
 author: 'Ashton Winters'
-quote: 'Sometimes when you talk to an idiot, you like to humor them a little bit, just to like, keep yourself entertained.'
+quote: 'Sometimes when you talk to an idiot, you like to humor them a little bit, just to like, keep yourself entertained. Sometimes when you talk to an idiot, you like to humor them a little bit, just to like, keep yourself entertained.'
 metaTitle: ''
 metaDesc: ''
 date: '13 Sep 2022'

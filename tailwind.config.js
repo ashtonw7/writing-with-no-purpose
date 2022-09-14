@@ -11,7 +11,7 @@ module.exports = {
       fontFamily: {
         "merriweather": ["Merriweather"],
         "opensans": ["OpenSans"],
-        "garrmond": ["Garramond"],
+        "garramond": ["Garramond"],
       },
       screens: {
         'galaxyfold': '360px',
