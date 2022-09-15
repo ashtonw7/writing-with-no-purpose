@@ -1,11 +1,12 @@
 import HeadTag from '@components/HeadTag';
 
 import PageTitle from '@components/PageTitle';
+import PostList from '@components/PostList';
 
 import matter from 'gray-matter';
 const fs = require('fs');
 
-import ArticleCard from '../components/ArticleCard'
+import { useEffect, useState } from 'react';
 
 export async function getStaticProps() {
     
@@ -32,13 +33,22 @@ export async function getStaticProps() {
 }
 
 export default function Home({ posts }) {
+  const [data, setData] = useState([]);
+  
+    useEffect(() => {
+      fetch('/api/getPosts')
+      .then(res => res.json())
+      .then(jokeJSON=> {
+        setData(jokeJSON)
+      })
+  }, []);
+  console.log(data)
+
   return (
     <div>
       <HeadTag title="Writing with No Purpose" />
       <PageTitle title="Posts" />
-      {posts.map(({ slug, frontmatter }) => (
-        <ArticleCard key={slug} slug={slug} title={frontmatter.title} author={frontmatter.author} quote={frontmatter.quote} img={frontmatter.image} date={frontmatter.date} />
-      ))}
+      <PostList posts={posts} />
     </div>
   );
 }
