@@ -1,7 +1,7 @@
 import '@styles/globals.css'
+import { Helmet } from 'react-helmet'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
-import { Helmet } from 'react-helmet'
 
 function Application({ Component, pageProps }) {
   return(
@@ -16,7 +16,6 @@ function Application({ Component, pageProps }) {
         </main>
         <Footer />
       </div>
-
     </>
   ) 
 }

@@ -1,13 +1,14 @@
 import HeadTag from '@components/HeadTag';
 
+import PageTitle from '@components/PageTitle';
+
 import matter from 'gray-matter';
-import Image from 'next/image';
-import Link from 'next/link';
 const fs = require('fs');
 
 import ArticleCard from '../components/ArticleCard'
 
 export async function getStaticProps() {
+    
   const files = fs.readdirSync('posts');
   const posts = files.map((fileName) => {
     const slug = fileName.replace('.md', '');
@@ -17,6 +18,10 @@ export async function getStaticProps() {
       slug,
       frontmatter,
     };
+  });
+
+  posts.sort(function(a,b){
+    return new Date(b.frontmatter.date) - new Date(a.frontmatter.date);
   });
 
   return {
@@ -30,8 +35,7 @@ export default function Home({ posts }) {
   return (
     <div>
       <HeadTag title="Writing with No Purpose" />
-      <h1 className='hidden'>Writing with No Purpose</h1>
-
+      <PageTitle title="Posts" />
       {posts.map(({ slug, frontmatter }) => (
         <ArticleCard key={slug} slug={slug} title={frontmatter.title} author={frontmatter.author} quote={frontmatter.quote} img={frontmatter.image} date={frontmatter.date} />
       ))}

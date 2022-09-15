@@ -1,10 +1,11 @@
 import HeadTag from "@components/HeadTag";
-
+import PageTitle
+ from "@components/PageTitle";
 export default function Home({ posts }) {
   return (
     <div>
       <HeadTag title="About | Writing with No Purpose" />
-        <h1 className="hidden">About</h1>
+        <PageTitle title="About" />
         <div className="flex justify-center">
           <div className="hidden item-center w-4/5 verticalindex:inline">
             <img className="object-scale-down w-2/5 h-2/5 float-left mr-5 verticalindex:h-auto regular:w-96" src={'/assets/images/portrait.png'} alt={'Ashton Winters'}/>
@@ -18,11 +19,11 @@ export default function Home({ posts }) {
                 and he always keeps it mind whenever he's writing any of these offbeat essays and stories.
               </p>
               <p className="mb-5 font-garramond text-lg verticalindex:text-2xl">
-                He's always enjoyed writing, and he really got into writing comedy while studying at Yale. He is very handsome and is very good at bragging about himself in third person but he's
+                He's always enjoyed writing, and he really got into writing comedy while studying at Yale. He is very funny, is very handsome and is very good at bragging about himself in third person but he's
                 getting kind of sick of it by this point to be honest so, strap on in, I'm getting personal and switching to first person now. 
               </p>
               <p className="mb-5 font-garramond text-lg verticalindex:text-2xl">  
-                Yep, I changed it up on you there right in the middle of a sentence.Well, more like the end of the sentence but you get the gist. I do things like that, because I, or he, to switch back to third person for a second just for fun, enjoy writing things are entertaining to me.
+                Yep, I changed it up on you there right in the middle of a sentence. Well, more like the end of the sentence but you get the gist. I do things like that, because I, or he, to switch back to third person for a second, enjoy writing things are entertaining to me.
                 Hopefully you find them entertaining as well.
               </p>
             </div>
@@ -43,7 +44,7 @@ export default function Home({ posts }) {
                 and he always keeps it mind whenever he's writing any of these offbeat essays and stories.
               </p>
               <p className="font-garramond text-xl mb-5 text-left">
-                He's always enjoyed writing, and he really got into writing comedy while studying at Yale. He is very handsome and is very good at bragging about himself in third person but he's
+                He's always enjoyed writing, and he really got into writing comedy while studying at Yale. He is very funny, is very handsome and is very good at bragging about himself in third person but he's
                 getting kind of sick of it by this point to be honest so, strap on in, I'm getting personal and switching to first person now. 
               </p>
               <p className="font-garramond text-xl mb-5 text-left">
@@ -53,7 +54,7 @@ export default function Home({ posts }) {
               <p className="font-garramond text-xl mb-5 text-left">
               </p>
               <p className="font-garramond text-xl mb-5 text-left">
-                Yep, I changed it up on you there right in the middle of a sentence.Well, more like the end of the sentence but you get the gist. I do things like that, because I, or he, to switch back to third person for a second just for fun, enjoy writing things are entertaining to me.
+                Yep, I changed it up on you there right in the middle of a sentence.Well, more like the end of the sentence but you get the gist. I do things like that, because I, or he, to switch back to third person for a second just for fun, enjoy writing things that are entertaining to me.
                 Hopefully you find them entertaining as well.
               </p>
             </div>

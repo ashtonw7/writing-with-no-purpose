@@ -4,7 +4,7 @@ author: 'Ashton Winters'
 quote: 'Sometimes when you talk to an idiot, you like to humor them a little bit, just to like, keep yourself entertained. Sometimes when you talk to an idiot, you like to humor them a little bit, just to like, keep yourself entertained.'
 metaTitle: ''
 metaDesc: ''
-date: '13 Sep 2022'
+date: '12 Sep 2022'
 ---
 
 There are a lot of idiots out there. When I turn on the news, or read a post online, or talk to an old person at a nursing home, I’m just like what is this idiot even trying to say?

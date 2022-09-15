@@ -20,7 +20,7 @@ export default function ArticleCard({ title, author, quote, img, date, slug }) {
         <Link href={`/post/${slug}`}>
             <a className="flex flex-col h-72 verticalindex:h-auto items-center verticalindex:items-stretch mb-5 border shadow-md md:flex-row verticalindex:w-4/5 mx-auto  bg-white hover:bg-gray-50">
                 
-            <img className="object-scale-down w-2/5 h-2/5 verticalindex:h-auto regular:w-48 mt-3 verticalindex:mb-3 verticalindex:ml-3 verticalindex:mr-5" src={imageLink} alt={slug}/>
+                <img className="object-scale-down w-2/5 h-2/5 verticalindex:h-auto regular:w-48 mt-3 verticalindex:mb-3 verticalindex:ml-3 verticalindex:mr-5" src={imageLink} alt={slug}/>
                 
                 <div className="text-center verticalindex:text-left verticalindex:w-full flex flex-col p-4">
                     {/* Bigger screen */}

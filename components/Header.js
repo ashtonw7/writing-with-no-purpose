@@ -1,10 +1,10 @@
 import Link from 'next/link'
 import Image from 'next/image'
 import castleLogo from 'public/assets/images/castle_logo.png'
-import { useState } from 'react'
+import { useEffect, useState } from 'react'
 
 export default function Header() {
-
+    
     const [open, setOpen] = useState(false)
 
     return (
@@ -30,16 +30,24 @@ export default function Header() {
           <nav className={`${open ? "content" : "hidden"} border-b`}>
               <div className="flex flex-col ml-4">
                 <Link href="/" >
-                    <span className="font-opensans text-gray-900 hover:text-black my-2" onClick={() => setTimeout(() => {setOpen(!open)}, 100)}>Search</span>
+                  <span className="font-opensans text-gray-900 hover:text-black my-2" onClick={() => setTimeout(() => {setOpen(!open)}, 100)}>
+                    Posts
+                  </span>
                 </Link>
-                <Link href="/" >
-                    <span className="font-opensans text-gray-900 hover:text-black my-2" onClick={() => setTimeout(() => {setOpen(!open)}, 100)}>Home</span>
+                <Link href="/randompost" >
+                  <span className="font-opensans text-gray-900 hover:text-black my-2" onClick={() => setTimeout(() => {setOpen(!open)}, 100)}>
+                    Random
+                  </span>
                 </Link>
                 <Link href="/about">
-                <span className="font-opensans text-gray-900 hover:text-black my-2" onClick={() => setTimeout(() => {setOpen(!open)}, 100)}>About</span>
+                  <span className="font-opensans text-gray-900 hover:text-black my-2" onClick={() => setTimeout(() => {setOpen(!open)}, 100)}>
+                    About
+                  </span>
                 </Link>
-                <Link href="/">
-                <span className="font-opensans text-gray-900 hover:text-black my-2" onClick={() => setTimeout(() => {setOpen(!open)}, 100)}>Contact</span>
+                <Link href="/contact">
+                  <span className="font-opensans text-gray-900 hover:text-black my-2" onClick={() => setTimeout(() => {setOpen(!open)}, 100)}>
+                    Contact
+                  </span>
                 </Link>
               </div>
           </nav>
@@ -49,12 +57,22 @@ export default function Header() {
             <ul className="mt-3 mb-5 space-x-20 items-center font-opensans hidden regular:flex">
               <li> 
                 <Link href="/">
-                    <a className="text-gray-900 hover:text-black">HOME</a>
+                    <a className="text-gray-900 hover:text-black">POSTS</a>
                 </Link>  
               </li>
 
               <li>
                 <Image height={40} width={40} src={castleLogo} alt={"castle"} />
+              </li>
+
+              <li>
+                <Link href={"/randompost"}>
+                  <a className="text-gray-900 hover:text-black">RANDOM</a>
+                </Link>
+              </li>
+
+              <li>
+                <Image height={40} width={40} src={castleLogo}/>
               </li>
 
               <li>
@@ -68,18 +86,8 @@ export default function Header() {
               </li>
 
               <li>
-                <Link href="/">
+                <Link href="/contact">
                   <a className="text-gray-900 hover:text-black">CONTACT</a>
-                </Link>
-              </li>
-
-              <li>
-                <Image height={40} width={40} src={castleLogo}/>
-              </li>
-
-              <li>
-                <Link href="/">
-                  <a className="text-gray-900 hover:text-black">SEARCH</a>
                 </Link>
               </li>                            
             </ul>
