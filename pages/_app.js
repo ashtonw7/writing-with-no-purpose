@@ -6,6 +6,10 @@ import Footer from '@components/Footer'
 function Application({ Component, pageProps }) {
   return(
     <>
+      {/* I use StatCrab to protect your privacy */}
+      <script src="https://app.statcrab.com/embed/crab.js" data-project="pMRmkD" defer></script>
+      {/* StatCrab.com */}
+
       <Helmet>
         <html lang="en" />
       </Helmet>
