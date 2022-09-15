@@ -33,8 +33,7 @@ export default function RandomPost({ randpost }) {
     
     return (
     <>
-        <HeadTag title={"Random Post | Writing with No Purpose"} />
-        <h1 className="text-4xl phone:text-6xl">Finding you a super cool post...</h1>
+        <HeadTag title={"Writing with No Purpose"} />
     </>
   )
 }
