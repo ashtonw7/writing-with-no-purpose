@@ -5,7 +5,9 @@ export default function Home({ posts, pageCount }) {
   const [postsInfo, setPostsInfo] = useState("")
 
   useEffect(() => {
-      fetch('/api/getPosts?page=1')
+      fetch('/api/getPosts?page=1',{
+        method: 'GET',
+      })
       .then(res => res.json())
       .then(postsJSON=> {
         setPostsInfo(postsJSON)
