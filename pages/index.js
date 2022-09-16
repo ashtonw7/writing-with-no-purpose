@@ -1,54 +1,27 @@
-import HeadTag from '@components/HeadTag';
-
-import PageTitle from '@components/PageTitle';
-import PostList from '@components/PostList';
-
-import matter from 'gray-matter';
-const fs = require('fs');
-
-import { useEffect, useState } from 'react';
+import PostsPage from "@components/PostsPages";
 
 export async function getStaticProps() {
-    
-  const files = fs.readdirSync('posts');
-  const posts = files.map((fileName) => {
-    const slug = fileName.replace('.md', '');
-    const readFile = fs.readFileSync(`posts/${fileName}`, 'utf-8');
-    const { data: frontmatter } = matter(readFile);
-    return {
-      slug,
-      frontmatter,
-    };
-  });
-
-  posts.sort(function(a,b){
-    return new Date(b.frontmatter.date) - new Date(a.frontmatter.date);
-  });
+  let postInfo = await fetch('http://localhost:8888/api/getPosts?page=1',{
+    method: 'GET',
+  }).then(res => res.json())
 
   return {
     props: {
-      posts,
+      posts: postInfo.posts,
+      currPage: postInfo.currentPage,
+      perPage: postInfo.perPage,
+      totalCount: postInfo.totalCount,
+      pageCount: postInfo.pageCount,
+      start: postInfo.start,
+      end: postInfo.end,
     },
   };
 }
 
-export default function Home({ posts }) {
-  const [data, setData] = useState([]);
-  
-    useEffect(() => {
-      fetch('/api/getPosts')
-      .then(res => res.json())
-      .then(jokeJSON=> {
-        setData(jokeJSON)
-      })
-  }, []);
-  console.log(data)
-
+export default function Home({ posts, pageCount }) {
   return (
-    <div>
-      <HeadTag title="Writing with No Purpose" />
-      <PageTitle title="Posts" />
-      <PostList posts={posts} />
-    </div>
+    <>
+      <PostsPage page={"1"} pageCount={pageCount} posts={posts} />
+    </>
   );
 }

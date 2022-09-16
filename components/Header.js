@@ -1,11 +1,24 @@
 import Link from 'next/link'
 import Image from 'next/image'
 import castleLogo from 'public/assets/images/castle_logo.png'
-import { useEffect, useState } from 'react'
+
+import { useState } from 'react'
+
+
+
+
 
 export default function Header() {
     
-    const [open, setOpen] = useState(false)
+    const [open, setOpen] = useState(false);
+
+    async function goToRandPage() {
+      let post = await fetch('http://localhost:8888/api/getRandomPost',{
+        method: 'GET',
+      }).then(res => res.json())
+    
+      await window.location.replace(post.link)
+    }
 
     return (
       <div>
@@ -16,7 +29,7 @@ export default function Header() {
               </a>
             </Link>
 
-            <div className="absolute right-0 regular:hidden" onClick={() => {
+            <div className="absolute right-1 regular:hidden" onClick={() => {
                   setOpen(!open);
               }}>
                   <svg className={`w-7 h-7 ${open ? "hidden" : ""}`} fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path strokeLinecap="square" strokeLinejoin="square" strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" /></svg>
@@ -30,22 +43,22 @@ export default function Header() {
           <nav className={`${open ? "content" : "hidden"} border-b`}>
               <div className="flex flex-col ml-4">
                 <Link href="/" >
-                  <span className="font-opensans text-gray-900 hover:text-black my-2" onClick={() => setTimeout(() => {setOpen(!open)}, 100)}>
+                  <span className="text-right mr-3 font-opensans text-gray-900 hover:text-black my-2" onClick={() => setTimeout(() => {setOpen(!open)}, 100)}>
                     Posts
                   </span>
                 </Link>
-                <Link href="/randompost" >
+                <a className="text-right mr-3 my-2" onClick={() => goToRandPage()} >
                   <span className="font-opensans text-gray-900 hover:text-black my-2" onClick={() => setTimeout(() => {setOpen(!open)}, 100)}>
                     Random
                   </span>
-                </Link>
+                </a>
                 <Link href="/about">
-                  <span className="font-opensans text-gray-900 hover:text-black my-2" onClick={() => setTimeout(() => {setOpen(!open)}, 100)}>
+                  <span className="text-right mr-3  font-opensans text-gray-900 hover:text-black my-2" onClick={() => setTimeout(() => {setOpen(!open)}, 100)}>
                     About
                   </span>
                 </Link>
                 <Link href="/contact">
-                  <span className="font-opensans text-gray-900 hover:text-black my-2" onClick={() => setTimeout(() => {setOpen(!open)}, 100)}>
+                  <span className="text-right mr-3  font-opensans text-gray-900 hover:text-black my-2" onClick={() => setTimeout(() => {setOpen(!open)}, 100)}>
                     Contact
                   </span>
                 </Link>
@@ -66,9 +79,7 @@ export default function Header() {
               </li>
 
               <li>
-                <Link href={"/randompost"}>
-                  <a className="text-gray-900 hover:text-black">RANDOM</a>
-                </Link>
+                  <a onClick={() => goToRandPage()} className="text-gray-900 hover:text-black">RANDOM</a>
               </li>
 
               <li>

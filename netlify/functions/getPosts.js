@@ -1,3 +1,42 @@
-export default function handler(req, res) {
-    res.status(200).json({ name: 'John Doe' })
+import matter from 'gray-matter';
+const fs = require('fs')
+
+export const handler = async (event, context) => {
+    const files = fs.readdirSync('posts');
+    const posts = files.map((fileName) => {
+      const slug = fileName.replace('.md', '');
+      const readFile = fs.readFileSync(`posts/${fileName}`, 'utf-8');
+      const { data: frontmatter } = matter(readFile);
+      return {
+        slug,
+        frontmatter,
+      };
+    });
+  
+    posts.sort(function(a,b){
+      return new Date(b.frontmatter.date) - new Date(a.frontmatter.date);
+    });
+
+    const page = event.queryStringParameters.page
+    const perPage = 1
+    const totalPosts = posts.length
+    const totalPages = totalPosts / perPage
+    const start = (page - 1) * perPage
+    let end = start + perPage
+    if (end > totalPosts) {
+        end = totalPosts
+    }
+    
+    return{
+        statusCode: 200,
+        body: JSON.stringify({
+            currentPage: page,
+            perPage: perPage,
+            totalCount: totalPosts,
+            pageCount: totalPages,
+            start: start,
+            end: end,
+            posts: posts.slice(start, end)
+        })
+    }
 }
