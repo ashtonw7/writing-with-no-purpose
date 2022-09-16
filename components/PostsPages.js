@@ -3,7 +3,6 @@ import PageTitle from "./PageTitle";
 import PostList from "./PostList";
 
 export default function PostsPages({ page, postsInfo }) {
-  console.log(postsInfo.posts)
   let posts = postsInfo.posts
   
   return (

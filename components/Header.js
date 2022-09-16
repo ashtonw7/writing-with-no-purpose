@@ -79,7 +79,7 @@ export default function Header() {
               </li>
 
               <li>
-                  <a onClick={() => goToRandPage()} className="text-gray-900 hover:text-black">RANDOM</a>
+                  <a onClick={() => goToRandPage()} className="text-gray-900 hover:text-black hover:cursor-pointer">RANDOM</a>
               </li>
 
               <li>
