@@ -1,27 +1,20 @@
 import PostsPage from "@components/PostsPages";
-
-export async function getStaticProps() {
-  let postInfo = await fetch('https://www.writingwithnopurpose.com/.netlify/functions/getPosts?page=1',{
-    method: 'GET',
-  }).then(res => res.json())
-
-  return {
-    props: {
-      posts: postInfo.posts,
-      currPage: postInfo.currentPage,
-      perPage: postInfo.perPage,
-      totalCount: postInfo.totalCount,
-      pageCount: postInfo.pageCount,
-      start: postInfo.start,
-      end: postInfo.end,
-    },
-  };
-}
+import { useEffect, useState } from "react";
 
 export default function Home({ posts, pageCount }) {
+  const [postsInfo, setPostsInfo] = useState("")
+
+  useEffect(() => {
+      fetch('/api/getPosts?page=1')
+      .then(res => res.json())
+      .then(postsJSON=> {
+        setPostsInfo(postsJSON)
+      })
+  }, []);
+
   return (
     <>
-      <PostsPage page={"1"} pageCount={pageCount} posts={posts} />
+      <PostsPage page={"1"} postsInfo={postsInfo} />
     </>
   );
 }

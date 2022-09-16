@@ -2,12 +2,15 @@ import HeadTag from "./HeadTag";
 import PageTitle from "./PageTitle";
 import PostList from "./PostList";
 
-export default function PostsPages({ page, pageCount, posts }) {
+export default function PostsPages({ page, postsInfo }) {
+  console.log(postsInfo.posts)
+  let posts = postsInfo.posts
+  
   return (
-    <div className='w-screen'>
+    <div className={`w-screen ${posts ? "content" : "hidden"}`}>
       <HeadTag title="Writing with No Purpose" />
       <PageTitle title="Posts" />
-      <PostList posts={posts} />
+      { posts ? <PostList posts={posts} /> : null }
     </div>
   );
 }
