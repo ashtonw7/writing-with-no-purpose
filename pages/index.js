@@ -1,7 +1,9 @@
-import PostsPage from "@components/PostsPages";
+import PostsPage from "@components/PostsPage";
+import PageNumbers from "@components/PageNumbers";
 import { useEffect, useState } from "react";
+import Router from "next/router";
 
-export default function Home({ posts, pageCount }) {
+export default function Home() {
   const [postsInfo, setPostsInfo] = useState("")
 
   useEffect(() => {
@@ -16,7 +18,7 @@ export default function Home({ posts, pageCount }) {
 
   return (
     <>
-      <PostsPage page={"1"} postsInfo={postsInfo} />
+      <PostsPage postsInfo={postsInfo} />
     </>
   );
 }
