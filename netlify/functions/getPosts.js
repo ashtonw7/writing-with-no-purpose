@@ -2,10 +2,10 @@ import matter from 'gray-matter';
 const fs = require('fs')
 
 export const handler = async (event, context) => {
-    const files = fs.readdirSync('posts');
+    const files = fs.readdirSync('./netlify/functions/posts');
     let posts = files.map((fileName) => {
       const slug = fileName.replace('.md', '');
-      const readFile = fs.readFileSync(`posts/${fileName}`, 'utf-8');
+      const readFile = fs.readFileSync(`./netlify/functions/posts/${fileName}`, 'utf-8');
       const { data: frontmatter } = matter(readFile);
       return {
         slug,

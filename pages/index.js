@@ -1,7 +1,7 @@
 import PostsPage from "@components/PostsPages";
 import { useEffect, useState } from "react";
 
-export default function Home() {
+export default function Home({ posts, pageCount }) {
   const [postsInfo, setPostsInfo] = useState("")
 
   useEffect(() => {
@@ -12,11 +12,9 @@ export default function Home() {
       })
   }, []);
 
-  console.log(postsInfo)
-
   return (
     <>
-      { postsInfo ? <PostsPage page={"1"} postsInfo={postsInfo} /> : null }
+      <PostsPage page={"1"} postsInfo={postsInfo} />
     </>
   );
 }
