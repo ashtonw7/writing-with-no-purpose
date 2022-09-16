@@ -29,6 +29,9 @@ export const handler = async (event, context) => {
     
     return{
         statusCode: 200,
+        headers: {
+            "Access-Control-Allow-Origin": "https://www.writingwithnopurpose.com",
+          },
         body: JSON.stringify({
             currentPage: page,
             perPage: perPage,
