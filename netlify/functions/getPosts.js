@@ -3,13 +3,13 @@ const fs = require('fs')
 
 export const handler = async (event, context) => {
     const files = fs.readdirSync('posts');
-    const posts = files.map((fileName) => {
+    let posts = files.map((fileName) => {
       const slug = fileName.replace('.md', '');
       const readFile = fs.readFileSync(`posts/${fileName}`, 'utf-8');
       const { data: frontmatter } = matter(readFile);
       return {
         slug,
-        frontmatter,
+        frontmatter
       };
     });
   
