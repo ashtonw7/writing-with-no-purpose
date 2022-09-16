@@ -5,6 +5,8 @@
 [functions]
   node_bundler = "esbuild"
 
+  included_files = ["posts/**"]
+
 [[plugins]]
   package = "netlify-plugin-cypress"
 
