@@ -1,7 +1,7 @@
 import PostsPage from "@components/PostsPages";
 
 export async function getStaticProps() {
-  let postInfo = await fetch('/api/getPosts?page=1',{
+  let postInfo = await fetch('https://www.writingwithnopurpose.com/.netlify/functions/getPosts?page=1',{
     method: 'GET',
   }).then(res => res.json())
 
