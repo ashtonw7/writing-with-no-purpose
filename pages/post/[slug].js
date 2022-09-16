@@ -5,7 +5,7 @@ import matter from 'gray-matter';
 import ReactMarkdown from 'react-markdown';
 
 export async function getStaticPaths() {
-    const files = fs.readdirSync('/netlify/functions/posts');
+    const files = fs.readdirSync('posts');
     const paths = files.map((fileName) => ({
         params: {
           slug: fileName.replace('.md', ''),
