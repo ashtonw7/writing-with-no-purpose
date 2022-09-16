@@ -1,7 +1,7 @@
 import PostsPage from "@components/PostsPages";
 
 export async function getStaticProps() {
-  let postInfo = await fetch('http://localhost:8888/api/getPosts?page=1',{
+  let postInfo = await fetch('http://www.writingwithnopurpose.com/api/getPosts?page=1',{
     method: 'GET',
   }).then(res => res.json())
 
