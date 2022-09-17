@@ -18,7 +18,7 @@ export const handler = async (event, context) => {
     });
 
     const page = event.queryStringParameters.page
-    const perPage = 5
+    const perPage = 1
     const totalPosts = posts.length
     const totalPages = totalPosts / perPage
     const start = (page - 1) * perPage
