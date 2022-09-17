@@ -59,7 +59,7 @@ export default function Header() {
         <nav className="flex justify-center items-center filter drop-shadow-md bg-white">
             <ul className="mt-3 mb-5 space-x-20 items-center font-opensans hidden regular:flex">
               <li>
-                <img height={40} width={40} src={castleLogo}/>
+                <Image height={40} width={40} src={castleLogo}/>
               </li>
               
               <li> 
