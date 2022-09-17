@@ -1,7 +1,6 @@
 import ArticleCard from "@components/ArticleCard"
 
 export default function PostList({ posts }) {
-
     return (
         <>
             {posts.map(({ slug, frontmatter }) => (

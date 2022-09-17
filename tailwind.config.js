@@ -18,6 +18,7 @@ module.exports = {
         'phone': '415px',
         'verticalindex': '768px',
         'regular': '876px',
+        'crunchycards': '1040px'
       },
       height: {
         "10v": "10vw",
