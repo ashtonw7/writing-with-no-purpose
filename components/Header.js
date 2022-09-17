@@ -12,14 +12,6 @@ export default function Header() {
     
     const [open, setOpen] = useState(false);
 
-    async function goToRandPage() {
-      let post = await fetch('http://localhost:8888/api/getRandomPost',{
-        method: 'GET',
-      }).then(res => res.json())
-    
-      await window.location.replace(post.link)
-    }
-
     return (
       <div>
         <nav className='flex items-center regular:h-20 border-b border-b-gray-200'>            
