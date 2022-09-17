@@ -1,27 +1,82 @@
 import PostsPage from "@components/PostsPage";
-import { useEffect, useState } from "react";
+import matter from "gray-matter";
+const fs = require('fs');
 
-export const getServerSideProps = async (context) => {
-    return{ 
-        props: {
-             pageNum: context.query.pageNum,
-        } 
+export async function getStaticPaths() {
+  const files = fs.readdirSync('posts');
+  let posts = files.map((fileName) => {
+    return {
+      fileName
     };
-};
+  });
+  
+  let perPage = 5;
+  let totalPosts = posts.length;
+  
+  let pageCount = Math.ceil(totalPosts / perPage);
+  let pages = [];
 
-export default function Page({ pageNum }) {
-  const [postsInfo, setPostsInfo] = useState("")
+  for(let i=0; i < pageCount; i++){
+    pages.push(i + 1);
+  }
 
-  useEffect(() => {
-    fetch(`/api/getPosts?page=${pageNum}` ,{
-        method: 'GET',
-    })
-    .then(res => res.json())
-    .then(postsJSON=> {
-        setPostsInfo(postsJSON)
-    })
-  }, []);
+  const paths = pages.map((num) => ({
+      params: {
+        pageNum: num.toString(),
+      },
+  }));
+  
+  return {
+      paths,
+      fallback: false,
+  };
+}
 
+export async function getStaticProps({ params: { pageNum } }) {
+  const fs = require('fs');
+  const files = fs.readdirSync('posts');
+  let posts = files.map((fileName) => {
+    const slug = fileName.replace('.md', '');
+    const readFile = fs.readFileSync(`posts/${fileName}`, 'utf-8');
+    const { data: frontmatter } = matter(readFile);
+    return {
+      slug,
+      frontmatter
+    };
+  });
+
+  let perPage = 5;
+  let totalPosts = posts.length;
+  const totalPages = totalPosts / perPage
+  const start = (pageNum - 1) * perPage
+  let end = start + perPage
+  if (end > totalPosts) {
+      end = totalPosts
+  }
+
+  posts.sort(function(a,b){
+    return new Date(b.frontmatter.date) - new Date(a.frontmatter.date);
+  });
+
+  posts = posts.slice(start, end)
+
+  let postsInfo = {
+      currentPage: "1",
+      pageCount: Math.ceil(totalPosts / perPage),
+      perPage: perPage,
+      posts: posts,
+      totalCount: totalPosts
+  };
+
+  return {
+    props: {
+      postsInfo,
+    },
+  };
+}
+
+
+export default function PostPage({ postsInfo }) {
   return (
     <>
       { <PostsPage postsInfo={postsInfo} /> }
