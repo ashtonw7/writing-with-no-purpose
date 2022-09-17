@@ -59,7 +59,7 @@ export default function Header() {
         <nav className="flex justify-center items-center filter drop-shadow-md bg-white">
             <ul className="mt-3 mb-5 space-x-20 items-center font-opensans hidden regular:flex">
               <li>
-                <Image height={40} width={40} src={castleLogo}/>
+                <img height={40} width={40} src={castleLogo}/>
               </li>
               
               <li> 
@@ -69,7 +69,7 @@ export default function Header() {
               </li>
 
               <li>
-                <Image height={40} width={40} src={castleLogo}/>
+                <img height={40} width={40} src={castleLogo}/>
               </li>
 
               <li>
@@ -79,7 +79,7 @@ export default function Header() {
               </li>
 
               <li>
-                <Image height={40} width={40} src={castleLogo}/>
+                <img height={40} width={40} src={castleLogo}/>
               </li>
 
               <li>
@@ -89,7 +89,7 @@ export default function Header() {
               </li>
 
               <li>
-                <Image height={40} width={40} src={castleLogo}/>
+                <img height={40} width={40} src={castleLogo}/>
               </li>                            
             </ul>
         </nav>
