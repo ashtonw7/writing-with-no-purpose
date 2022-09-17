@@ -1,17 +1,10 @@
 import Link from 'next/link'
-import Image from 'next/image'
-import castleLogo from 'public/assets/images/castle_logo.png'
-
 import { useState } from 'react'
-
-
-
-
 
 export default function Header() {
     
     const [open, setOpen] = useState(false);
-
+    let imageLink = '/assets/images/' + 'castle_logo' + '.png';
     return (
       <div>
         <nav className='flex items-center regular:h-20 border-b border-b-gray-200'>            
@@ -59,7 +52,7 @@ export default function Header() {
         <nav className="flex justify-center items-center filter drop-shadow-md bg-white">
             <ul className="mt-3 mb-5 space-x-20 items-center font-opensans hidden regular:flex">
               <li>
-                <img height={40} width={40} src={castleLogo}/>
+                <img height={40} width={40} src={imageLink} alt="castle" />
               </li>
               
               <li> 
@@ -69,7 +62,7 @@ export default function Header() {
               </li>
 
               <li>
-                <img height={40} width={40} src={castleLogo}/>
+                <img height={40} width={40} src={imageLink} alt="castle" />
               </li>
 
               <li>
@@ -79,7 +72,7 @@ export default function Header() {
               </li>
 
               <li>
-                <img height={40} width={40} src={castleLogo}/>
+                <img height={40} width={40} src={imageLink} alt="castle" />
               </li>
 
               <li>
@@ -89,7 +82,7 @@ export default function Header() {
               </li>
 
               <li>
-                <img height={40} width={40} src={castleLogo}/>
+                <img height={40} width={40} src={imageLink} alt="castle" />
               </li>                            
             </ul>
         </nav>

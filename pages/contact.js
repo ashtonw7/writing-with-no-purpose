@@ -1,6 +1,5 @@
 import HeadTag from "@components/HeadTag";
 import PageTitle from "@components/PageTitle";
-import Link from "next/link";
 
 export default function Contact() {
   return (
