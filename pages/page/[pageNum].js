@@ -10,7 +10,7 @@ export async function getStaticPaths() {
     };
   });
   
-  let perPage = 5;
+  let perPage = 1;
   let totalPosts = posts.length;
   
   let pageCount = Math.ceil(totalPosts / perPage);
@@ -45,7 +45,7 @@ export async function getStaticProps({ params: { pageNum } }) {
     };
   });
 
-  let perPage = 5;
+  let perPage = 1;
   let totalPosts = posts.length;
   const totalPages = totalPosts / perPage
   const start = (pageNum - 1) * perPage
@@ -61,7 +61,7 @@ export async function getStaticProps({ params: { pageNum } }) {
   posts = posts.slice(start, end)
 
   let postsInfo = {
-      currentPage: "1",
+      currentPage: pageNum,
       pageCount: Math.ceil(totalPosts / perPage),
       perPage: perPage,
       posts: posts,

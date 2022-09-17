@@ -18,7 +18,8 @@ module.exports = {
         'phone': '415px',
         'verticalindex': '768px',
         'regular': '876px',
-        'crunchycards': '1040px'
+        'crunchycards': '1040px',
+        'centerfooter': '1800px',
       },
       height: {
         "10v": "10vw",
