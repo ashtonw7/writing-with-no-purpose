@@ -1,5 +1,6 @@
 ---
 title: 'Gremlins'
+slug: 'gremlins'
 author: 'Ashton Winters'
 quote: 'Sometimes I wish gremlins were real, you know? I think it’d be really cool to have a little guy around the house, just kind of scurrying about and doing little tasks. Most of the tasks would be chores it’d do for me, because it’s a servant gremlin.'
 metaTitle: ''

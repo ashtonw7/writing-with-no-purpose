@@ -1,5 +1,6 @@
 ---
 title: 'I’m Honestly Fine That Dodo Birds Are Extinct'
+slug: 'dodo-birds'
 author: 'Ashton Winters'
 quote: 'I wonder why dodo birds became so popular in the public eye. Sometimes I sit around wondering that for an entire afternoon. I can only come to one conclusion, and that’s that there weren’t too many funny things going on back in dodo-times.'
 metaTitle: ''

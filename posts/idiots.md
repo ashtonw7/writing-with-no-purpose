@@ -1,5 +1,6 @@
 ---
 title: 'Idiots'
+slug: 'idiots'
 author: 'Ashton Winters'
 quote: 'Sometimes when you talk to an idiot, you like to humor them a little bit, just to like, keep yourself entertained. Sometimes when you talk to an idiot, you like to humor them a little bit, just to like, keep yourself entertained.'
 metaTitle: ''

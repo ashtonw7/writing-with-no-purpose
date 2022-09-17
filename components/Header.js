@@ -24,7 +24,7 @@ export default function Header() {
       <div>
         <nav className='flex items-center regular:h-20 border-b border-b-gray-200'>            
             <Link  href="/">
-              <a className="w-full text-right galaxyfold:text-center galaxyfold:ml-0 font-merriweather text-l regular:text-6xl galaxyfold:text-xl">
+              <a className="w-full text-right galaxyfold:text-center mr-1.5 galaxyfold:mr-0 font-merriweather text-l regular:text-6xl galaxyfold:text-xl">
                 WRITING WITH NO PURPOSE
               </a>
             </Link>

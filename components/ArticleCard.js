@@ -1,8 +1,8 @@
 import Link from "next/link"
 import Image from "next/image"
 
-export default function ArticleCard({ title, author, quote, img, date, slug }) {
-    let imageLink = img
+export default function ArticleCard({ title, author, quote, date, slug }) {
+    let imageLink;
     imageLink = '/assets/images/' + slug + '.png';
 
     let smallquote = quote.split(/\s+/).slice(0, 8).join(' ');
@@ -23,9 +23,9 @@ export default function ArticleCard({ title, author, quote, img, date, slug }) {
 
     return (
         <Link href={`/post/${slug}`}>
-            <a className="flex flex-col h-72 max-w-[288px] verticalindex:max-w-none verticalindex:h-auto items-center verticalindex:items-stretch mb-5 border shadow-md md:flex-row verticalindex:w-4/5 mx-auto  bg-white hover:bg-gray-50">
+            <a className="flex flex-col h-[18.4rem] max-w-[288px] verticalindex:max-w-none verticalindex:h-auto items-center verticalindex:items-stretch mb-5 border shadow-md md:flex-row verticalindex:w-4/5 mx-auto  bg-white hover:bg-gray-50">
                 
-                <img className="object-scale-down verticalindex:min-h-[272px] w-2/5 h-2/5 verticalindex:h-auto regular:w-48 mt-3 verticalindex:mb-3 verticalindex:ml-3 verticalindex:mr-5" src={imageLink} alt={slug}/>
+                <img className="object-scale-down verticalindex:min-h-[275px] w-2/5 h-2/5 verticalindex:h-auto regular:w-48 mt-3 verticalindex:mb-3 verticalindex:ml-3 verticalindex:mr-5" src={imageLink} alt={slug}/>
                 
                 <div className="text-center verticalindex:text-left verticalindex:w-full flex flex-col p-4">
                     {/* Bigger screen */}

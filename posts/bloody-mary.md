@@ -1,5 +1,6 @@
 ---
 title: '7 People to Summon Out of a Mirror Instead of Bloody Mary'
+slug: 'bloody-mary'
 author: 'Ashton Winters'
 quote: 'It turns out dying in Scandinavia puts you behind the mirror with all the rest of these guys I’ve mentioned, so if you ever want to talk to one of those vikings from history, just flip the lights off and call one out.'
 metaTitle: ''
