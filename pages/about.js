@@ -47,12 +47,7 @@ export default function Home({ posts }) {
                 He's always enjoyed writing, and he really got into writing comedy while studying at Yale. He is very funny, is very handsome and is very good at bragging about himself in third person but he's
                 getting kind of sick of it by this point to be honest so, strap on in, I'm getting personal and switching to first person now. 
               </p>
-              <p className="font-garramond text-xl mb-5 text-left">
-                He's always enjoyed writing, and he really got into writing comedy while studying at Yale. He is very handsome and is very good at bragging about himself in third person but he's
-                getting kind of sick of it by this point to be honest so, strap on in, I'm getting personal and switching to first person now. 
-              </p>
-              <p className="font-garramond text-xl mb-5 text-left">
-              </p>
+
               <p className="font-garramond text-xl mb-5 text-left">
                 Yep, I changed it up on you there right in the middle of a sentence.Well, more like the end of the sentence but you get the gist. I do things like that, because I, or he, to switch back to third person for a second just for fun, enjoy writing things that are entertaining to me.
                 Hopefully you find them entertaining as well.
