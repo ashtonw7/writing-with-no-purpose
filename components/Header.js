@@ -7,7 +7,7 @@ export default function Header() {
     let imageLink = '/assets/images/' + 'castle_logo' + '.png';
     return (
       <div>
-        <nav className='flex items-center regular:h-20 border-b border-b-gray-200'>            
+        <div className='flex items-center regular:h-20 border-b border-b-gray-200'>            
             <Link  href="/">
               <a className="w-full text-right galaxyfold:text-center mr-1.5 galaxyfold:mr-0 font-merriweather text-l regular:text-6xl galaxyfold:text-xl">
                 WRITING WITH NO PURPOSE
@@ -21,7 +21,7 @@ export default function Header() {
                   <svg className={`w-7 h-7 ${open ? "" : "hidden"}`} fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path strokeLinecap="square" strokeLinejoin="square" strokeWidth={2} d="M6 18L18 6M6 6l12 12" /></svg>
             </div>
 
-        </nav>
+        </div>
         
         {/* Mobile Navbar */}
         <span className={`content regular:hidden`}>

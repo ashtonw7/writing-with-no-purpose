@@ -1,5 +1,6 @@
 import PostsPage from "@components/PostsPage";
 import matter from "gray-matter";
+import HeadTag from "@components/HeadTag";
 const fs = require('fs');
 
 export async function getStaticPaths() {
@@ -10,7 +11,7 @@ export async function getStaticPaths() {
     };
   });
   
-  let perPage = 1;
+  let perPage = 5;
   let totalPosts = posts.length;
   
   let pageCount = Math.ceil(totalPosts / perPage);
@@ -45,7 +46,7 @@ export async function getStaticProps({ params: { pageNum } }) {
     };
   });
 
-  let perPage = 1;
+  let perPage = 5;
   let totalPosts = posts.length;
   const totalPages = totalPosts / perPage
   const start = (pageNum - 1) * perPage
@@ -79,6 +80,7 @@ export async function getStaticProps({ params: { pageNum } }) {
 export default function PostPage({ postsInfo }) {
   return (
     <>
+      <HeadTag title={"Page " + postsInfo.currentPage + " | Writing with No Purpose"}/>
       { <PostsPage postsInfo={postsInfo} /> }
     </>
   );

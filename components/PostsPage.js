@@ -1,4 +1,3 @@
-import HeadTag from "./HeadTag";
 import PageTitle from "./PageTitle";
 import PageNumbers from "./PageNumbers";
 import PostList from "./PostList";
@@ -7,9 +6,9 @@ export default function PostsPages({ postsInfo }) {
   let posts = postsInfo.posts;
   let pageCount = postsInfo.pageCount;
   let currPage = postsInfo.currentPage;
+  
   return (
     <div className={`w-screen h-full flex flex-col`}>
-      <HeadTag title="Writing with No Purpose" />
       <PageTitle title="Posts" />
       { posts ? <PostList posts={posts} /> : null }
       

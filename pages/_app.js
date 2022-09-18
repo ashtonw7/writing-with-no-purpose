@@ -8,6 +8,8 @@ function Application({ Component, pageProps }) {
     <>
       <Helmet>
         <html lang="en" />
+        <meta content="width=device-width, initial-scale=1" name="viewport" />
+        <link rel="icon" href="/favicon.ico" />
       </Helmet>
       <div className="flex flex-col h-screen">
         <Header />

@@ -1,4 +1,6 @@
 import PostsPage from "@components/PostsPage";
+import HeadTag from "@components/HeadTag";
+import ArticleCard from "@components/ArticleCard";
 
 import matter from "gray-matter";
 
@@ -44,6 +46,7 @@ export default function Home({ posts, totalPosts, perPage }) {
 
   return (
     <>
+      <HeadTag title="Writing with No Purpose" />
       <PostsPage postsInfo={postsInfo} />
     </>
   );

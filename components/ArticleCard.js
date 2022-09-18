@@ -29,13 +29,13 @@ export default function ArticleCard({ title, author, quote, date, slug }) {
                 <div className="text-center verticalindex:text-left verticalindex:w-full flex flex-col p-4">
                     {/* Bigger screen */}
                     <div className="hidden verticalindex:flex flex-col crunchycards:flex-row justify-between w-full">
-                        <h5 className="mb-3 font-merriweather text-5xl max-w-md">{title}</h5>
+                        <h2 className="mb-3 font-merriweather text-5xl max-w-md">{title}</h2>
                         <span className="text-gray-500 mb-5 crunchycards:mb-0">{date}</span>
                     </div>
 
                     {/* Mobile */}
                     <div className="mb-3 verticalindex:hidden">
-                        <h5 className={`font-garramond ${textSize}`}>{title}</h5>
+                        <h2 className={`font-garramond ${textSize}`}>{title}</h2>
                         <span className="text-gray-500">{date}</span>
                     </div>
                     
