@@ -16,6 +16,7 @@ module.exports = {
       screens: {
         'galaxyfold': '360px',
         'phone': '415px',
+        'condenseheader': '460px',
         'verticalindex': '768px',
         'regular': '876px',
         'crunchycards': '1040px',

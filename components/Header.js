@@ -7,10 +7,17 @@ export default function Header() {
     let imageLink = '/assets/images/' + 'castle_logo' + '.png';
     return (
       <div>
-        <div className='flex items-center regular:h-20 border-b border-b-gray-200'>            
+        <div className='flex justify-center items-center h-auto regular:h-[8rem] border-b border-b-gray-200'>            
             <Link  href="/">
-              <a className="w-full text-right galaxyfold:text-center mr-1.5 galaxyfold:mr-0 font-merriweather text-l regular:text-6xl galaxyfold:text-xl">
-                WRITING WITH NO PURPOSE
+              <a className="w-full galaxy-fold:w-auto text-right galaxyfold:text-center mr-2 galaxyfold:mr-0">
+                  <div className="flex flex-rows" />
+                    <div className='font-merriweather text-2xl phone:text-4xl vertical-index:text-5xl regular:text-6xl'>
+                      FAT PUPPET
+                    </div>
+                    <div className='font-opensans text-gray-500 text-sm phone:tracking-[0.3em] condenseheader:tracking-[0.5em] verticalindex:tracking-[0.8em]'>
+                      WRITING WITH NO PURPOSE
+                    </div>
+                  <div/>
               </a>
             </Link>
 
