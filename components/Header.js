@@ -7,14 +7,14 @@ export default function Header() {
     let imageLink = '/assets/images/' + 'castle_logo' + '.png';
     return (
       <div>
-        <div className='flex justify-center items-center h-auto regular:h-[8rem] border-b border-b-gray-200'>            
+        <div className='flex justify-center items-center h-auto regular:h-[8rem] mb-3 galaxyfold:my-3 regular:my-5'>            
             <Link  href="/">
-              <a className="w-full galaxy-fold:w-auto text-right galaxyfold:text-center mr-2 galaxyfold:mr-0">
+              <a className="galaxy-fold:w-auto text-center">
                   <div className="flex flex-rows" />
-                    <div className='font-merriweather text-2xl phone:text-4xl vertical-index:text-5xl regular:text-6xl'>
+                    <div className='font-dominique verticalindex:text-[3rem] text-[2.5rem] galaxyfold:text-5xl verticalindex:text-8xl -mb-2 regular:mb-0'>
                       FAT PUPPET
                     </div>
-                    <div className='font-opensans text-gray-500 text-sm phone:tracking-[0.3em] condenseheader:tracking-[0.5em] verticalindex:tracking-[0.8em]'>
+                    <div className='verticalindex:tracking-[0.35em] font-merriweatherextrabold font-bold text-gray-800 text-[1em] text-xs galaxyfold:text-sm verticalindex:text-lg'>
                       WRITING WITH NO PURPOSE
                     </div>
                   <div/>
@@ -56,7 +56,7 @@ export default function Header() {
           </nav>
         </span>
 
-        <nav className="flex justify-center items-center filter drop-shadow-md bg-white">
+        <nav className="flex justify-center items-center filter drop-shadow-md bg-white border-t border-t-gray-200">
             <ul className="mt-3 mb-5 space-x-20 items-center font-opensans hidden regular:flex">
               <li>
                 <img height={40} width={40} src={imageLink} alt="castle" />

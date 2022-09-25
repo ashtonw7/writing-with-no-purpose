@@ -14,12 +14,32 @@ hr {
 }
 
 @font-face {
+  font-family: "Dominique";
+  src: url("../public/assets/fonts/Dominique.otf");
+}
+@font-face{
   font-family: "Merriweather";
   src: url("../public/assets/fonts/Merriweather-Regular.ttf");
+}
+@font-face{  
   font-family: "Garramond";
   src: url("../public/assets/fonts/CormorantGaramond-Regular.ttf");
+}
+@font-face{  
   font-family: "OpenSans";
-  src: url("../public/assets/fonts/OpenSans-Regular.ttf")
+  src: url("../public/assets/fonts/OpenSans-Regular.ttf");
+}
+@font-face{  
+  font-family: "Merriweather Bold";
+  src: url("../public/assets/fonts/MerriweatherSans-Bold.ttf");
+}
+@font-face{  
+  font-family: "Merriweather Extra Bold";
+  src: url("../public/assets/fonts/MerriweatherSans-ExtraBold.ttf")
+}
+@font-face {
+  font-family: "Merriweather Sans";
+  src: url("../public/assets/fonts/MerriweatherSans-VariableFont_wght.ttf");
 }
 
 @tailwind base;

@@ -10,15 +10,19 @@ module.exports = {
     extend: {
       fontFamily: {
         "merriweather": ["Merriweather"],
+        "merriweathersans": ["Merriweather Sans"],
+        "merriweatherbold": ["Merriweather Bold"],
+        "merriweatherextrabold": ["Merriweather Extra Bold"],
         "opensans": ["OpenSans"],
         "garramond": ["Garramond"],
+        "dominique": ["Dominique"],
       },
       screens: {
         'galaxyfold': '360px',
         'phone': '415px',
         'condenseheader': '460px',
         'verticalindex': '768px',
-        'regular': '876px',
+        'regular': '875px',
         'crunchycards': '1040px',
         'centerfooter': '1800px',
       },

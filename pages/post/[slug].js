@@ -81,12 +81,12 @@ export default function PostPage({ frontmatter, content, randFiles }) {
         <div className='flex justify-center mb-5'>
             <HeadTag title={frontmatter.title + ' | Writing with No Purpose'} />
             <div className='items-center w-4/5'>
-              <div className='flex justify-center'>
-                <img className="object-scale-down justify-center h-16 phone:h-48" src={'/assets/images/' + frontmatter.slug + ".png"} alt={frontmatter.slug}/>
+              <div className='flex justify-center mt-5'>
+                <img className="object-scale-down justify-center h-[5rem] phone:h-48" src={'/assets/images/' + frontmatter.slug + ".png"} alt={frontmatter.slug}/>
               </div>
-              <h1 className='text-4xl phone:text-6xl font-garramond text-center'>{frontmatter.title}</h1>
-              <p className='phone:text-xl font-garramond text-center mb-10 text-gray-500'>{frontmatter.date}</p>
-              <article className="article font-garramond text-xl verticalindex:text-2xl [&>*]:mb-5 [&>*]:font-garramond">
+              <h1 className='text-4xl phone:text-6xl font-dominique text-center'>{frontmatter.title.toLowerCase()}</h1>
+              <p className='phone:text-xl text-center mb-10 text-gray-500'>{frontmatter.date}</p>
+              <article className="article text-xl verticalindex:text-2xl [&>*]:mb-5">
                 <ReactMarkdown>{content}</ReactMarkdown>
               </article>
             </div>

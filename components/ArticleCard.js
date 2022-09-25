@@ -17,8 +17,10 @@ export default function ArticleCard({ title, author, quote, date, slug }) {
 
     let textSize = 'text-5xl'
     if(title.length > 30){
-        textSize = 'text-lg'
+        textSize = 'text-xl'
     }
+
+    title = title.toLowerCase();
 
     return (
         <Link href={`/post/${slug}`}>
@@ -29,18 +31,18 @@ export default function ArticleCard({ title, author, quote, date, slug }) {
                 <div className="text-center verticalindex:text-left verticalindex:w-full flex flex-col p-4">
                     {/* Bigger screen */}
                     <div className="hidden verticalindex:flex flex-col crunchycards:flex-row justify-between w-full">
-                        <h2 className="mb-3 font-merriweather text-5xl max-w-md">{title}</h2>
+                        <h2 className="mb-3 font-dominique text-5xl max-w-md">{title}</h2>
                         <span className="text-gray-500 mb-5 crunchycards:mb-0">{date}</span>
                     </div>
 
                     {/* Mobile */}
                     <div className="mb-3 verticalindex:hidden">
-                        <h2 className={`font-garramond ${textSize}`}>{title}</h2>
+                        <h2 className={`font-dominique ${textSize}`}>{title}</h2>
                         <span className="text-gray-500">{date}</span>
                     </div>
                     
-                    <p className="hidden verticalindex:inline h-full items-center font-opensans text-l text-gray-600">"{quote}"</p>
-                    <p className="content verticalindex:hidden mb-3 font-opensans text-l text-gray-600">"{smallquote}"</p>
+                    <p className="hidden verticalindex:inline h-full items-center text-xl text-gray-600">"{quote}"</p>
+                    <p className="content verticalindex:hidden mb-3 text-lg text-gray-600">"{smallquote}"</p>
                 </div>
             </a>
         </Link>
