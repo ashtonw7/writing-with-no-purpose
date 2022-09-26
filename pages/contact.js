@@ -4,7 +4,7 @@ import PageTitle from "@components/PageTitle";
 export default function Contact() {
   return (
     <>
-      <HeadTag title="Contact | Writing with No Purpose" />
+      <HeadTag title="Contact | Fat Puppet" />
       <div className={`w-screen h-full flex flex-col `}>
         <PageTitle title="Contact" />
         

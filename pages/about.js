@@ -4,7 +4,7 @@ import PageTitle
 export default function Home({ posts }) {
   return (
     <div>
-      <HeadTag title="About | Writing with No Purpose" />
+      <HeadTag title="About | Fat Puppet" />
         <PageTitle title="About" />
         <div className="flex justify-center mt-5">
           <div className="hidden w-4/5 verticalindex:inline">

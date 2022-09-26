@@ -80,7 +80,7 @@ export async function getStaticProps({ params: { pageNum } }) {
 export default function PostPage({ postsInfo }) {
   return (
     <>
-      <HeadTag title={"Page " + postsInfo.currentPage + " | Writing with No Purpose"}/>
+      <HeadTag title={"Page " + postsInfo.currentPage + " | Fat Puppet"}/>
       { <PostsPage postsInfo={postsInfo} /> }
     </>
   );

@@ -45,7 +45,7 @@ export default function Home({ posts, totalPosts, perPage }) {
 
   return (
     <>
-      <HeadTag title="Writing with No Purpose" />
+      <HeadTag title="Fat Puppet" />
       <PostsPage postsInfo={postsInfo} />
     </>
   );
