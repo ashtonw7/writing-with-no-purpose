@@ -14,7 +14,7 @@ export default function Header() {
                     <div className='font-dominique verticalindex:text-[3rem] text-[2.5rem] galaxyfold:text-5xl verticalindex:text-8xl -mb-2 regular:mb-0'>
                       FAT PUPPET
                     </div>
-                    <div className='verticalindex:tracking-[0.35em] font-merriweatherextrabold font-bold text-gray-800 text-[1em] text-xs galaxyfold:text-sm verticalindex:text-lg'>
+                    <div className='verticalindex:tracking-[0.35em] font-merriweatherextrabold text-gray-800 text-[1em] text-xs galaxyfold:text-sm verticalindex:text-lg'>
                       WRITING WITH NO PURPOSE
                     </div>
                   <div/>
