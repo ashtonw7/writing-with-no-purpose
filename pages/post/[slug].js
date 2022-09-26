@@ -91,7 +91,7 @@ export default function PostPage({ frontmatter, content, randFiles }) {
               <p className='phone:text-xl text-center mb-10 text-gray-500 font-tinos'>{frontmatter.date}</p>
               
               <div class="w-full flex justify-center border-b">
-              <div className='w-[90%]'>  
+              <div className='verticalindex:w-[90%]'>  
                 <article className="pb-10 article text-xl phone:text-2xl [&>*]:mb-5 font-tinos">
                   <ReactMarkdown>{content}</ReactMarkdown>
                 </article>
