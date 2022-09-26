@@ -3,10 +3,8 @@ import ArticleCard from "./ArticleCard"
 export default function ReadMore({ randFiles }) {
     let randCards = [];
     let posts = Object.values(randFiles)
-    console.log(posts)
-    console.log(Object.keys(randFiles)[1])
+
     for(let i=0; i<Object.keys(randFiles).length; i++){
-        console.log(randFiles)
         let post = randFiles[Object.keys(randFiles)[i]]
         let slug = post.slug;
         let frontmatter = post.frontmatter;

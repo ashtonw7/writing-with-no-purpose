@@ -81,7 +81,7 @@ export default function PostPage({ frontmatter, content, randFiles }) {
         
         <div className='flex flex-col justify-center w-full'>
 
-        <div className='flex justify-center '>
+        <div className='flex justify-center'>
             <HeadTag title={frontmatter.title + ' | Writing with No Purpose'} />
             <div className='items-center w-4/5'>
               <div className='flex justify-center mt-5'>
@@ -89,9 +89,15 @@ export default function PostPage({ frontmatter, content, randFiles }) {
               </div>
               <h1 className='text-4xl phone:text-6xl font-dominique text-center'>{frontmatter.title.toLowerCase()}</h1>
               <p className='phone:text-xl text-center mb-10 text-gray-500 font-tinos'>{frontmatter.date}</p>
-              <article className="border-b pb-10 article text-xl phone:text-2xl [&>*]:mb-5 font-tinos">
-                <ReactMarkdown>{content}</ReactMarkdown>
-              </article>
+              
+              <div class="w-full flex justify-center border-b">
+              <div className='w-[90%]'>  
+                <article className="pb-10 article text-xl phone:text-2xl [&>*]:mb-5 font-tinos">
+                  <ReactMarkdown>{content}</ReactMarkdown>
+                </article>
+              </div>
+              </div>
+
             </div>
             
         </div>
