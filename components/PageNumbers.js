@@ -54,7 +54,7 @@ export default function PageNumbers({ pageCount, currPage }) {
 
     return (
         <>
-            <div className="w-3/5 phone:w-2/5 flex flex-row justify-center">
+            <div className="w-3/5 phone:w-2/5 flex flex-row justify-center mt-7">
                 {pageLinks}
             </div>
         </>

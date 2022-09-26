@@ -77,7 +77,10 @@ export async function getStaticProps({ params: { slug } }) {
 
 export default function PostPage({ frontmatter, content, randFiles }) {
     return (
-      <div className='flex flex-col'>
+      <div>
+        
+        <div className='flex flex-col justify-center w-full'>
+
         <div className='flex justify-center mb-5'>
             <HeadTag title={frontmatter.title + ' | Writing with No Purpose'} />
             <div className='items-center w-4/5'>
@@ -90,10 +93,15 @@ export default function PostPage({ frontmatter, content, randFiles }) {
                 <ReactMarkdown>{content}</ReactMarkdown>
               </article>
             </div>
+            
         </div>
-        <div className='flex justify-center mb-10'>
+
+        </div>
+
+        <div className='w-full'>
           <ReadMore randFiles={randFiles} />
         </div>
+
       </div>
     );
   } 
