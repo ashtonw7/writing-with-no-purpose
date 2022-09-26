@@ -33,7 +33,8 @@ export default function ArticleCard({ title, author, quote, date, slug, currArti
                 
                 <img className="object-scale-down verticalindex:min-h-[275px] w-2/5 h-2/5 verticalindex:h-auto regular:w-48 mt-3 verticalindex:mb-3 verticalindex:ml-3 verticalindex:mr-5" src={imageLink} alt={slug}/>
                 
-                <div className="text-center verticalindex:text-left verticalindex:w-full flex flex-col p-4">
+                <div className="flex items-center">
+                <div className=" flex flex-col p-4 items-center text-center verticalindex:text-left verticalindex:w-full">
                     {/* Bigger screen */}
                     <div className="hidden verticalindex:flex flex-col crunchycards:flex-row justify-between w-full">
                         <h2 className="mb-3 font-dominique text-5xl max-w-md">{title}</h2>
@@ -41,14 +42,14 @@ export default function ArticleCard({ title, author, quote, date, slug, currArti
                     </div>
 
                     {/* Mobile */}
-                    <div className="mb-3 verticalindex:hidden">
+                    <div className="mb-1 verticalindex:hidden">
                         <h2 className={`font-dominique ${textSize}`}>{title}</h2>
                         <span className="text-gray-500 font-tinos">{date}</span>
                     </div>
                     
-                    <p className="hidden verticalindex:inline h-full items-center text-xl text-gray-600 font-tinos">"{quote}"</p>
+                    <p className="hidden verticalindex:inline text-xl text-gray-600 font-tinos">"{quote}"</p>
                     <p className="content verticalindex:hidden mb-3 text-lg text-gray-600 font-merriweather">"{smallquote}"</p>
-                </div>
+                </div></div>
             </a>
         </Link>
     )
