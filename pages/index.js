@@ -1,6 +1,5 @@
 import PostsPage from "@components/PostsPage";
 import HeadTag from "@components/HeadTag";
-import ArticleCard from "@components/ArticleCard";
 
 import matter from "gray-matter";
 
