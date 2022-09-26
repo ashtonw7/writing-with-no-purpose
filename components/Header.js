@@ -35,19 +35,19 @@ export default function Header() {
           <nav className={`${open ? "content" : "hidden"} border-b`}>
               <div className="flex flex-col ml-4">
 
-                <div className="text-left mr-3 font-opensans text-gray-900 hover:text-black my-2" onClick={() => setTimeout(() => {setOpen(!open)}, 100)}>
+                <div className="text-left mr-3 font-tinos text-gray-900 hover:text-black my-2 text-xl" onClick={() => setTimeout(() => {setOpen(!open)}, 100)}>
                   <Link href="/" >
                       Posts
                   </Link>
                 </div>
 
-                <div className="text-left mr-3  font-opensans text-gray-900 hover:text-black my-2" onClick={() => setTimeout(() => {setOpen(!open)}, 100)}>
+                <div className="text-left mr-3  font-tinos text-gray-900 hover:text-black my-2 text-xl" onClick={() => setTimeout(() => {setOpen(!open)}, 100)}>
                   <Link href="/about">
                       About
                   </Link>
                 </div>
 
-                <div className="text-left mr-3  font-opensans text-gray-900 hover:text-black my-2" onClick={() => setTimeout(() => {setOpen(!open)}, 100)}>
+                <div className="text-left mr-3  font-tinos text-gray-900 hover:text-black my-2 text-xl" onClick={() => setTimeout(() => {setOpen(!open)}, 100)}>
                   <Link href="/contact">
                       Contact
                   </Link>
@@ -57,14 +57,14 @@ export default function Header() {
         </span>
 
         <nav className="flex justify-center items-center filter drop-shadow-md bg-white border-t border-t-gray-200">
-            <ul className="mt-3 mb-5 space-x-20 items-center font-opensans hidden regular:flex">
+            <ul className="mt-3 mb-5 space-x-20 items-center font-tinos hidden regular:flex">
               <li>
                 <img height={40} width={40} src={imageLink} alt="castle" />
               </li>
               
               <li> 
                 <Link href="/">
-                    <a className="text-gray-900 hover:text-black">POSTS</a>
+                    <a className="text-gray-900 hover:text-black font-tinos">POSTS</a>
                 </Link>  
               </li>
 
@@ -74,7 +74,7 @@ export default function Header() {
 
               <li>
                 <Link href="/about">
-                  <a className="text-gray-900 hover:text-black">ABOUT</a>
+                  <a className="text-gray-900 hover:text-black font-tinos">ABOUT</a>
                 </Link>
               </li>
 
@@ -84,7 +84,7 @@ export default function Header() {
 
               <li>
                 <Link href="/contact">
-                  <a className="text-gray-900 hover:text-black">CONTACT</a>
+                  <a className="text-gray-900 hover:text-black font-tinos">CONTACT</a>
                 </Link>
               </li>
 

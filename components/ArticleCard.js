@@ -32,17 +32,17 @@ export default function ArticleCard({ title, author, quote, date, slug }) {
                     {/* Bigger screen */}
                     <div className="hidden verticalindex:flex flex-col crunchycards:flex-row justify-between w-full">
                         <h2 className="mb-3 font-dominique text-5xl max-w-md">{title}</h2>
-                        <span className="text-gray-500 mb-5 crunchycards:mb-0">{date}</span>
+                        <span className="text-gray-500 mb-5 crunchycards:mb-0 font-tinos">{date}</span>
                     </div>
 
                     {/* Mobile */}
                     <div className="mb-3 verticalindex:hidden">
                         <h2 className={`font-dominique ${textSize}`}>{title}</h2>
-                        <span className="text-gray-500">{date}</span>
+                        <span className="text-gray-500 font-tinos">{date}</span>
                     </div>
                     
-                    <p className="hidden verticalindex:inline h-full items-center text-xl text-gray-600">"{quote}"</p>
-                    <p className="content verticalindex:hidden mb-3 text-lg text-gray-600">"{smallquote}"</p>
+                    <p className="hidden verticalindex:inline h-full items-center text-xl text-gray-600 font-tinos">"{quote}"</p>
+                    <p className="content verticalindex:hidden mb-3 text-lg text-gray-600 font-tinos">"{smallquote}"</p>
                 </div>
             </a>
         </Link>

@@ -15,31 +15,23 @@ hr {
 
 @font-face {
   font-family: "Dominique";
-  src: url("../public/assets/fonts/Dominique.otf");
+  src: url("../public/assets/fonts/DominiqueModified.otf");
 }
 @font-face{
   font-family: "Merriweather";
   src: url("../public/assets/fonts/Merriweather-Regular.ttf");
 }
 @font-face{  
-  font-family: "Garramond";
-  src: url("../public/assets/fonts/CormorantGaramond-Regular.ttf");
-}
-@font-face{  
-  font-family: "OpenSans";
-  src: url("../public/assets/fonts/OpenSans-Regular.ttf");
-}
-@font-face{  
-  font-family: "Merriweather Bold";
-  src: url("../public/assets/fonts/MerriweatherSans-Bold.ttf");
-}
-@font-face{  
   font-family: "Merriweather Extra Bold";
   src: url("../public/assets/fonts/MerriweatherSans-ExtraBold.ttf")
 }
 @font-face {
-  font-family: "Merriweather Sans";
-  src: url("../public/assets/fonts/MerriweatherSans-VariableFont_wght.ttf");
+  font-family: "Merriweather Light";
+  src: url("../public/assets/fonts/MerriweatherSans-Light.ttf");
+}
+@font-face {
+  font-family: "Tinos";
+  src: url("../public/assets/fonts/Tinos-Regular.ttf")
 }
 
 @tailwind base;

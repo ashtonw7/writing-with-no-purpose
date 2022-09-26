@@ -9,19 +9,20 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        "merriweather": ["Merriweather"],
+        "merriweatherlight": ["Merriweather Light"],
         "merriweathersans": ["Merriweather Sans"],
-        "merriweatherbold": ["Merriweather Bold"],
         "merriweatherextrabold": ["Merriweather Extra Bold"],
-        "opensans": ["OpenSans"],
-        "garramond": ["Garramond"],
         "dominique": ["Dominique"],
+        "tinos": ["Tinos"],
+        "merriweather": ["Merriweather"]
       },
       screens: {
+        'weirdcontact': '333px',
         'galaxyfold': '360px',
         'phone': '415px',
         'condenseheader': '460px',
         'verticalindex': '768px',
+        'contactmargin': '842px',
         'regular': '875px',
         'crunchycards': '1040px',
         'centerfooter': '1800px',

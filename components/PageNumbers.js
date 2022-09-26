@@ -40,10 +40,10 @@ export default function PageNumbers({ pageCount, currPage }) {
         }
 
         if(i == currPage - 1){
-            pageLinks.push(<a className="px-2 mx-1 phone:mx-2 font-garramond font-bold phone:text-xl" key={pageNum} href={link}>{pageNum}</a>);
+            pageLinks.push(<a className="px-2 mx-1 phone:mx-2 font-bold phone:text-xl font-raleway" key={pageNum} href={link}>{pageNum}</a>);
         }
         else{
-            pageLinks.push(<a className="px-2 mx-1 phone:mx-2 font-garramond phone:text-xl" key={pageNum} href={link}>{pageNum}</a>);
+            pageLinks.push(<a className="px-2 mx-1 phone:mx-2 phone:text-xl font-raleway " key={pageNum} href={link}>{pageNum}</a>);
         }
     }
 

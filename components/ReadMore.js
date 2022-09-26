@@ -2,7 +2,7 @@ import ArticleCard from "./ArticleCard"
 
 export default function ReadMore({ randFiles }) {
     return (
-        <div className='flex flex-col justify-center mt-10 regular:mb-10 border-t w-full'>
+        <div className='flex flex-col justify-center mt-10 border-t w-full'>
             <h2 className="text-3xl phone:text-5xl text-center mt-10 underline decoration-2 underline-offset-[6px] mb-10">Read More</h2>
             <div className="w-full">
             {Object.keys(randFiles).map((item => (
