@@ -85,10 +85,10 @@ export default function PostPage({ frontmatter, content, randFiles }) {
             <HeadTag title={frontmatter.title + ' | Writing with No Purpose'} />
             <div className='items-center w-4/5'>
               <div className='flex justify-center mt-5'>
-                <img className="object-scale-down justify-center h-[5rem] phone:h-36 verticalindex:h-48" src={'/assets/images/' + frontmatter.slug + ".png"} alt={frontmatter.slug}/>
+                <img className="object-scale-down justify-center h-[5rem] galaxyfold:h-[7rem] phone:h-36 verticalindex:h-48" src={'/assets/images/' + frontmatter.slug + ".png"} alt={frontmatter.slug}/>
               </div>
-              <h1 className='text-4xl phone:text-6xl font-dominique text-center'>{frontmatter.title.toLowerCase()}</h1>
-              <p className='phone:text-xl text-center mb-10 text-gray-500 font-tinos'>{frontmatter.date}</p>
+              <h1 className='text-[2.5rem] phone:text-6xl font-dominique text-center'>{frontmatter.title.toLowerCase()}</h1>
+              <p className='text-lg phone:text-xl text-center mb-10 text-gray-500 font-tinos'>{frontmatter.date}</p>
               
               <div class="w-full flex justify-center border-b">
               <div className='verticalindex:w-[90%]'>  
