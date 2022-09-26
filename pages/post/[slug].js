@@ -86,7 +86,7 @@ export default function PostPage({ frontmatter, content, randFiles }) {
               </div>
               <h1 className='text-4xl phone:text-6xl font-dominique text-center'>{frontmatter.title.toLowerCase()}</h1>
               <p className='phone:text-xl text-center mb-10 text-gray-500 font-tinos'>{frontmatter.date}</p>
-              <article className="article text-2xl [&>*]:mb-5 font-tinos">
+              <article className="article text-xl phone:text-2xl [&>*]:mb-5 font-tinos">
                 <ReactMarkdown>{content}</ReactMarkdown>
               </article>
             </div>
