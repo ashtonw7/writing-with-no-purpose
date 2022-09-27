@@ -89,7 +89,7 @@ export default function PostPage({ frontmatter, content, randFiles }) {
         <div className='flex flex-col justify-center w-full'>
 
         <div className='flex justify-center'>
-            <HeadTag title={frontmatter.title + ' | Fat Puppet'} link={'/posts/' + frontmatter.slug} image={frontmatter.slug} description={frontmatter.quote} />
+            <HeadTag title={frontmatter.title + ' | Fat Puppet'} link={'posts/' + frontmatter.slug} image={frontmatter.slug} description={frontmatter.quote} />
             <div className='items-center w-4/5'>
               <div className='flex justify-center mt-5'>
                 <img className="object-scale-down justify-center h-[5rem] galaxyfold:h-[7rem] phone:h-36 verticalindex:h-48" src={'/assets/images/' + frontmatter.slug + ".png"} alt={frontmatter.slug}/>
