@@ -36,7 +36,7 @@ export default function PageNumbers({ pageCount, currPage }) {
             link = '/'
         }
         else{
-            link = '/page/' + pageNum
+            link = '/posts/page/' + pageNum
         }
 
         if(i == currPage - 1){
