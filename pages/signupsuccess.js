@@ -1,10 +1,14 @@
 import HeadTag from "@components/HeadTag";
 import PageTitle from "@components/PageTitle";
+import Head from "next/head"
 
 export default function SignupSuccess() {
   return (
     <>
       <HeadTag title="Signup Success | Fat Puppet" link="contact" image='letter' description={"Fat Puppet is a humorous online publication written by Ashton Winters. Funny stories, offbeats essays, wacky lists—at Fat Puppet you can have it all."} />
+      <Head>
+        <meta name="robots" content="noindex" />
+      </Head>
       <div className={`w-screen h-full flex flex-col`}>
         <PageTitle title="Newsletter Signup Success" />
         
