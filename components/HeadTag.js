@@ -10,7 +10,7 @@ export default function HeadTag({ title, description, link, image }) {
             <meta name="google-site-verification" content="+nxGUDJ4QpAZ5l9Bsjdi102tLVC21AIh5d1Nl23908vVuFHs34=" />
 
             <meta property="og:title" content={title} />
-            <meta property="og:url" content={"https://fatpuppet.com/" + link} />
+            <meta property="og:url" content={"https://www.fatpuppet.com/" + link} />
             <meta property="og:description" content={description} />
             <meta property="og:image" content={'/assets/images/' + image + ".png"} />
 

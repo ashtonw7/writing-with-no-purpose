@@ -4,7 +4,7 @@ import PageTitle
 export default function Home({ posts }) {
   return (
     <div>
-      <HeadTag title="About | Fat Puppet" link="about" image={'portrait'} description={"Fat Puppet is a humorous online publication written by Ashton Winters. Funny stories, offbeats essays, wacky lists—at Fat Puppet you can have it all."} />
+      <HeadTag title="About | Fat Puppet" link="about" image='portrait' description={"Fat Puppet is a humorous online publication written by Ashton Winters. Funny stories, offbeats essays, wacky lists—at Fat Puppet you can have it all."} />
         <PageTitle title="About" />
         <div className="flex justify-center mt-5">
           <div className="hidden w-4/5 verticalindex:inline">

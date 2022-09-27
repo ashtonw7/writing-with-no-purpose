@@ -4,7 +4,7 @@ import PageTitle from "@components/PageTitle";
 export default function Contact() {
   return (
     <>
-      <HeadTag title="Contact | Fat Puppet" link="contact" image={'letter'} description={"Fat Puppet is a humorous online publication written by Ashton Winters. Funny stories, offbeats essays, wacky lists—at Fat Puppet you can have it all."} />
+      <HeadTag title="Contact | Fat Puppet" link="contact" image='letter' description={"Fat Puppet is a humorous online publication written by Ashton Winters. Funny stories, offbeats essays, wacky lists—at Fat Puppet you can have it all."} />
       <div className={`w-screen h-full flex flex-col`}>
         <PageTitle title="Contact" />
         
