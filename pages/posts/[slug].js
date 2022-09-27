@@ -112,7 +112,7 @@ export default function PostPage({ frontmatter, content, randFiles }) {
                   <ReactMarkdown>{content}</ReactMarkdown>
                 </article>
                 
-                <div id="buttons" className='mb-5 pb-7 flex flex-row justify-between'>
+                <div id="buttons" className='mb-5 py-5 flex flex-row justify-between'>
                     <div className='space-x-1 condenseheader:space-x-2 icons:space-x-5'>
                       <FacebookShareButton
                         url={'https://www.fatpuppet.com/posts/' + frontmatter.slug}
