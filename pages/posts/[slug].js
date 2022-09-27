@@ -87,18 +87,12 @@ export default function PostPage({ frontmatter, content, randFiles }) {
     return (
       <div>
         
-        <Head>
-          <meta name="twitter:card" content="summary_large_image" />
-          <meta name="twitter:site" content="@fatpuppet" />
-          <meta name="twitter:title" content={frontmatter.title} />
-          <meta name="twitter:description" content={frontmatter.quote} />
-          <meta name="twitter:image" content={'/assets/images/' + frontmatter.slug + ".png"} />
-        </Head>
+
 
         <div className='flex flex-col justify-center w-full'>
 
         <div className='flex justify-center'>
-            <HeadTag title={frontmatter.title + ' | Fat Puppet'} />
+            <HeadTag title={frontmatter.title + ' | Fat Puppet'} link={frontmatter.slug} image={frontmatter.slug} description={frontmatter.quote} />
             <div className='items-center w-4/5'>
               <div className='flex justify-center mt-5'>
                 <img className="object-scale-down justify-center h-[5rem] galaxyfold:h-[7rem] phone:h-36 verticalindex:h-48" src={'/assets/images/' + frontmatter.slug + ".png"} alt={frontmatter.slug}/>

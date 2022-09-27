@@ -45,7 +45,7 @@ export default function Home({ posts, totalPosts, perPage }) {
 
   return (
     <>
-      <HeadTag title="Fat Puppet" />
+      <HeadTag title="Fat Puppet" link="" image='portrait' description={"Fat Puppet is a humorous online publication written by Ashton Winters. Funny stories, offbeats essays, wacky lists—at Fat Puppet you can have it all."} />
       <PostsPage postsInfo={postsInfo} />
     </>
   );

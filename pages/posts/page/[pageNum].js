@@ -80,7 +80,7 @@ export async function getStaticProps({ params: { pageNum } }) {
 export default function PostPage({ postsInfo }) {
   return (
     <>
-      <HeadTag title={"Page " + postsInfo.currentPage + " | Fat Puppet"}/>
+      <HeadTag title={"Page " + postsInfo.currentPage + " | Fat Puppet"} description={"Fat Puppet is a humorous online publication written by Ashton Winters. Funny stories, offbeats essays, wacky lists—at Fat Puppet you can have it all."} />
       { <PostsPage postsInfo={postsInfo} /> }
     </>
   );
