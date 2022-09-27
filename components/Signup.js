@@ -102,7 +102,7 @@ export default function Signup() {
       #mlb2-1532908.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedContent,
       #mlb2-1532908.ml-form-embedContainer .ml-form-embedWrapper .ml-form-successBody .ml-form-successContent {
         text-align: left;
-        margin: 0 0 20px 0;
+        margin: 0 0 0px 0;
       }
       #mlb2-1532908.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedContent h4,
       #mlb2-1532908.ml-form-embedContainer .ml-form-embedWrapper .ml-form-successBody .ml-form-successContent h4 {
