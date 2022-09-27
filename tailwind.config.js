@@ -21,6 +21,7 @@ module.exports = {
         'galaxyfold': '360px',
         'phone': '415px',
         'condenseheader': '460px',
+        'icons': '500px',
         'verticalindex': '768px',
         'contactmargin': '842px',
         'regular': '875px',

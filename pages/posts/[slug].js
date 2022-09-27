@@ -1,9 +1,17 @@
 import HeadTag from '@components/HeadTag';
 import ReadMore from '@components/ReadMore';
+import Head from 'next/head';
 
 const fs = require('fs');
 import matter from 'gray-matter';
 import ReactMarkdown from 'react-markdown';
+
+import {
+  FacebookShareButton,
+  FacebookIcon,
+  TwitterShareButton,
+  TwitterIcon,
+} from 'next-share';
 
 export async function getStaticPaths() {
     const files = fs.readdirSync('posts');
@@ -79,6 +87,14 @@ export default function PostPage({ frontmatter, content, randFiles }) {
     return (
       <div>
         
+        <Head>
+          <meta name="twitter:card" content="summary_large_image" />
+          <meta name="twitter:site" content="@fatpuppet" />
+          <meta name="twitter:title" content={frontmatter.title} />
+          <meta name="twitter:description" content={frontmatter.quote} />
+          <meta name="twitter:image" content={'/assets/images/' + frontmatter.slug + ".png"} />
+        </Head>
+
         <div className='flex flex-col justify-center w-full'>
 
         <div className='flex justify-center'>
@@ -98,9 +114,36 @@ export default function PostPage({ frontmatter, content, randFiles }) {
               
               <div class="w-full flex justify-center border-b">
               <div className='verticalindex:w-[90%]'>  
-                <article className="pb-10 article text-xl phone:text-2xl [&>*]:mb-5 font-tinos">
+                <article className="article text-xl phone:text-2xl [&>*]:mb-5 font-tinos">
                   <ReactMarkdown>{content}</ReactMarkdown>
                 </article>
+                
+                <div id="buttons" className='mb-5 pb-7 flex flex-row justify-between'>
+                    <div className='space-x-1 condenseheader:space-x-2 icons:space-x-5'>
+                      <FacebookShareButton
+                        url={'https://fatpuppet.com/posts/' + frontmatter.slug}
+                      >
+                        <FacebookIcon size={45} round />
+                      </FacebookShareButton>
+
+                      <TwitterShareButton
+                        url={'https://fatpuppet.com/posts/' + frontmatter.slug}
+                        title={'Lol this is hilarious you all have to read this😂'}
+                      >
+                        <TwitterIcon size={45} round />
+                      </TwitterShareButton>
+                    </div>
+
+                    <a href='https://ko-fi.com/C0C8FALNP' target='_blank' className='bg-gray-800 hover:bg-gray-700 rounded-lg pr-2 h-[45px]'>
+                      <div className="flex flex-row items-center">
+                        <img className='h-[45px]' src='/assets/images/kofi-logo.png' alt='Buy Me a Coffee at ko-fi.com' />
+                        <span className='hidden condenseheader:contents font-merriweatherlight text-white'>Support Me on Ko-Fi</span>
+                        <span className='contents condenseheader:hidden font-merriweatherlight text-white'>Tip Jar</span>
+                      </div>
+                    </a>
+          
+                </div>
+
               </div>
               </div>
 

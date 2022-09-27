@@ -17,6 +17,7 @@
   "dependencies": {
     "gray-matter": "^4.0.3",
     "next": "^12.3.0",
+    "next-share": "^0.18.1",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-helmet": "^6.1.0",
