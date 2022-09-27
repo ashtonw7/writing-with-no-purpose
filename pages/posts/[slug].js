@@ -86,9 +86,6 @@ export async function getStaticProps({ params: { slug } }) {
 export default function PostPage({ frontmatter, content, randFiles }) {
     return (
       <div>
-        
-
-
         <div className='flex flex-col justify-center w-full'>
 
         <div className='flex justify-center'>
