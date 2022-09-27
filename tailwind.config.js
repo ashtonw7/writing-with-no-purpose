@@ -10,11 +10,9 @@ module.exports = {
     extend: {
       fontFamily: {
         "merriweatherlight": ["Merriweather Light"],
-        "merriweathersans": ["Merriweather Sans"],
         "merriweatherextrabold": ["Merriweather Extra Bold"],
         "dominique": ["Dominique"],
         "tinos": ["Tinos"],
-        "merriweather": ["Merriweather"]
       },
       screens: {
         'weirdcontact': '333px',

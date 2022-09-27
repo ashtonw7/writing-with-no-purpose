@@ -2,6 +2,7 @@ import '@styles/globals.css'
 import { Helmet } from 'react-helmet'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
+import Signup from '@components/Signup'
 
 function Application({ Component, pageProps }) {
   return(
@@ -16,6 +17,7 @@ function Application({ Component, pageProps }) {
         <main className="flex grow max-w-5xl ml-auto mr-auto mt-5">
             <Component {...pageProps} />
         </main>
+        <Signup />
         <Footer />
       </div>
     </>
