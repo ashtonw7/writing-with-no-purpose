@@ -32,22 +32,22 @@ export default function Header() {
         
         {/* Mobile Navbar */}
         <span className={`content regular:hidden`}>
-          <nav className={`${open ? "content" : "hidden"} border-b`}>
+          <nav className={`${open ? "content" : "hidden"} border-t`}>
               <div className="flex flex-col ml-2">
 
-                <div className="text-left mr-1 font-merriweatherlight text-gray-900 hover:text-black my-2 text-base" onClick={() => setTimeout(() => {setOpen(!open)}, 100)}>
+                <div className="text-left mr-1 font-merriweatherlight text-[#202020] hover:text-black my-2 text-base" onClick={() => setTimeout(() => {setOpen(!open)}, 100)}>
                   <Link href="/" >
                       Posts
                   </Link>
                 </div>
 
-                <div className="text-left mr-1 font-merriweatherlight text-gray-900 hover:text-black my-2 text-base" onClick={() => setTimeout(() => {setOpen(!open)}, 100)}>
+                <div className="text-left mr-1 font-merriweatherlight text-[#202020] hover:text-black my-2 text-base" onClick={() => setTimeout(() => {setOpen(!open)}, 100)}>
                   <Link href="/about">
                       About
                   </Link>
                 </div>
 
-                <div className="text-left mr-1 font-merriweatherlight text-gray-900 hover:text-black my-2 text-base" onClick={() => setTimeout(() => {setOpen(!open)}, 100)}>
+                <div className="text-left mr-1 font-merriweatherlight text-[#202020] hover:text-black my-2 text-base" onClick={() => setTimeout(() => {setOpen(!open)}, 100)}>
                   <Link href="/contact">
                       Contact
                   </Link>
@@ -64,7 +64,7 @@ export default function Header() {
               
               <li> 
                 <Link href="/">
-                    <a className="text-gray-900 hover:text-black">POSTS</a>
+                    <a className="text-[#202020] hover:text-black">POSTS</a>
                 </Link>  
               </li>
 
@@ -74,7 +74,7 @@ export default function Header() {
 
               <li>
                 <Link href="/about">
-                  <a className="text-gray-900 hover:text-black">ABOUT</a>
+                  <a className="text-[#202020] hover:text-black">ABOUT</a>
                 </Link>
               </li>
 
@@ -84,7 +84,7 @@ export default function Header() {
 
               <li>
                 <Link href="/contact">
-                  <a className="text-gray-900 hover:text-black">CONTACT</a>
+                  <a className="text-[#202020] hover:text-black">CONTACT</a>
                 </Link>
               </li>
 
