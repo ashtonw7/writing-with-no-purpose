@@ -15,10 +15,7 @@ export default function HeadTag({ title, description, link, image }) {
             <meta property="og:image" content={'/assets/images/' + image + ".png"} />
 
             <meta name="twitter:card" content="summary_large_image" />
-            <meta name="twitter:site" content="@fatpuppet" />
-            <meta name="twitter:title" content={title} />
-            <meta name="twitter:description" content={description} />
-            <meta name="twitter:image" content={'/assets/images/' + image + ".png"} />
+            <meta name="twitter:site" content="@Fat_Puppet" />
             
         </Head>
     )
