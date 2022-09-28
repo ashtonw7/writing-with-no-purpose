@@ -16,6 +16,7 @@ export default function HeadTag({ title, description, link, image }) {
 
             <meta name="twitter:card" content="summary_large_image" />
             <meta name="twitter:site" content="@Fat_Puppet" />
+            <meta name="twitter:image" content={'https://www.fatpuppet.com/assets/images/' + image + ".png"} />
             
         </Head>
     )
