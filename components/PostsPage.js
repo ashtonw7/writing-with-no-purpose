@@ -8,7 +8,7 @@ export default function PostsPages({ postsInfo }) {
   let currPage = postsInfo.currentPage;
   
   return (
-    <div className={`w-screen h-full flex flex-col`}>
+    <div className={`w-screen h-full flex flex-col verticalindex:min-h-[95vh]`}>
       <PageTitle title="Posts" />
       { posts ? <PostList posts={posts} /> : null }
       

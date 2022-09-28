@@ -5,7 +5,7 @@ author: 'Ashton Winters'
 quote: 'There are so many other cool people you can summon out of a mirror. Here are some of my favorites.'
 metaTitle: ''
 metaDesc: ''
-date: '9 Sep 2022'
+date: '29 Sep 2022'
 ---
 
 “Go into the bathroom, turn off the lights, and start spinning around while you say Bloody Mary.”
