@@ -33,21 +33,21 @@ export default function Header() {
         {/* Mobile Navbar */}
         <span className={`content regular:hidden`}>
           <nav className={`${open ? "content" : "hidden"} border-b`}>
-              <div className="flex flex-col ml-4">
+              <div className="flex flex-col ml-2">
 
-                <div className="text-left mr-3 font-merriweatherlight text-gray-900 hover:text-black my-2 text-xl" onClick={() => setTimeout(() => {setOpen(!open)}, 100)}>
+                <div className="text-left mr-1 font-merriweatherlight text-gray-900 hover:text-black my-2 text-base" onClick={() => setTimeout(() => {setOpen(!open)}, 100)}>
                   <Link href="/" >
                       Posts
                   </Link>
                 </div>
 
-                <div className="text-left mr-3  font-merriweatherlight text-gray-900 hover:text-black my-2 text-xl" onClick={() => setTimeout(() => {setOpen(!open)}, 100)}>
+                <div className="text-left mr-1 font-merriweatherlight text-gray-900 hover:text-black my-2 text-base" onClick={() => setTimeout(() => {setOpen(!open)}, 100)}>
                   <Link href="/about">
                       About
                   </Link>
                 </div>
 
-                <div className="text-left mr-3  font-merriweatherlight text-gray-900 hover:text-black my-2 text-xl" onClick={() => setTimeout(() => {setOpen(!open)}, 100)}>
+                <div className="text-left mr-1 font-merriweatherlight text-gray-900 hover:text-black my-2 text-base" onClick={() => setTimeout(() => {setOpen(!open)}, 100)}>
                   <Link href="/contact">
                       Contact
                   </Link>

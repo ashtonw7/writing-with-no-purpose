@@ -14,7 +14,7 @@ export default function ReadMore({ randFiles }) {
 
     return (
         <div className='flex flex-col justify-center mt-10 mb-10'>
-            <h2 className="text-3xl phone:text-5xl text-center underline decoration-2 underline-offset-[6px] mb-10">Read More</h2>
+            <h2 className="text-3xl phone:text-5xl text-center underline decoration-2 underline-offset-[6px] mb-10 font-dominique">read more</h2>
             {randCards}
 
             {/*

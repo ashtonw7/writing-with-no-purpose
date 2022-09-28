@@ -59,8 +59,8 @@ export default function Home({ posts }) {
 
         <div className="flex justify-center">
           <div className="item-center w-4/5 border-t">
-            <h2 className="text-3xl phone:text-5xl text-center underline decoration-2 underline-offset-[6px] mt-10 mb-10">
-              FAQs
+            <h2 className="text-center underline decoration-2 underline-offset-[6px] mt-10 mb-10 font-dominique">
+              <span className="text-3xl phone:text-5xl">faq</span><span className="text-xl phone:text-3xl">s</span>
             </h2>
 
             <p className="text-left italic text-xl phone:text-2xl mb-5 font-tinos">
