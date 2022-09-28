@@ -5,6 +5,7 @@ export default function Header() {
     
     const [open, setOpen] = useState(false);
     let imageLink = '/assets/images/' + 'castle_logo' + '.png';
+    
     return (
       <div>
         <div className='flex justify-center items-center h-auto regular:h-[8rem] mb-3 galaxyfold:my-3 regular:my-5'>            
@@ -37,19 +38,19 @@ export default function Header() {
 
                 <div className="text-left mr-1 font-merriweatherlight text-[#202020] hover:text-black my-2 text-base" onClick={() => setTimeout(() => {setOpen(!open)}, 100)}>
                   <Link href="/" >
-                      Posts
+                      <a className='block'>Posts</a>
                   </Link>
                 </div>
 
                 <div className="text-left mr-1 font-merriweatherlight text-[#202020] hover:text-black my-2 text-base" onClick={() => setTimeout(() => {setOpen(!open)}, 100)}>
                   <Link href="/about">
-                      About
+                    <a className='block'>About</a>
                   </Link>
                 </div>
 
                 <div className="text-left mr-1 font-merriweatherlight text-[#202020] hover:text-black my-2 text-base" onClick={() => setTimeout(() => {setOpen(!open)}, 100)}>
                   <Link href="/contact">
-                      Contact
+                      <a className='block'>Contact</a>
                   </Link>
                 </div>
               </div>
