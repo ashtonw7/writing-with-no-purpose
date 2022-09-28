@@ -28,48 +28,87 @@ export async function getStaticPaths() {
 
 export async function getStaticProps({ params: { slug } }) {
     let files = fs.readdirSync('posts');
+    let filecount = files.length;
 
-    let firstRandFile = files[Math.floor(Math.random() * files.length)];
-    firstRandFile = firstRandFile.replace('.md', '');
-    while(firstRandFile == slug){
+    let firstRandFile = null;
+    if(filecount > 1){
       firstRandFile = files[Math.floor(Math.random() * files.length)];
       firstRandFile = firstRandFile.replace('.md', '');
+      while(firstRandFile == slug){
+        firstRandFile = files[Math.floor(Math.random() * files.length)];
+        firstRandFile = firstRandFile.replace('.md', '');
+      }
+      firstRandFile = firstRandFile.replace('.md', '');
     }
-    firstRandFile = firstRandFile.replace('.md', '');
 
-    let secondRandFile = files[Math.floor(Math.random() * files.length)];
-    secondRandFile = secondRandFile.replace('.md', '');
-    while(secondRandFile == slug || secondRandFile == firstRandFile){
+    let secondRandFile = null;
+    if(filecount > 2){
       secondRandFile = files[Math.floor(Math.random() * files.length)];
       secondRandFile = secondRandFile.replace('.md', '');
+      while(secondRandFile == slug || secondRandFile == firstRandFile){
+        secondRandFile = files[Math.floor(Math.random() * files.length)];
+        secondRandFile = secondRandFile.replace('.md', '');
+      }
+      secondRandFile = secondRandFile.replace('.md', '');
     }
-    secondRandFile = secondRandFile.replace('.md', '');
 
-    let thirdRandFile = files[Math.floor(Math.random() * files.length)];
-    thirdRandFile = thirdRandFile.replace('.md', '');
-    while(thirdRandFile == slug || thirdRandFile == firstRandFile || thirdRandFile == secondRandFile){
+    let thirdRandFile = null;
+    if(filecount > 3){
       thirdRandFile = files[Math.floor(Math.random() * files.length)];
       thirdRandFile = thirdRandFile.replace('.md', '');
+      while(thirdRandFile == slug || thirdRandFile == firstRandFile || thirdRandFile == secondRandFile){
+        thirdRandFile = files[Math.floor(Math.random() * files.length)];
+        thirdRandFile = thirdRandFile.replace('.md', '');
+      }
+      thirdRandFile = thirdRandFile.replace('.md', '');
     }
-    thirdRandFile = thirdRandFile.replace('.md', '');
+    
+    let randFiles = {};
+    
+    if(firstRandFile && !secondRandFile && !thirdRandFile){
+      const { data: firstRandMatter } = matter(fs.readFileSync(`posts/${firstRandFile}.md`, 'utf-8'));
 
-    const { data: firstRandMatter } = matter(fs.readFileSync(`posts/${firstRandFile}.md`, 'utf-8'));
-    const { data: secondRandMatter } = matter(fs.readFileSync(`posts/${secondRandFile}.md`, 'utf-8'));
-    const { data: thirdRandMatter } = matter(fs.readFileSync(`posts/${thirdRandFile}.md`, 'utf-8'));
+      randFiles = {
+        first: {
+          slug: firstRandFile,
+          frontmatter: firstRandMatter,
+        },
+      }
+    }
+    else if(firstRandFile && secondRandFile && !thirdRandFile){
+      const { data: firstRandMatter } = matter(fs.readFileSync(`posts/${firstRandFile}.md`, 'utf-8'));
+      const { data: secondRandMatter } = matter(fs.readFileSync(`posts/${secondRandFile}.md`, 'utf-8'));
 
-    let randFiles = {
-      first: {
-        slug: firstRandFile,
-        frontmatter: firstRandMatter,
-      },
-      second: {
-        slug: secondRandFile,
-        frontmatter: secondRandMatter
-      },
-      third: {
-        slug: thirdRandFile,
-        frontmatter: thirdRandMatter
-      },
+      randFiles = {
+        first: {
+          slug: firstRandFile,
+          frontmatter: firstRandMatter,
+        },
+        second: {
+          slug: secondRandFile,
+          frontmatter: secondRandMatter
+        }
+      }
+    }
+    else{
+      const { data: firstRandMatter } = matter(fs.readFileSync(`posts/${firstRandFile}.md`, 'utf-8'));
+      const { data: secondRandMatter } = matter(fs.readFileSync(`posts/${secondRandFile}.md`, 'utf-8'));
+      const { data: thirdRandMatter } = matter(fs.readFileSync(`posts/${thirdRandFile}.md`, 'utf-8'));
+
+      randFiles = {
+        first: {
+          slug: firstRandFile,
+          frontmatter: firstRandMatter,
+        },
+        second: {
+          slug: secondRandFile,
+          frontmatter: secondRandMatter
+        },
+        third: {
+          slug: thirdRandFile,
+          frontmatter: thirdRandMatter
+        },
+      }
     }
 
     const fileName = fs.readFileSync(`posts/${slug}.md`, 'utf-8');
@@ -95,7 +134,7 @@ export default function PostPage({ frontmatter, content, randFiles }) {
                 <img className="object-scale-down justify-center h-[5rem] galaxyfold:h-[7rem] phone:h-36 verticalindex:h-48" src={'/assets/images/' + frontmatter.slug + ".png"} alt={frontmatter.slug}/>
               </div>
 
-              <div class="w-full flex justify-center">
+              <div className="w-full flex justify-center">
                 <h1 className='w-[90%] text-[2.5rem] phone:text-6xl font-dominique text-center'>
                   {frontmatter.title.toLowerCase()}
                 </h1>
@@ -103,7 +142,7 @@ export default function PostPage({ frontmatter, content, randFiles }) {
 
               <p className='text-lg phone:text-xl text-center mb-10 text-gray-500 font-tinos'>{frontmatter.date}</p>
               
-              <div class="w-full flex justify-center border-b">
+              <div className="w-full flex justify-center border-b">
               <div className='verticalindex:w-[90%]'>  
                 <article className="article text-xl phone:text-2xl [&>*]:mb-5 font-tinos">
                   <ReactMarkdown>{content}</ReactMarkdown>

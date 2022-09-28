@@ -34,3 +34,6 @@ yarn-error.log*
 
 # Old API stuff I may need later but probably not for now
 /old_api
+
+# Unpublished posts
+/unpublished
