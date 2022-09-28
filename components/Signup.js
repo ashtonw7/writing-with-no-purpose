@@ -664,7 +664,7 @@ export default function Signup() {
                         <div class="ml-field-group ml-field-email ml-validate-email ml-validate-required">
                           
                             <!-- input -->
-                                <input type="email" class="form-control" data-inputmask="" name="fields[email]" placeholder="Get updates on new posts!" autocomplete="email">
+                                <input type="email" class="form-control" data-inputmask="" name="fields[email]" placeholder="Enter your email to join the newsletter!" autocomplete="email">
                             <!-- /input -->
                         </div>
 
