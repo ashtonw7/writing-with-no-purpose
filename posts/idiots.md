@@ -1,8 +1,8 @@
 ---
-title: 'Idiots'
+title: 'There Are Too Many Idiots Out There'
 slug: 'idiots'
 author: 'Ashton Winters'
-quote: 'Sometimes when you talk to an idiot, you like to humor them a little bit, just to like, keep yourself entertained. Sometimes when you talk to an idiot, you like to humor them a little bit, just to like, keep yourself entertained.'
+quote: 'Sometimes an idiot can be funny though, especially when they fall really hard on accident. The other day I saw an idiot, and I threw a banana peel right in front of him. And the idiot slipped on it and smashed right into the sidewalk. Hah! Funny idiot.'
 metaTitle: ''
 metaDesc: ''
 date: '22 Sep 2022'
