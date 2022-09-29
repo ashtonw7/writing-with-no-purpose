@@ -11,7 +11,7 @@ export default function Contact() {
         {/* Computer */}
         <div className="hidden verticalindex:flex justify-center w-full">
           <div className="flex justify-center verticalindex:justify-between w-4/5">
-            <img className="object-scale-down w-2/5 h-2/5 float-left verticalindex:h-auto regular:w-[17rem]" src={'/assets/images/letter.png'} alt={'Letter being mailed'}/>
+            <img  height="512" width="512" className="object-scale-down w-2/5 h-2/5 float-left verticalindex:h-auto regular:w-[17rem]" src={'/assets/images/letter.png'} alt={'Letter being mailed'}/>
             
             <p className="font-tinos text-2xl w-[30rem] text-center verticalindex:text-left mt-[3rem] contactmargin:mt-[5rem]">
               If you would like to contact me, you can reach me at <a href="mailto:ashton.winters@aya.yale.edu" className="hover:underline italic">ashtonwinters@fatpuppet.com</a>.

@@ -9,7 +9,7 @@ export default function Home({ posts }) {
         <div className="flex justify-center mt-5">
           <div className="hidden w-4/5 verticalindex:inline">
 
-            <img className="object-scale-down w-2/5 h-2/5 float-left mr-5 verticalindex:h-auto regular:w-96" src={'/assets/images/portrait.png'} alt={'Ashton Winters'}/>
+            <img height="512" width="512" className="object-scale-down w-2/5 h-2/5 float-left mr-5 verticalindex:h-auto regular:w-96" src={'/assets/images/portrait.png'} alt={'Ashton Winters'}/>
             <div>
               <p className="text-center italic text-xl phone:text-2xl mt-3 mb-5 text-gray-600 font-medium font-tinos">
                 "Laughing at a puppet is funny. But laughing at a guy who thinks a puppet is funny is even funnier."

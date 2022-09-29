@@ -15,7 +15,7 @@ export default function SignupSuccess() {
         {/* Computer */}
         <div className="hidden verticalindex:flex justify-center w-full">
           <div className="flex justify-center verticalindex:justify-between w-4/5">
-            <img className="object-scale-down w-2/5 h-2/5 float-left verticalindex:h-auto regular:w-[17rem]" src={'/assets/images/letter.png'} alt={'Letter being mailed'}/>
+            <img  height="512" width="512" className="object-scale-down w-2/5 h-2/5 float-left verticalindex:h-auto regular:w-[17rem]" src={'/assets/images/letter.png'} alt={'Letter being mailed'}/>
             
             <p className="font-tinos text-2xl w-[30rem] text-center verticalindex:text-left mt-[3rem] contactmargin:mt-[5rem]">
               Thank you for signing up for the newsletter! You'll receive an email in your inbox whenever new posts are made. I won't spam you, and you're free to unsubscribe at any time!
