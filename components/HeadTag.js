@@ -12,7 +12,7 @@ export default function HeadTag({ title, description, link, image }) {
             <meta property="og:title" content={title} />
             <meta property="og:url" content={"https://www.fatpuppet.com/" + link} />
             <meta property="og:description" content={description} />
-            <meta property="og:image" content={'/assets/images/' + image + ".png"} />
+            <meta property="og:image" content={'https://www.fatpuppet.com/assets/images/' + image + ".png"} />
 
             <meta name="twitter:card" content="summary_large_image" />
             <meta name="twitter:site" content="@Fat_Puppet" />
