@@ -7,7 +7,7 @@
 
   included_files = ["posts/**"]
 
-[plugins]
+[[plugins]]
   package = "@netlify/plugin-sitemap"
 
 
