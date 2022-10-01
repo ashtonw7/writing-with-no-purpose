@@ -61,5 +61,5 @@ Turns out all those radiation experiments somehow put her behind the glass. Mada
 *8. My Old Roommate Greg*
 
 I have no idea how this guy got trapped in the mirror dimension, but hey, that’s Greg for ya! If you spin around and call out his name, he’ll come rushing to the mirror. Usually he’ll smash his face against it because he’s trying to run back into the real world. It’s pretty funny.
-He’s got a lot of good jokes. He has this one about a gay giraffe and a plumber. It’s a little offensive, but it’ll make you chuckle. I won’t tell it here, just ask him yourself.
+He’s got a lot of good jokes. He has this one about a giraffe and a plumber. It’s a little offensive. I won’t tell it here, just ask him yourself.
 If you summon my old roommate Greg, try not to bring my name up, because he’s kind of mad at me for always stealing his giraffe joke.
