@@ -8,7 +8,7 @@ metaDesc: ''
 date: '22 Sep 2022'
 ---
 
-There are a lot of idiots out there. When I turn on the news, or read a post online, or talk to an old person at a nursing home, I’m just like what is this idiot even trying to say?
+There are a lot of idiots out there. Whenever I talk to just about anyone, I’m like what is this idiot even trying to say?
 
 Sometimes an idiot can be funny though, especially when they fall really hard on accident. The other day I saw an idiot, and I threw a banana peel right in front of him. And the idiot slipped on it and smashed right into the sidewalk. Hah! Funny idiot. And he chipped a tooth from it so he looked like even more of an idiot.
 
