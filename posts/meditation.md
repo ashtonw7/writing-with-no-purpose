@@ -2,7 +2,7 @@
 title: 'A Guided Meditation'
 slug: 'meditation'
 author: 'Ashton Winters'
-quote: 'Imagine being greeted at the spring by a scary shadow guy in a hooded robe. Where did he come from?'
+quote: 'Imagine being greeted at the spring by a scary shadow guy in a hooded robe. Where did he come from? Imagine he has a voice that sounds just like yours. Imagine he is saying words that sort of sound like English, but more like some sort of evil version of English.'
 metaTitle: ''
 metaDesc: ''
 date: '13 Oct 2022'
