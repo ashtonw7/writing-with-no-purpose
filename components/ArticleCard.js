@@ -38,7 +38,7 @@ export default function ArticleCard({ title, author, quote, date, slug, currArti
                     {/* Bigger screen */}
                     <div className="hidden verticalindex:flex flex-col crunchycards:flex-row justify-between w-full">
                         <h2 className="mb-3 font-dominique text-5xl max-w-md">{title}</h2>
-                        <span className="text-gray-500 mb-5 crunchycards:mb-0 font-tinos">{date}</span>
+                        <span className="text-gray-500 mb-5 crunchycards:mb-0 font-tinos text-[1.12rem]">{date}</span>
                     </div>
 
                     {/* Mobile */}
