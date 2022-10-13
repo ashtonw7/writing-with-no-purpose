@@ -20,7 +20,7 @@ Imagine being greeted at the spring by a scary shadow guy in a hooded robe. Wher
 
 Imagine that even though there are no weapons in this dreamscape, there is one exception, and that’s that there is a single big gun that the hooded figure has. It pulls out the big gun and aims it right at you. Imagine being paralyzed in fear.
 
-Imagine the hooded figure dropping his hood and revealing it’s your buddy Ron, from college, and he was just using some kind voice changing machine to prank you. Imagine he pulls the trigger on the big gun, and instead of a bullet, a funny little piece of paper that says “BANG” comes out of the end. Think of how relieved you feel and how happy you are to see an old friend.
+Imagine the hooded figure dropping his hood and revealing it’s your buddy Ron, from college, and he was just using some kind of voice changing machine to prank you. Imagine he pulls the trigger on the big gun, and instead of a bullet, a funny little piece of paper that says “BANG” comes out of the end. Think of how relieved you feel and how happy you are to see an old friend.
 
 Imagine that Ron at some point wronged you, like maybe he asked out the girl you were really into before you even had the chance to admit to yourself that you liked her. And then imagine that, oh yeah, he also owes you about forty dollars.
 
