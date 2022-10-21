@@ -1,5 +1,5 @@
 ---
-title: '8 Tips to Be a Better Person'
+title: '8 Ways to Be a Better Person'
 slug: 'better-person'
 author: 'Ashton Winters'
 quote: 'So last Halloween I couldn’t remember if the phrase “like taking candy from a baby” meant something was really easy or really hard. I don’t have kids so I didn’t really have a scope of reference on how strong or clever babies are.'
