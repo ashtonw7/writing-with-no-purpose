@@ -22,6 +22,6 @@ Sometimes I try to talk to her after class. Most girls you can just talk to and 
 
 I was thinking about asking her to the dance. I don’t know if she’d say yes though. “Dancing is of the devil, and God hath punished me enough by having sent me to the future. I needn’t any more trials to face in this life.” She’s always saying that when I ask her to dances.
 
-So for now, I’ll just keep talking to her. I could listen to her talk all day. And sometimes I do. She’s always out yelling things in the middle of campus (or the “village square,” as she calls it). She says things like “I’m so confused, please help me” and “I’m not from this time. I’m a woman from Elizabethean England who fell into a strange glowing hole and was somehow transported through time.”
+So for now, I’ll just keep talking to her. I could listen to her talk all day. And sometimes I do. She’s always out yelling things in the middle of campus (or the “village square,” as she calls it). She says things like “I’m so confused, please help me” and “I’m not from this time. I’m a woman from Elizabethen England who fell into a strange glowing hole and was somehow transported through time.”
 
 Elizabethan England. She has such an old soul.
