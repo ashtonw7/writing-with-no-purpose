@@ -24,7 +24,7 @@ So I start seeing this therapist, right. And it starts off with some small talk,
 
 And she’s just looking at me all aghast, saying the money is for the poor or whatever. And then she asks me “Are you destitute enough that you need to steal money from charity?”
 
-And I start laughing like, hold on lady, we’re talking about church here let’s not bring hookers into this. Then she told me she said “destitute” not “prostitute” and I told her I don’t know what that word means. Turns out it means poor. Let me tell ya what–ever since I’ve started taking money from the money plate, I haven’t been poor at all.
+And I start laughing like, hold on lady, we’re talking about church here let’s not bring hookers into this. Then she told me she said “destitute” not “prostitute” and I told her I didn't know what that word means. Turns out it means poor. Let me tell ya what–ever since I’ve started taking money from the money plate, I haven’t been poor at all.
 
 So the session ends, and she tells me she’s pretty sure I’m evil. Then she gave me the bill and it’s like, woah, who’s really the evil one here? I’m gonna have to start going to church more with these prices!
 
