@@ -14,9 +14,11 @@ I wouldn’t want to have a gremlin from the movie Gremlins. I’d want one that
 
 I know what you’re thinking, aren’t gremlins kind of evil? They’re sort of like goblins right? All sneaky and stuff. Well obviously I wouldn’t want evil gremlins to be real, just fun ones that scurry and do my chores.
 
-I guess a gnome would be all right too. They don’t scurry, but I bet they hobble back and forth because they’re short and kind of fat. Now I’m not saying I’d want an obese gnome, mind you, because that would be gross to look at. Especially if I had him weeding my yard and it was hot out so he took his shirt off, exposing me to his sweaty fat gnome belly. Ew. Not what you want to see when you’re enjoying a tall glass of lemonade on the porch, watching your gnome do work.
+I guess a gnome would be all right too. They don’t scurry, but I bet they hobble back and forth because they’re short and kind of fat. Now I’m not saying I’d want an obese gnome, mind you, because that would be gross to look at. Especially if I had him weeding my yard and it was hot out so he took his shirt off, exposing me to his sweaty, fat gnome belly. Ew. Not what you want to see when you’re enjoying a tall glass of lemonade on the porch, watching your gnome do work.
 
 Pudgy is best, so he kind of hobbles like I mentioned earlier. Actually, maybe I’d be fine with an obese gnome, as long as he was a little self-conscious. That way when I go in my jacuzzi with him he keeps his shirt on.
 
 If I had to choose between a gremlin and a gnome, I really don’t know which one I’d pick. Probably the gremlin because I like scurrying better than hobbling.
-So yeah, that’s my dream basically—to have a real gremlin or gnome. Looks like the five minutes are up. Man, speed dating is fun, huh? Anyway, here’s my number, why don’t you give me a call. 
+So yeah, that’s my dream basically—to have a real gremlin or gnome.
+
+Looks like the five minutes are up. Man, speed dating is fun, huh? Anyway, here’s my number, why don’t you give me a call. 

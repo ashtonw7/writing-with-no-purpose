@@ -8,11 +8,11 @@ metaDesc: ''
 date: '20 Oct 2022'
 ---
 
-So last Halloween I couldn’t remember if the phrase “like taking candy from a baby” meant something was really easy or really hard. I don’t have kids so I didn’t really have a scope of reference on how strong or clever babies are.
+So last Halloween I couldn’t remember if the phrase “like taking candy from a baby” meant something was really easy or really hard. I don’t have kids so I didn’t have a scope of reference on how strong or clever babies are.
 
-Anyway, to figure it out whenever kids would knock on my door to trick-or-treat, I’d take all their candy. And I got my answer–it’s freaking easy! I was so much more powerful than a baby.
+Anyway, to figure it out, whenever kids would knock on my door to trick-or-treat I’d take all their candy. And I got my answer–it’s freaking easy! I was so much more powerful than a baby.
 
-So I grab this kid’s candy and he starts crying or whatever and his dad comes rushing to the door all in a huff. And on the way he steps on a rake that was lying there and it shot straight up and smacked him in the face. You know, like what would happen in a really funny movie.
+So I grab this kid’s candy and he starts crying or whatever and his dad comes rushing to the door all in a huff. And on the way he steps on a rake that was lying there and it shot straight up and smacked him in the face. You know, like what would happen in a funny movie.
 
 And now this guy looks even angrier, like his face is beet-red. So he’s stomping up to the door cursing at me and–BAM–steps on another rake. I kept my whole yard littered with rakes because, come on, it’s hilarious to watch a guy get hit by a rake like that. And it’s even funnier when he’s angry.
 
