@@ -44,7 +44,7 @@ Like he got most of his fortune from selling Asbestos, but now everyone knows As
 
 And he’s always getting me tangled up in it all. When New Asbestos Version 2 came out, guess who was in charge of testing it on a bunch of women and children? It was him, actually, but I was in charge of falsifying the test results that allowed to go on the market which is arguably just as bad.
 
-Or, take for instance last week, when he made he add a bunch of spikes to the bottom of the hill he lives on. Now whenever a door-to-door salesman comes to the door and, as instructed, I push him down the hill, he lands on the spikes and screams “Ahh!” I hate hearing those salesmen scream “Ahh!”
+Or, take for instance last week, when he made me add a bunch of spikes to the bottom of the hill he lives on. Now whenever a door-to-door salesman comes to the door and, as instructed, I push him down the hill, he lands on the spikes and screams “Ahh!” I hate hearing those salesmen scream “Ahh!”
 
 I really should quit, but I’m too scared to suggest it. Whenever I go into Von Dutchmandorf’s office, he does that thing where he closes one eye and pinches his fingers so it looks to him like he’s crushing my head. And then once I start talking he gets up and actually starts crushing my head with a pair of big pliers.
 
