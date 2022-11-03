@@ -20,7 +20,7 @@ And to be fair, there can be some upsides to butlering. That is, as long as you 
 
 I’ve never had such luck finding these kinds of rich people though. I must say, what I have in butlering skills, I definitely lack in finding-good-rich-people-to-be-a-butler-for skills. 
 
-In my experience, you don’t want to work for anybody who goes by “The Dutchman,” “Count,” or “Baron.” They’re usually evil. It’s also never great when people use “Von” in their name or has a name that ends in “-dorf.”
+In my experience, you don’t want to work for anybody who goes by “The Dutchman,” “Count,” or “Baron.” They’re usually evil. It’s also never great when people use “Von” in their name or have a name that ends in “-dorf.”
 
 So it’s just my luck that my current boss is Baron Count Von Dutchmandorf.
 
