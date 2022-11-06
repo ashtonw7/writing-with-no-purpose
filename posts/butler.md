@@ -14,7 +14,7 @@ But being a doctor requires lots of learning. And learning is very boring unless
 
 Being a famous movie star that everybody loves doesn’t necessarily require learning, but it does require raw talent. And unfortunately, none of my talent is raw. It’s cooked, well-done.
 
-Consequently, I’ve kind of been forced into a life of butlering. If I’m being honest, I’ve always had a natural proclivity toward it. Ever since I was a child, I’ve always found myself wearing a suit and dangling a large napkin over my arm. And I’m pretty good at having an old man beat me over the head with a cane when I make a mistake.
+Consequently, I’ve kind of been forced into a life of butlering. If I’m being honest, I’ve always had a natural proclivity towards it. Ever since I was a child, I’ve always found myself wearing a suit and dangling a large napkin over my arm. And I’m pretty good at having an old man beat me over the head with a cane when I make a mistake.
 
 And to be fair, there can be some upsides to butlering. That is, as long as you have a good rich person that you’re working for. You want a rich person who is old enough that they don’t really know what’s going on, but not so old that they have to use a bedpan. There’s a sweet spot in the middle there, one where you’re less butlering and more squatting in a rich guy’s house and watching his giant TV.
 
