@@ -3,8 +3,13 @@ import Link from "next/link"
 export default function ArticleCard({ title, author, quote, date, slug, currArticle, totalCount }) {
     let imageLink;
     imageLink = '/assets/images/' + slug + '.png';
-
-    let smallquote = quote.split(/\s+/).slice(0, 8).join(' ');
+    let smallquote = ''
+    if (title.length < 40){
+        smallquote = quote.split(/\s+/).slice(0, 8).join(' ');
+    }
+    else{
+        smallquote = quote.split(/\s+/).slice(0, 7).join(' ');
+    }
     let lastchar = smallquote.slice(-1);
 
     if (lastchar == ','){
@@ -18,6 +23,14 @@ export default function ArticleCard({ title, author, quote, date, slug, currArti
     let textSize = 'text-5xl'
     if(title.length > 5){
         textSize = 'text-xl'
+    }
+    else if(title.length > 40){
+        textSize = 'text-lg'
+    }
+
+    let bigTextSize = 'text-5xl'
+    if(title.length > 40){
+        bigTextSize = 'text-3xl';
     }
 
     title = title.toLowerCase();
@@ -37,7 +50,7 @@ export default function ArticleCard({ title, author, quote, date, slug, currArti
                 <div className=" flex flex-col p-4 items-center text-center verticalindex:text-left verticalindex:w-full">
                     {/* Bigger screen */}
                     <div className="hidden verticalindex:flex flex-col crunchycards:flex-row justify-between w-full">
-                        <h2 className="mb-3 font-dominique text-5xl max-w-md">{title}</h2>
+                        <h2 className={`mb-3 font-dominique ${bigTextSize} max-w-md`}>{title}</h2>
                         <span className="text-gray-500 mb-5 crunchycards:mb-0 font-tinos text-[1.12rem]">{date}</span>
                     </div>
 
