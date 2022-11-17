@@ -12,7 +12,7 @@ Like many of you, when I move into a new place, I expect it to not be infested w
 
 But sometimes things are just out of your control. Sometimes you sign a lease without thinking, and there you are, stuck living in a gnome-infested apartment for the next two years.
 
-Honestly, I should have been more rigorous in my efforts to get a gnome-free unit. When I toured the apartment, I noticed a little door in the wall, like one a gnome would use, and I just ignored it. I just looked at the landlord and said, “Ah, a little door. Whatever. I’ve got cooler things to think about.” And I didn’t even have anything cooler to think about–I just wanted the landlord to think I had a curious mind.
+Honestly, I should have been more rigorous in my efforts to get a gnome-free unit. When I toured the apartment, I noticed a little door in the wall, like one a gnome would use, and I ignored it. I just looked at the landlord and said, “Ah, a little door. Whatever. I’ve got cooler things to think about.” And I didn’t even have anything cooler to think about–I just wanted the landlord to think I had a curious mind.
 
 Also, when I looked over the lease and the landlord asked if everything seemed fine, I chuckled and said “Yep, as long as there isn’t a gnome infestation.” And then he chuckled too, but he didn't explicitly say there wasn’t one. That was another clue right there.
 
@@ -32,7 +32,7 @@ Whenever I’m trying to toast a bagel, a piece of bread, or a toaster strudel, 
 
 This gnome likes to draw pictures of me that exaggerate my worst features. And then when I try to laugh it off, he tells me that, no, the picture isn’t exaggerated, my ears do actually look that big. And my nose really is that messed up.
 
-He says he’s a renown portrait artist gnome, not a caricature artist gnome, and that he captures the real me. It just so happens the real me is ugly. That’s what he says.
+He says he’s a renowned portrait artist gnome, not a caricature artist gnome, and that he captures the real me. It just so happens the real me is ugly. That’s what he says.
 
 —
 
@@ -74,7 +74,7 @@ Have you ever heard a gnome moan? It’s just like a person moaning, which is to
 
 *8. Cowboy New Yorker Gnome*
 
-I don't get this gnome's thing. Half the time he's complaining about how the suburbs suck and he wishes there were a bodega around here, and the other half of the time he's trying to wrangle me with a lassoo.
+I don't get this gnome's thing. Half the time he's complaining about how the suburbs suck and he wishes there were a bodega around here, and the other half of the time he's trying to wrangle me with a lasso.
 
 And sometimes he has a thick Brooklyn accent, while others he has a slow, Southern drawl. Huge identity crisis on this gnome. He needs to pick a lane. And he needs to stop stabbing me with those spurs on his boots.
 
