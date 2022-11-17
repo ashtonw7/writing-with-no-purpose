@@ -39,6 +39,7 @@ He says he’s a renown portrait artist gnome, not a caricature artist gnome, an
 *3. Pickled Gnome*
 
 This gnome worked its way into a jar of pickles in my fridge and accidentally pickled itself. One less gnome, sure, but now I can’t get to those pickles without risking touching a gross gnome.
+
 —
 
 *4. Observational Comic Gnome*
@@ -46,6 +47,7 @@ This gnome worked its way into a jar of pickles in my fridge and accidentally pi
 Is observational comedy funny? Sure. I like Seinfeld. But the thing is, you’ve gotta be able to relate to it. And this gnome only talks about things he observes in his gnome life. He’s always starting his set saying things like “You ever sit on a stump in an enchanted forest, and then a fairy flies by and turns you into a toadstool?”
 
 No, you stupid gnome, I’ve never done that. And what are you even talking about? Where is there an enchanted forest around here?
+
 —
 
 *5. Seamstress Gnome*
@@ -72,7 +74,9 @@ Have you ever heard a gnome moan? It’s just like a person moaning, which is to
 
 *8. Cowboy New Yorker Gnome*
 
-I don't get this gnome's thing. Half the time he's complaining about how the suburbs suck and he wishes there were a bodega around here, and the other half of the time he's trying to wrangle me with a lassoo. And sometimes he has a thick Brooklyn accent, while others he has a slow, Southern drawl. Huge identity crisis on this gnome. He needs to pick a lane. And he needs to stop stabbing me with those spurs on his boots.
+I don't get this gnome's thing. Half the time he's complaining about how the suburbs suck and he wishes there were a bodega around here, and the other half of the time he's trying to wrangle me with a lassoo.
+
+And sometimes he has a thick Brooklyn accent, while others he has a slow, Southern drawl. Huge identity crisis on this gnome. He needs to pick a lane. And he needs to stop stabbing me with those spurs on his boots.
 
 —
 
