@@ -28,7 +28,7 @@ You may think that if you’re at the age you’re going to a party on Halloween
 
 Most people say that the “trick” in “trick or treating” is pulling pranks, but I’ve always interpreted it as showing people my cool tricks. I practice doing cool tricks the entire month of October just to bust them out at a party.
 
-So I get back up on the coffee and roll my eyes at Ron before he can say anything again, and 
+So I get back up on the coffee table and roll my eyes at Ron before he can say anything again, and 
 I make an announcement that I’m about to start tricking. Everyone stared, probably in anticipation, and then I pulled out a little puppet and started doing ventriloquism. I’m not that good at it, and when I tried to do the bit where you drink as the puppet talks I choked and spit beer all over Ron’s rug, but it was still a pretty good trick.
 
 After that everyone stood in silence, until this big guy dressed as Tarzan walked up and ripped the puppet from my hand. Then he went outside and threw it into a bonfire and everybody cheered.
