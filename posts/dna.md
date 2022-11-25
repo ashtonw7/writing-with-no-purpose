@@ -18,6 +18,6 @@ Have you ever seen a baby giraffe? It comes straight out of the womb and starts 
 
 There’s a lot of animal DNA I’d like to have been born with. The first, obviously, is bird DNA, because then if by some freak accident I grew wings I’d know how to use them. Can you imagine if by some freak accident you grew wings and didn’t know how to use them? That’d be the worst.
 
-Having another animal’s DNA would also be useful for getting out of things. If a lion or a tiger pounces on a person, people say “well it’s in their DNA to attack people.” Meanwhile, if I pounce on someone, they call the police. They say, “why did you pounce on that guy?”
+Having another animal’s DNA would also be useful for getting out of things. If a lion or a tiger pounces on a person, people say, “Well it’s in their DNA to attack people.” Meanwhile, if I pounce on someone, they call the police. They say, “Why did you pounce on that guy?”
 
-And instead of having to answer, “I wanted the rest of that corn dog he was eating,” I could just shrug it off and say “it’s in my DNA.”
+And instead of having to answer, “I wanted the rest of that corn dog he was eating,” I could just shrug it off and say, “It’s in my DNA.”
