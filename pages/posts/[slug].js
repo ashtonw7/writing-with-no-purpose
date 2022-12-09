@@ -140,7 +140,7 @@ export default function PostPage({ frontmatter, content, randFiles }) {
                 </h1>
               </div>
 
-              <p className='text-lg phone:text-xl text-center mb-10 text-gray-500 font-tinos'>{frontmatter.date}</p>
+              <p className='text-xl phone:text-2xl text-center mb-10 text-gray-500 font-tinos'>{frontmatter.date}</p>
               
               <div className="w-full flex justify-center border-b">
               <div className='verticalindex:w-[90%]'>  
