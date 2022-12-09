@@ -1,5 +1,5 @@
 ---
-title: 'The 10 Worst Wishes I Made to My Genie'
+title: '10 Terrible Wishes I Made to My Genie'
 slug: 'genie'
 author: 'Ashton Winters'
 quote: 'I’ll rub just about any lamp I come across. I’ll rub a desk lamp, a floor lamp, a lava lamp–I even get up and rub my TV before a Pixar movie just in case there’s a genie hiding in that one.'
