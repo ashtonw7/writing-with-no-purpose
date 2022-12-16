@@ -1,5 +1,5 @@
 ---
-title: 'Other Things I Made Come Alive with Frosty the Snowman’s Hat'
+title: 'Other Things I Made Come Alive with Frosty the Snowman's Hat'
 slug: 'frosty'
 author: 'Ashton Winters'
 quote: 'The beauty of the Frosty the Snowman hat is that it can make anything come to life, not just snowmen. And I had a whole slew of ideas on what to use it on.'
@@ -16,7 +16,7 @@ I knew it was was one of the magic Frosty the Snowman hats, because it had that 
 
 I didn’t have a corncob pipe, so I offered him a cigarette. I let him smoke it a bit before I took the hat back and made him lifeless again.
 
-The beauty of the Frosty the Snowman hat is that it can make anything come to life, not just snowmen. And I had a whole slew of ideas on what to use it on.
+The beauty of the Frosty the Snowman hat is that it can make anything come to life, not just snowmen. And I had a whole slew of ideas of what to use it on.
 
 My first stop was the Smithsonian Museum of Natural History. I went to the exhibit where they have those mannequins that look like cavemen. I put the hat on one, and he came alive. He was grunting all confused, and he started wrecking the exhibit with his club. It was pretty funny.
 
@@ -30,15 +30,15 @@ After the Smithsonian, I stopped by a friend’s dinner party. “What’s up wi
 
 For dinner, there was one of those roasted pigs with an apple in its mouth. As a joke, I put the hat on the pig. It came alive and started gagging on the apple. I was the only one laughing.
 
-Then it spit out the apple and started squealing, “Please don’t eat me, please don’t eat me!” Again, I was the only one laughing. Come on, the hat made it speak English words like a cartoon pig, how do you not see the humor in that?
+Then it spit out the apple and squealed, “Please don’t eat me, please don’t eat me!” Again, I was the only one laughing. Come on, the hat made it speak English words like a cartoon pig, how do you not see the humor in that?
 
-One of the guests said it was offputting hearing their dinner beg them not to eat it. So I shoved the apple back in its mouth so it couldn’t speak again, just gag. Then the host took the hat off sent me home with it. Hey, whatever. I’ve still got more things to do with this hat.
+One of the guests said it was offputting hearing their dinner beg them not to eat it. So I shoved the apple back in its mouth so it couldn’t speak again, just gag. Then the host took the hat off sent me home with it. Hey, whatever. I still had more things to do with that hat.
 
 On the walk home, I started hatting everything. I put it on a street lamp and watched it dance a little bit. Then I put it on a bike that was chained to the lamp and told it it was locked up for heinous crimes it comitted. It had only just come alive and didn’t understand why else it’d be chained up, so it believed me.
 
 I hatted a USPS Collection Box to see if I could talk it into coughing up some Christmas cards with money. No shot, it said to me. Well you’re not alive anymore then, I said to it. Then I snatched back my hat.
 
-At some point I found a second Frosty the Snowman hat, so I made two different snowmen come alive and fight to the death with hairdryers. Then I took the winner’s hat and put it on the loser’s hat, to make a living Frosty the Snowman hat. This kind of confused both hats, and they started morphing into a big hat-creature. I quickly separated them and threw the other hat away. I really only needed one.
+At some point I found a second Frosty the Snowman hat, so I made two different snowmen come alive and fight to the death with hairdryers. Then I took the winner’s hat and put it on the loser’s hat, to make a living Frosty the Snowman hat. This kind of confused both hats, and they began morphing into a big hat-creature. I quickly separated them and threw the other hat away. I really only needed one.
 
 Once I got home, I hatted a few more things around the house. I did a stuffed monkey–it was funny. I did a bust of Abraham Lincoln-he was insightful. And then I did a knife–it was scary.
 
