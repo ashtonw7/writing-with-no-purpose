@@ -1,5 +1,5 @@
 ---
-title: 'Other Things I Made Come Alive with Frosty the Snowman's Hat'
+title: "Other Things I Made Come Alive with Frosty the Snowman's Hat"
 slug: 'frosty'
 author: 'Ashton Winters'
 quote: 'The beauty of the Frosty the Snowman hat is that it can make anything come to life, not just snowmen. And I had a whole slew of ideas on what to use it on.'
