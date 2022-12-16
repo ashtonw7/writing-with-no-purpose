@@ -18,7 +18,7 @@ But when there’s the possibility of finding a genie, how could you give up? An
 
 But she said if I was looking for a genie, she might be able to help me. She went into the back room and came back with one of those stereotypical genie lamps. I wasn’t sure if it’d really have a genie in it, because it seemed a bit too obvious. Surely a modern genie would want a lamp with electricity in it, no? But she assured me it was real. So I bought it from her and took it home, eager to get some wishes.
 
-I rubbed on the lamp and, sure enough, a big genie came out of it. I told him how excited I was. I told him all about the lamp-rubbing I’d done in my life. He said I was a big idiot for doing that. In fact, he said I was so much of an idiot, he’d waive the whole three wishes thing and give me as many as I wanted. I was an easy mark, he said.
+I rubbed the lamp and, sure enough, a big genie came out of it. I told him how excited I was. I told him all about the lamp-rubbing I’d done in my life. He said I was a big idiot for doing that. In fact, he said I was so much of an idiot, he’d waive the whole three wishes thing and give me as many as I wanted. I was an easy mark, he said.
 
 The thing about genies, you see, is they’re always trying to trick you. They’ll give you your wish, sure, but you won’t like the way they do it. I guess it’s fun for them to be mean to people. If I were a genie, I would be a nice genie. But you have to make do, so I started wishing away. I figured if I knew the genie was trying to trick me, I’d find a way to get around it.
 
