@@ -3,8 +3,7 @@ title: 'My DNA Isn’t All That Great'
 slug: 'dna'
 author: 'Ashton Winters'
 quote: 'I feel like when I was a baby, there wasn’t much instilled in my DNA at all. A baby parrot can probably speak English. You can barely even hold a conversation with a human baby, and if you do it won’t be very engaging I’ll tell you that much.'
-metaTitle: ''
-metaDesc: ''
+
 date: '24 Nov 2022'
 ---
 

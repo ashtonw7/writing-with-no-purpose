@@ -3,8 +3,6 @@ title: 'The Struggles of Being a Butler'
 slug: 'butler'
 author: 'Ashton Winters'
 quote: 'Ever since I was a child I’ve always found myself wearing a suit and dangling a large napkin over my arm. And I’m pretty good at having an old man beat me over the head with a cane whenever I make a mistake'
-metaTitle: ''
-metaDesc: ''
 date: '3 Nov 2022'
 ---
 

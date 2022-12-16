@@ -3,8 +3,6 @@ title: 'The Time the 1940s Mafia Invaded My Hometown'
 slug: 'mafia'
 author: 'Ashton Winters'
 quote: 'After that, I decided to muscle my way past them. The only problem was that the guys were very strong, and I was very covered in spaghetti and I kept getting sauce in my eyes.'
-metaTitle: ''
-metaDesc: ''
 date: '1 Dec 2022'
 ---
 

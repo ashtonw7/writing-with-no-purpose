@@ -3,8 +3,6 @@ title: 'A Conversation Between Two Guys Writing the First American History Textb
 slug: 'history-book'
 author: 'Ashton Winters'
 quote: 'Well, here we are in the 1800s. I think it’s about time we write the first American History textbook. I think that’s a swell idea. That way schoolchildren can learn about the major events that led to the development of our country.'
-metaTitle: ''
-metaDesc: ''
 date: '10 Nov 2022'
 ---
 

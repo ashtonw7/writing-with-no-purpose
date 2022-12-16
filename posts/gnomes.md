@@ -3,8 +3,6 @@ title: 'Top 10 Worst Gnomes in My Apartment'
 slug: 'gnomes'
 author: 'Ashton Winters'
 quote: 'But sometimes things are just out of your control. Sometimes you sign a lease without thinking, and there you are, stuck living in a gnome-infested apartment for the next two years.'
-metaTitle: ''
-metaDesc: ''
 date: '17 Nov 2022'
 ---
 

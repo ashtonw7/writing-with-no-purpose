@@ -3,8 +3,6 @@ title: "She's Not Like the Other Girls"
 slug: 'other-girls'
 author: 'Ashton Winters'
 quote: 'She’s got a good head on her shoulders. Like sometimes I’ll ask her to go see a movie with me, and she’ll curse me. She’s always saying moving pictures are witchcraft and if we watch one we’ll receive eternal damnation.'
-metaTitle: ''
-metaDesc: ''
 date: '5 Oct 2022'
 ---
 

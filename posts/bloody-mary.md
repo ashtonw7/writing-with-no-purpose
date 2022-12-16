@@ -3,8 +3,6 @@ title: '8 People to Summon Out of a Mirror Instead of Bloody Mary'
 slug: 'bloody-mary'
 author: 'Ashton Winters'
 quote: 'There are so many other cool people you can summon out of a mirror. Here are some of my favorites.'
-metaTitle: ''
-metaDesc: ''
 date: '15 Sep 2022'
 ---
 
