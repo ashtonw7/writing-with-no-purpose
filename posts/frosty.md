@@ -22,19 +22,19 @@ My first stop was the Smithsonian Museum of Natural History. I went to the exhib
 
 But then he locked eyes with me. I think he didn’t like me, because he started hitting his club against his hand and grunting. Just as I thought he was going to pummel me, he got distracted by his reflection in a window. Then he noticed the hat on his head.
 
-The thing about cavemen is they aren’t very smart. What you and I might recognize as a hat, they might recognize as a weird creature that’s eating their head. So he used his club to knock the hat right off. Silly caveman, you can’t go knocking that hat off. It’s only thing keeping you alive! Sure enough, he became a mannequin again, and I was escorted out by the security guard.
+The thing about cavemen is they aren’t very smart. What you and I might recognize as a hat, they might recognize as a weird creature that’s eating their head. So he used his club to knock the hat right off. Silly caveman, you can’t go knocking that hat off. It’s the only thing keeping you alive! Sure enough, he became a mannequin again, and I was escorted out by the security guard.
 
 After the Smithsonian, I stopped by a friend’s dinner party. “What’s up with that dumb flower hat?” my buddy asked me.
 
 “I’ll show you,” I said, and I plopped it on his head, making him turn double alive. This made him glow and levitate off the ground. I think he was becoming a god. I yanked the hat off him. No more making people become double alive–noted.
 
-For dinner, there was one those roasted pigs with an apple in its mouth. As a joke, I put the hat on the pig. It came alive and started gagging on the apple. I was the only one laughing.
+For dinner, there was one of those roasted pigs with an apple in its mouth. As a joke, I put the hat on the pig. It came alive and started gagging on the apple. I was the only one laughing.
 
-Then it spit out the apple and started squealing, “Please don’t eat me, please don’t eat me!” Again, I was the only one laughing. Come on, the hat made it English words like a cartoon pig, how do you not see the humor in that?
+Then it spit out the apple and started squealing, “Please don’t eat me, please don’t eat me!” Again, I was the only one laughing. Come on, the hat made it speak English words like a cartoon pig, how do you not see the humor in that?
 
 One of the guests said it was offputting hearing their dinner beg them not to eat it. So I shoved the apple back in its mouth so it couldn’t speak again, just gag. Then the host took the hat off sent me home with it. Hey, whatever. I’ve still got more things to do with this hat.
 
-On the walk home, I started hatting everything. I put it on a street lamp and watched it dance a little bit. Then I put it on a bike that was chained to the lamp and told it was locked up for heinous crimes it comitted. It had only just come alive and didn’t understand why else it’d be chained up, so it believed me.
+On the walk home, I started hatting everything. I put it on a street lamp and watched it dance a little bit. Then I put it on a bike that was chained to the lamp and told it it was locked up for heinous crimes it comitted. It had only just come alive and didn’t understand why else it’d be chained up, so it believed me.
 
 I hatted a USPS Collection Box to see if I could talk it into coughing up some Christmas cards with money. No shot, it said to me. Well you’re not alive anymore then, I said to it. Then I snatched back my hat.
 
