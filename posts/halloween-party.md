@@ -2,7 +2,7 @@
 title: "My Terrible Halloween Party Experience"
 slug: 'halloween-party'
 author: 'Ashton Winters'
-quote: 'Finally I stood up on the coffee table and made an out-of-character announcement. I yelled, “I’m a mummy.” I expected some “ohhh’s” as people finally understood, but the only person who said anything was Ron. He said, “Get off my coffee table."'
+quote: 'Finally I stood up on the coffee table and made an out-of-character announcement. I yelled, “I’m a mummy.” I expected some “ohhh’s” as people finally understood, but the only person who said anything was Ron. He said, 'Get off my coffee table.''
 metaTitle: ''
 metaDesc: ''
 date: '27 Oct 2022'
