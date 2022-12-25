@@ -2,11 +2,11 @@
 title: "Interviews for Santa's Replacement"
 slug: 'santa'
 author: 'Ashton Winters'
-quote: 'Santa is retiring. The North Pole is looking for a new Santa. The old Santa was fine, but we’re looking to spice things up a bit. We are only looking for potential Santas with some sort of fun gimmick that will reinvigorate the excitement of children around the world.'
+quote: 'Job Listing: Santa is retiring and the North Pole is looking for a new Santa. We're searching for a fresh Santa with a fun gimmick to reinvigorate the excitement of children around the world.'
 date: '24 Dec 2022'
 ---
 
-*Job Listing: Santa is retiring. The North Pole is looking for a new Santa. The old Santa was fine, but we’re looking to spice things up a bit. We are only looking for potential Santas with some sort of fun gimmick that will reinvigorate the excitement of children around the world.*
+*Job Listing: Santa is retiring and the North Pole is looking for a new Santa. We're searching for a fresh Santa with a fun gimmick to reinvigorate the excitement of children around the world.*
 
 //
 
