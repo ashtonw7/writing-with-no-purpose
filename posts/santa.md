@@ -104,7 +104,7 @@ date: '24 Dec 2022'
 
 —So you’re an elf and you think you’ve worked hard enough to be the next Santa?
 
-—Yes that is correct.
+—Yes, that is correct.
 
 —You’re a bit too small to be Santa.
 
