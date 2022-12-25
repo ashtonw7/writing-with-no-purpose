@@ -66,7 +66,7 @@ date: '24 Dec 2022'
 
 —What’s Edgy Santa do?
 
-—I wear a leather jacket. And I curse a lot. Not at the kids, of course, but at mall staffs and an interviews.
+—I wear a leather jacket. And I curse a lot. Not at the kids, of course, but at mall staff and in interviews.
 
 —Do you have sunglasses?
 
