@@ -1,5 +1,5 @@
 ---
-title: 'I’m Honestly Fine With the Fact That Dodo Birds Are Extinct'
+title: 'I’m Honestly Fine with the Fact That Dodo Birds Are Extinct'
 slug: 'dodo-birds'
 author: 'Ashton Winters'
 quote: 'I wonder why dodo birds became so popular. Sometimes I sit around wondering that for an entire afternoon. I can only come to one conclusion.'
