@@ -14,7 +14,7 @@ But now I’ve been sitting here with my barrel, and the novelty is beginning to
 
 And so, this year my New Year's resolution is to finally get some use out of my barrel.
 
-The first thing I want to do with it is easy. First, I want to cut two holes in the barrels. Then I want to get involved in some sort of chase, maybe by the police or some punk kids. Then I’ll duck around a corner, hop in the barrel, and hide. And as they run past all you’ll see is my eyes poking out of the holes watching.
+The first thing I want to do with it is easy. First, I want to cut two holes in the barrel. Then I want to get involved in some sort of chase, maybe by the police or some punk kids. Then I’ll duck around a corner, hop in the barrel, and hide. And as they run past all you’ll see is my eyes poking out of the holes watching.
 
 I think this one will be easy because I’m always getting into trouble with police and punk kids.
 
