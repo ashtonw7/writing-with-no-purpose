@@ -1,5 +1,5 @@
 ---
-title: 'New Year’s Resolutions Involving My Barrel'
+title: "New Year's Resolutions Involving My Barrel"
 slug: 'barrel'
 author: 'Ashton Winters'
 quote: 'But now I’ve been sitting here with my barrel, and the novelty is beginning to wear off. You can only look at a barrel for so long before you’re like, alright, time to do something with this.'
