@@ -1,5 +1,5 @@
 ---
-title: 'My DNA Isn’t All That Great'
+title: "My DNA Isn't All That Great"
 slug: 'dna'
 author: 'Ashton Winters'
 quote: 'I feel like when I was a baby, there wasn’t much instilled in my DNA at all. A baby parrot can probably speak English. You can barely even hold a conversation with a human baby, and if you do it won’t be very engaging I’ll tell you that much.'
@@ -9,7 +9,7 @@ date: '24 Nov 2022'
 
 Compared to animals, I think humans got the short end of the stick when it comes to DNA. A lot of times you see an animal doing something, and you’re like “How does it know how to do that?” And then some science nerd will chime in and say “it’s instilled in its DNA.”
 
-I feel like when I was a baby, there wasn’t much instilled in my DNA at all. A baby parrot can probably speak English. You can barely even hold a conversation with a human baby, and if you do it won’t be very engaging I’ll tell you that much.
+I feel like when I was a baby, there wasn’t much instilled in my DNA at all. A baby parrot can probably speak English. You can barely even hold a conversation with a human baby, and if you do it won’t be very engaging, I’ll tell you that much.
 
 A squirrel knows what it can eat in a forest. Throw a toddler into a forest, and I bet it’d try to eat a rock.
 

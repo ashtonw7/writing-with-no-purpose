@@ -2,7 +2,7 @@
 title: 'The Struggles of Being a Butler'
 slug: 'butler'
 author: 'Ashton Winters'
-quote: 'Ever since I was a child I’ve always found myself wearing a suit and dangling a large napkin over my arm. And I’m pretty good at having an old man beat me over the head with a cane whenever I make a mistake'
+quote: 'Ever since I was a child I’ve always found myself wearing a suit and dangling a large napkin over my arm. And I’m pretty good at having an old man beat me over the head with a cane whenever I make a mistake.'
 date: '3 Nov 2022'
 ---
 
@@ -26,7 +26,7 @@ I know, I know, I didn’t take my own advice there. But the thing is, these kin
 
 Working for a guy like Von Dutchmandorf can be very trying. Like the other day I was trimming his hedges, and Von Dutchmandorf came out to yell at me because his endangered species bone collection wasn’t polished. I told him I’d get to it but first I’d have to finish trimming the hedges. Then he said if I didn’t quit it with the hedges and start polishing he’d beat me over the head with a cane.
 
-The thing is, I’d already been beaten over the head with a cane for not trimming the hedges, but whatever.
+The thing is, I’d already been beaten over the head with a cane for not trimming the hedges.
 
 There are a lot of punishments Von Dutchmandorf has for me besides the cane. Sometimes he locks me in his sauna for hours without water. And then when he finally opens the door and I crawl out panting like a stupid dog, he beats me with that cane again.
 
