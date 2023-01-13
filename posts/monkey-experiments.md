@@ -18,7 +18,7 @@ I have returned your proposal to you along with this letter. I suggest that you 
 
 *PROPOSAL:* Bring Back Crazy Experiments on Monkeys
 
-*DETAILS:* Science is getting quite boring these days, so we need to go back to doing crazy things to monkeys, the time when science was fun. I, Dr, Scienceman, have several experiments in mind that I am seeking funding for.
+*DETAILS:* Science is getting quite boring these days, so we need to go back to doing crazy things to monkeys. I, Dr. Scienceman, have several experiments in mind that I am seeking funding for.
 
 —
 
