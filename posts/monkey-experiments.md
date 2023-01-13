@@ -1,5 +1,5 @@
 ---
-title: "Your Grant Proposal for Monkey Experiments has been Denied"
+title: "Your Grant Proposal for Monkey Experiments has been Rejected"
 slug: 'monkey-experiments'
 author: 'Ashton Winters'
 quote: 'I have returned your proposal to you along with this letter. I suggest you destroy it and never show it to anyone again. These ideas are truly horrible, and I hope you do not pursue them any further.'
@@ -9,7 +9,7 @@ Dear Dr. Scienceman,
 
 I am writing in response for your grant proposal you recently sent. I would like to emphasize that our organization provides funding for experiments that seek the betterment of humanity as whole. After reading your proposal, I am at a loss as to how you think your proposed experiments would work towards this goal in any way.
 
-And so, I regret to inform you that your that your funding request to "Bring Back Crazy Experiments on Monkeys" has been denied.
+And so, I regret to inform you that your that your grant proposal to "Bring Back Crazy Experiments on Monkeys" has been rejected.
 
 I have returned your proposal to you along with this letter. I suggest you destroy it and never show it to anyone again. These ideas are truly horrible, and I hope you do not pursue them any further.
 
