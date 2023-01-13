@@ -2,7 +2,7 @@
 title: "Your Grant Proposal for Monkey Experiments has been Denied"
 slug: 'monkey-experiments'
 author: 'Ashton Winters'
-quote: 'I regret to inform you that your that your funding request to "Bring Back Crazy Experiments on Monkeys" has been denied.'
+quote: 'I have returned your proposal to you along with this letter. I suggest you destroy it and never show it to anyone again. These ideas are truly horrible, and I hope you do not pursue them any further.'
 ---
 
 Dear Dr. Scienceman,
