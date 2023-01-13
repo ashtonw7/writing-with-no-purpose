@@ -26,7 +26,7 @@ I have returned your proposal to you along with this letter. I suggest that you 
 
 *METHODOLOGY:* Teach one monkey to love, and another monkey to hate. Then see which monkey wins in a fight.
 
-*GOAL:* This experiment will finally answer the question, which is better, loving or hating?
+*GOAL:* This experiment will finally answer the question: which is better, loving or hating?
 
 —
 
