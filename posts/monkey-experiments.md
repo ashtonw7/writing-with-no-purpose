@@ -32,25 +32,25 @@ I have returned your proposal to you along with this letter. I suggest that you 
 
 *EXPERIMENT IDEA:* Robot child
 
-*METHODOLOGY:* We all know the classic Nature vs. Nurture experiment where one making was raised by a nice mother, and another by a spiky robot mother. In this experiment, a monkey will raise a spiky robot child and we'll see what that's like.
+*METHODOLOGY:* We all know the classic Nature vs. Nurture experiment where one monkey was raised by a nice mother, and another monkey by a spiky robot mother. In this experiment, a monkey will raise a spiky robot child and we'll see what that's like.
 
 *GOAL:* It would be very interesting to see a monkey team up with a spiky robot. This experiment could end up with a cool movie being made about the antics the monkey and robot will inevitably get into.
 
 —
 
-*EXPERIMENT IDEA:* Can a monkey out-drink me?
+*EXPERIMENT IDEA:* Can a Monkey Out-Drink Me?
 
 *METHODOLOGY:* I buy two cases of beer, one for me and one for the monkey. Then we go to toe to toe seeing who can drink the most the fastest.
 
-*PURPOSE:* This experiment is just a good time for the monkey and I. I guess it would also determine how cool a monkey could be at a party.
+*PURPOSE:* This experiment is just a good time for the monkey and me. I guess it would also determine how cool a monkey could be at a party.
 
 —
 
-*EXPERIMENT IDEA:* Make a monkey with big ol’ claws
+*EXPERIMENT IDEA:* Make a Monkey with Big Ol’ Claws
 
 *METHODOLOGY:* This one is simple. We use science to breed a monkey with big ol’ claws.
 
-*PURPOSE:* Stopping Crime
+*PURPOSE:* Fighting crime
 
 —
 
