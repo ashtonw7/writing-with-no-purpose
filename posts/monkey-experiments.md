@@ -12,7 +12,7 @@ I am writing in response to your recent grant proposal. I would like to emphasiz
 
 And so, I regret to inform you that your that your grant proposal to "Bring Back Crazy Experiments on Monkeys" has been rejected.
 
-I have returned your proposal to you along with this letter. I suggest you destroy it and never show it to anyone again. These ideas are truly horrible, and I hope you do not pursue them any further.
+I have returned your proposal to you along with this letter. I suggest that you destroy it and never show it to anyone again. These ideas are truly horrible, and I hope you do not pursue them any further.
 
 //
 
