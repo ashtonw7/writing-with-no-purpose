@@ -8,7 +8,7 @@ date: '13 Jan 2023'
 
 Dear Dr. Scienceman,
 
-I am writing in response to your recent grant proposal. I would like to emphasize that our organization provides funding for experiments that seek the betterment of humanity as whole. After reading your proposal, I am at a loss as to how you think your proposed experiments would work towards this goal in any way.
+I am writing in response to your recent grant proposal. I would like to emphasize that our organization provides funding for experiments that seek the betterment of humanity as a whole. After reading your proposal, I am at a loss as to how you think your proposed experiments would work towards this goal in any way.
 
 And so, I regret to inform you that your that your grant proposal to "Bring Back Crazy Experiments on Monkeys" has been rejected.
 
