@@ -40,7 +40,7 @@ I have returned your proposal to you along with this letter. I suggest that you 
 
 *EXPERIMENT IDEA:* Can a Monkey Out-Drink Me?
 
-*METHODOLOGY:* I buy two cases of beer, one for me and one for the monkey. Then we go to toe to toe seeing who can drink the most the fastest.
+*METHODOLOGY:* I buy two cases of beer, one for me and one for the monkey. Then we go toe to toe seeing who can drink the most the fastest.
 
 *PURPOSE:* This experiment is just a good time for the monkey and me. I guess it would also determine how cool a monkey could be at a party.
 
