@@ -1,5 +1,5 @@
 ---
-title: 'I Should Have Been Born When Being a Jester Was a Profession'
+title: "I Should've Been Born When Being a Jester Was a Profession"
 slug: 'jester'
 author: 'Ashton Winters'
 quote: 'I love everything about the idea of being a jester. Your whole job is to make a rich, fat king laugh at you. I think I’d be very good at this.'
