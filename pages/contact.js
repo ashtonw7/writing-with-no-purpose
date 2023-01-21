@@ -27,7 +27,7 @@ export default function Contact() {
               If you would like to contact me, you can reach me at
             </p>
             <a href="mailto:ashton.winters@aya.yale.edu" className="hover:underline italic text-center text-[1.2rem] weirdcontact:text-2xl font-tinos">
-              ashton.winters@aya.yale.edu
+              ashtonwinters@fatpuppet.com
               <span className="content vertical-index:hidden">.</span>
             </a>
             <span className="hidden vertical-index:content">.</span>
