@@ -46,7 +46,7 @@ She yelped a little, and then complained to the staff and had me thrown out. I d
 
 On my walk home, I saw the cupid flying around again. He was flying a little wonky and was holding a bottle of whiskey so I’m pretty sure he was drunk. Celebrating a successful Valentine’s Day I guess.
 
-I asked him why his stupid arrows didn’t work from. Take another look at them, he told me. So I looked down and I saw they had “placebo” written on them.
+I asked him why his stupid arrows didn’t work for me. Take another look at them, he told me. So I looked down and I saw they had “placebo” written on them.
 
 He told me he shot people and the thought of being hit by a love arrow made them process their emotions faster. Then they’d fall in love. They weren’t magic at all.
 
