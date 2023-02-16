@@ -3,7 +3,7 @@ title: 'The Time I Beat Up a Cupid'
 slug: 'cupid'
 author: 'Ashton Winters'
 quote: 'Okay, maybe she was laughing a little. I guess it might’ve actually been a good date, but it would have been better if I were dating the bartender instead of Greg, that’s all I’m saying.' 
-date: '14 Feb 2022'
+date: '14 Feb 2023'
 ---
 
 I don’t like cherubs. To be honest, I think they’re kind of gross. I don’t like their fat, round faces or childlike whimsy.
