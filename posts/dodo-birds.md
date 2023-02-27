@@ -8,7 +8,7 @@ date: '5 Jan 2023'
 
 I’ve never seen the appeal of the dodo bird, I guess. And yet somehow, it’s the most popular extinct animal out there. Everyone knows about the dodo bird. When you’re learning about animals as a kid, the teachers are always like, “And here’s a dodo bird. It’s extinct. That means there aren’t any left.”
 
-And every time somebody told me that I was just like, “huh, alright then”, and kept going about my day. Because really, who cares? First of all, they looked pretty dumb. Whoever named them dodo birds, man, that guy nailed it. I don’t blame them for killing them all off after they discovered them. If I had been with the group that first found dodo birds, I’d do the same. I’d be like, “Hey guys, let’s extinct these things already!”
+And every time somebody told me that I was just like, “huh, alright then,” and kept going about my day. Because really, who cares? First of all, they looked pretty dumb. Whoever named them dodo birds, man, that guy nailed it. I don’t blame them for killing them all off after they discovered them. If I had been with the group that first found dodo birds, I’d do the same. I’d be like, “Hey guys, let’s extinct these things already!”
 
 I wonder why dodo birds became so popular. Sometimes I sit around wondering that for an entire afternoon. I can only come to one conclusion, and that’s that there weren’t too many funny things going on back in dodo-times. I’m not quite sure when exactly dodo birds were around, but it was probably a time when there was a lot of war or famine and stuff like that. In a time like that, you’d be chomping at the bit to laugh at any goofy-looking creature, avian or not.
 
