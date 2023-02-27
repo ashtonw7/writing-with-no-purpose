@@ -22,7 +22,7 @@ Maybe she’d be impressed, the guy told me. Maybe she’d be like, wow, this gu
 
 That didn’t matter to me. I didn’t want some pretty woman looking at me and picturing me as a fat man. So I passed on the skis and got some snowshoes.
 
-I headed off to the mountains to find a cave. The thing about yetis is that they usually live in caves. Yetis love to hang out in a good cave. Hey all power to them, but you wouldn’t catch me dead hanging out in a cave all day. Hard to meet girls when your home is a cave. I’ve learned that lesson.
+I headed off to the mountains to find a cave. The thing about yetis is that they usually live in caves. Yetis love to hang out in a good cave. Hey, all power to them, but you wouldn’t catch me dead hanging out in a cave all day. Hard to meet girls when your home is a cave. I’ve learned that lesson.
 
 Anyway, I saw what looked to be the mouth of a cave and headed in. I looked for any traces of a yeti, like footprints, fur, or a giant shadow of a hulking beast. I couldn’t find anything. All I found were a bunch of stalagmites. Or were they stalactites? Which ones are the type that fall right into your freaking eyeball when you stare at them and really hurt? It was that kind.
 
