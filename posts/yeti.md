@@ -2,7 +2,7 @@
 title: "Going on a Yeti Hunt"
 slug: 'yeti'
 author: 'Ashton Winters'
-quote: 'I headed off to the mountains to find a cave. The thing about yetis is that they usually live in caves. Yetis love to hang out in a good cave. Hey all power to them, but you wouldn’t catch me dead hanging out in a cave all day. Hard to meet girls when your home is a cave. I’ve learned that lesson.'
+quote: 'Yetis love to hang out in a good cave. Hey, all power to them, but you wouldn’t catch me dead hanging out in a cave all day. Hard to meet girls when your home is a cave. I’ve learned that lesson.'
 date: '26 Feb 2023'
 ---
 
