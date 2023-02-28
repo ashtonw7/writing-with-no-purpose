@@ -4,7 +4,7 @@ export default function Footer() {
         <footer className="drop-shadow-md bg-black w-full phone:h-auto mt-0 phone:px-5 text-white flex items-center justify-center">
             <div className="flex flex-col">
                 <span className="mt-10 mb-4 px-10 phone:px-0 centerfooter:px-0 text-center font-tinos">
-                    © 2022 Fat Puppet. All content by Ashton Winters. All Rights Reserved.
+                    © 2022-2023 Fat Puppet. All content by Ashton Winters. All Rights Reserved.
                 </span>
                 <div className="flex justify-center">
                     <div id="icons" className="mb-10 flex flex-row justify-between w-3/5">

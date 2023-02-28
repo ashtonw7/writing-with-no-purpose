@@ -30,7 +30,7 @@ It turns out I was the weird guy. I guess the cupid and I perceive things differ
 
 I’ve gotta say, these love arrows are pretty fun. I don’t have a bow, so I just throw them like a spear at things that I want to make fall in love with each other.
 
-I tested them out on a couple at a park. Sure enough, after the guy got hit and he got down on a knee and started proposing. Then I threw another arrow at a meter maid and he started proposing to the meter maid. Good luck getting out of that one, guy.
+I tested them out on a couple at a park. Sure enough, after the guy got hit he got down on a knee and started proposing. Then I threw another arrow at a meter maid and he started proposing to the meter maid. Good luck getting out of that one, guy.
 
 I went to a pet store and made a dog fall in love with a moray eel. That got weird.
 
@@ -38,9 +38,9 @@ I was at a deli and heard a guy say, “this sandwich is delicious.” So I said
 
 I went home and threw one at a mirror to make me love myself.
 
-I found myself back at the coffee shop and there was Greg and the bartender again, on a second date. Should I have been happy for Greg?
+I found myself back at the coffee shop, and there Greg was with the bartender again on a second date. Should I have been happy for Greg?
 
-No, of course not, I already decided he was my enemy for asking out the bartender before I had a chance. So I jabbed one arrow and my leg, and threw the other at the bartender.
+No, of course not. I already decided he was my enemy for asking out the bartender before I had a chance. So I jabbed one arrow and my leg, and threw the other at the bartender.
 
 She yelped a little, and then complained to the staff and had me thrown out. I didn’t get it? Why didn’t the love arrow work? It worked the other times.
 
