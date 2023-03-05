@@ -94,7 +94,7 @@ date: '4 March 2023'
 
 —Why would they do that?
 
-—To fund my lifestyle basically. I’d have a pretty luxurious lifestyle with all that money. Plus everyone’s already talking about giving me some of their food. Why not give me some money too?
+—To fund my lifestyle basically. I’d have a pretty luxurious lifestyle with all that money. Plus, everyone’s already talking about giving me some of their food. Why not give me some money too?
 
 —Why would everyone pay for you to have a great life like that?
 
@@ -114,7 +114,7 @@ date: '4 March 2023'
 
 —What’s a queen?
 
-—Kind of my counterpart. Everyone’s been talking about letting me live this crazy life where I’m rich and don’t work. I know. Crazy, right? But everyone’s saying it. And I’d let you tag along.
+—Kind of my counterpart. Everyone’s been talking about letting me live this life where I’m rich and don’t work. I know. Crazy, right? But everyone’s saying it. And I’d let you tag along.
 
 —That would be nice. And we’d be married?
 
@@ -129,13 +129,13 @@ date: '4 March 2023'
 
 —Say, how are the mines these days?
 
-—Not too bad. Well, I mean they’re pretty dark. And dangerous. But you can find some good stuff down there so not too bad.
+—Not too bad. Well, I mean they’re pretty dark. And dangerous. But you can find some good ore down there, so not too bad.
 
 —If you don’t mind, could you melt down some gold for me and make it into a pointy hat?
 
 —What? Why a pointy hat?
 
-—Haha, sorry I probably didn’t explain it well enough. It’s not one big point, it's like a lot of little points in a circle. I think it’d be a good thing for me to wear around while I’m collecting taxes.
+—Sorry, I probably didn’t explain it well enough. It’s not one big point, it's like a lot of little points in a circle. I think it’d be a good thing for me to wear around while I’m collecting taxes.
 
 —What are taxes?
 
@@ -149,7 +149,7 @@ date: '4 March 2023'
 
 —I am.
 
-—Could you make me like a silk robe? And maybe an ermine coat. I think they’d look good together.
+—Could you make me a silk robe? And maybe an ermine coat. I think they’d look good together.
 
 —Those are awfully expensive materials. Why do you even want an outfit like that?
 
