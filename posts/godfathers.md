@@ -1,5 +1,5 @@
 ---
-title: "Why Your Kid May Need Greek Godsfathers"
+title: "Why Your Kid May Need Greek Godfathers"
 slug: 'godfathers'
 author: 'Ashton Winters'
 quote: 'But the thing is, there are a lot of things a godfather won’t do. At the end of the day, it’s mostly on you to raise the kid. So I think it’s a good idea to give your kids lots of godfathers. If you play your cards right, you’ll barely have to do anything.'
@@ -14,7 +14,7 @@ Probably the best part of a godfather is that they have to take care of the kid 
 
 But the thing is, there are a lot of things a godfather won’t do. At the end of the day, it’s mostly on you to raise the kid. So I think it’s a good idea to give your kids lots of godfathers. If you play your cards right, you’ll barely have to do anything. You can focus on all the benefits of having a kid, like the tax breaks and free birthday desserts at restaurants. And you won’t have to deal with any of the hard things, like teaching the kid to read or how to drive you home from the bar.
 
-To get a bunch of godfathers, you’re going to have to branch out. I’d recommend Greek mythology. There are a lot of gods there.  Here’s a list of some good Greek godsfathers you can give your child to make your life a breeze.
+To get a bunch of godfathers, you’re going to have to branch out. I’d recommend Greek mythology. There are a lot of gods there.  Here’s a list of some good Greek godfathers you can give your child to make your life a breeze.
 
 —
 
@@ -42,7 +42,7 @@ This guy has to teach your kid to swim. He’ll also make your kid take a bath. 
 
 *4. Dionsysusfather*
 
-This godsfather is responsible for drinking a lot of wine and partying all the time. He also has to teach the kid to do the same. Personally, I don’t think I’d need a Dionysusfather and I’d just take on those responsibilities myself. People say I’m quite good at those kinds of things.
+This godfather is responsible for drinking a lot of wine and partying all the time. He also has to teach the kid to do the same. Personally, I don’t think I’d need a Dionysusfather and I’d just take on those responsibilities myself. People say I’m quite good at those kinds of things.
 
 —
 
@@ -71,6 +71,6 @@ This one isn’t a Greek god, but it’s still good to have a guy make your kid 
 
 —
 
-That about sums it up. I’m sure there are some other godsfathers you can use too. The more the merrier, I say.
+That about sums it up. I’m sure there are some other godfathers you can use too. The more the merrier, I say.
 
 And I’ll let you know when I think of some good Greek godsmothers to keep around too. Right now I’m leaning toward an Aphroditemother, the goddess of love. I think that could avoid some awkward conversations down the line.
