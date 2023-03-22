@@ -30,7 +30,7 @@ You’d think a kid would realize that’s a bad idea, but they don’t know any
 
 You might think a Hadesfather is responsible for punishing your kid. But remember, Hades also had that three-headed dog. If you have a dog, you’re probably going to make your kid walk it and feed it.
 
-But guess what? Your kid probably has other ideas on how to spend the day, like playing jacks. It won’t want to take care of that dog. And that’s where the Hadesfather comes in.
+But guess what? Your kid probably has other ideas on how to spend the day, like playing jacks. They won’t want to take care of that dog. And that’s where the Hadesfather comes in.
 
 —
 
@@ -65,7 +65,7 @@ They might actually get into more trouble with an Apollofather, seeing as a bow 
 
 —
 
-*6. Sisyphusfather*
+*7. Sisyphusfather*
 
 This one isn’t a Greek god, but it’s still good to have a guy make your kid carry a big rock around sometimes. I bet that would teach them some sort of lesson.
 
