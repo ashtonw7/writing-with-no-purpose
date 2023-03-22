@@ -20,13 +20,17 @@ To get a bunch of godfathers, you’re going to have to branch out. I’d recomm
 
 *1. Zeusfather*
 
-A Zeusfather is responsible for teaching your kids about electricity. If there’s one thing I know about kids, it’s that they love to shove things in electrical outlets. You’d think a kid would realize that’s a bad idea, but they don’t know any better. If you don’t have a Zeusfather around, you’ll probably spend about half of your day shooing your kid away from sockets.
+A Zeusfather is responsible for teaching your kids about electricity. If there’s one thing I know about kids, it’s that they love to shove things in electrical outlets.
+
+You’d think a kid would realize that’s a bad idea, but they don’t know any better. If you don’t have a Zeusfather around, you’ll probably spend about half of your day shooing your kid away from sockets.
 
 —
 
 *2. Hadesfather*
 
-You might think a Hadesfather is responsible for punishing your kid. But remember, Hades also had that three-headed dog. If you have a dog, you’re probably going to make your kid walk it and feed it. But guess what? Your kid probably has other ideas on how to spend the day, like playing jacks. It won’t want to take care of that dog. And that’s where the Hadesfather comes in.
+You might think a Hadesfather is responsible for punishing your kid. But remember, Hades also had that three-headed dog. If you have a dog, you’re probably going to make your kid walk it and feed it.
+
+But guess what? Your kid probably has other ideas on how to spend the day, like playing jacks. It won’t want to take care of that dog. And that’s where the Hadesfather comes in.
 
 —
 
@@ -38,7 +42,7 @@ This guy has to teach your kid to swim. He’ll also make your kid take a bath. 
 
 *4. Dionsysusfather*
 
-This godsfather is responsible for drinking a lot of wine and having a party all the time. He also has to teach the kid to do the same. Personally, I don’t think I’d need a Dionysusfather and I’d just take on those responsibilities myself. People say I’m quite good at those kinds of things.
+This godsfather is responsible for drinking a lot of wine and partying all the time. He also has to teach the kid to do the same. Personally, I don’t think I’d need a Dionysusfather and I’d just take on those responsibilities myself. People say I’m quite good at those kinds of things.
 
 —
 
@@ -64,6 +68,9 @@ They might actually get into more trouble with an Apollofather, seeing as a bow 
 *6. Sisyphusfather*
 
 This one isn’t a Greek god, but it’s still good to have a guy make your kid carry a big rock around sometimes. I bet that would teach them some sort of lesson.
+
 —
 
-That about sums it up. I’m sure there’s some other godsfathers you can use too. The more the merrier, I say. And I’ll let you know when I think of some good godsmothers to keep around too. Right now I’m leaning toward an Aphroditemother, the goddess of love. I think that could avoid some awkward conversations down the line.
+That about sums it up. I’m sure there are some other godsfathers you can use too. The more the merrier, I say.
+
+And I’ll let you know when I think of some good Greek godsmothers to keep around too. Right now I’m leaning toward an Aphroditemother, the goddess of love. I think that could avoid some awkward conversations down the line.
