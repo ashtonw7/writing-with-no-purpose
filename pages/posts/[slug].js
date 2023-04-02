@@ -135,7 +135,7 @@ export default function PostPage({ frontmatter, content, randFiles }) {
               </div>
 
               <div className="w-full flex justify-center">
-                <h1 className='w-[90%] text-[2.5rem] phone:text-6xl font-dominique text-center'>
+                <h1 className='w-[90%] text-[2rem] phone:text-6xl leading-9 phone:leading-[4rem] font-dominique text-center'>
                   {frontmatter.title.toLowerCase()}
                 </h1>
               </div>

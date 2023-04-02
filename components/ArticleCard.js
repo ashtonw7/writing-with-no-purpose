@@ -5,10 +5,10 @@ export default function ArticleCard({ title, author, quote, date, slug, currArti
     imageLink = '/assets/images/' + slug + '.png';
     let smallquote = ''
     if (title.length < 40){
-        smallquote = quote.split(/\s+/).slice(0, 8).join(' ');
+        smallquote = quote.split(/\s+/).slice(0, 11).join(' ');
     }
     else{
-        smallquote = quote.split(/\s+/).slice(0, 7).join(' ');
+        smallquote = quote.split(/\s+/).slice(0, 10).join(' ');
     }
     let lastchar = smallquote.slice(-1);
 
@@ -28,10 +28,10 @@ export default function ArticleCard({ title, author, quote, date, slug, currArti
         textSize = 'text-lg'
     }
 
-    let bigTextSize = 'text-5xl'
-    if(title.length > 40){
-        bigTextSize = 'text-3xl';
-    }
+    let bigTextSize = 'text-[2.5rem]'
+    // if(title.length > 40){
+    //     bigTextSize = 'text-3xl';
+    // }
 
     title = title.toLowerCase();
 
@@ -50,18 +50,18 @@ export default function ArticleCard({ title, author, quote, date, slug, currArti
                 <div className=" flex flex-col p-4 items-center text-center verticalindex:text-left verticalindex:w-full">
                     {/* Bigger screen */}
                     <div className="hidden verticalindex:flex flex-col crunchycards:flex-row justify-between w-full">
-                        <h2 className={`mb-3 font-dominique ${bigTextSize} max-w-md`}>{title}</h2>
+                        <h2 className={`mb-3 font-dominique ${bigTextSize} max-w-md leading-[3rem]`}>{title}</h2>
                         <span className="text-gray-500 mb-5 crunchycards:mb-0 font-tinos text-[1.12rem]">{date}</span>
                     </div>
 
                     {/* Mobile */}
                     <div className="mb-1 verticalindex:hidden">
-                        <h2 className={`font-dominique ${textSize}`}>{title}</h2>
+                        <h2 className={`font-dominique ${textSize} leading-6`}>{title}</h2>
                         <span className="text-gray-500 font-tinos">{date}</span>
                     </div>
                     
                     <p className="hidden verticalindex:inline text-xl text-gray-600 font-tinos">"{quote}"</p>
-                    <p className="content verticalindex:hidden mb-3 text-lg text-gray-600 font-tinos">"{smallquote}"</p>
+                    <p className="content verticalindex:hidden mb-3 text-lg leading-5 text-gray-600 font-tinos">"{smallquote}"</p>
                 </div></div>
             </a>
         </Link>
