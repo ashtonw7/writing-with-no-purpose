@@ -124,8 +124,9 @@ export async function getStaticProps({ params: { slug } }) {
 
 export default function PostPage({ frontmatter, content, randFiles }) {
     function scrollToBottom(){
+      let footer = document.getElementById('footer');
       let emailInput = document.getElementById('emailInput')
-      emailInput.scrollIntoView({behavior:'smooth'})
+      footer.scrollIntoView({behavior:'smooth'})
       emailInput.focus({preventScroll: true})
     }
 
@@ -170,7 +171,7 @@ export default function PostPage({ frontmatter, content, randFiles }) {
                       </TwitterShareButton>
                     </div> */}
 
-                    <button type="button" className='flex flex-grow items-center justify-center mr-2 border border-1 border-black rounded-lg font-merriweathermedium hover:bg-[#FAFAFA]' onClick={() => scrollToBottom()}>
+                    <button type="button" className='flex flex-grow items-center justify-center mr-2 border border-1 border-black rounded-lg font-merriweathermediums hover:bg-[#FAFAFA]' onClick={() => scrollToBottom()}>
                         <span className='hidden buttons:contents'>
                           Join the Newsletter
                         </span>
