@@ -26,6 +26,14 @@ hr {
   src: url("../public/assets/fonts/MerriweatherSans-ExtraBold.ttf")
 }
 @font-face {
+  font-family: "Merriweather Medium";
+  src: url("../public/assets/fonts/MerriweatherSans-Medium.ttf")
+}
+@font-face {
+  font-family: "Merriweather Regular";
+  src: url("../public/assets/fonts/MerriweatherSans-Regular.ttf")
+}
+@font-face {
   font-family: "Merriweather Light";
   src: url("../public/assets/fonts/MerriweatherSans-Light.ttf");
 }
@@ -33,6 +41,7 @@ hr {
   font-family: "Tinos";
   src: url("../public/assets/fonts/Tinos-Regular.ttf")
 }
+
 
 @tailwind base;
 @tailwind components;

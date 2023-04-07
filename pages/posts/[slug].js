@@ -123,6 +123,12 @@ export async function getStaticProps({ params: { slug } }) {
 }
 
 export default function PostPage({ frontmatter, content, randFiles }) {
+    function scrollToBottom(){
+      let emailInput = document.getElementById('emailInput')
+      emailInput.scrollIntoView({behavior:'smooth'})
+      emailInput.focus({preventScroll: true})
+    }
+
     return (
       <div>
         <div className='flex flex-col justify-center w-full'>
@@ -148,8 +154,8 @@ export default function PostPage({ frontmatter, content, randFiles }) {
                   <ReactMarkdown>{content}</ReactMarkdown>
                 </article>
                 
-                <div id="buttons" className='mb-5 py-5 flex flex-row justify-between'>
-                    <div className='space-x-1 condenseheader:space-x-2 icons:space-x-5'>
+                <div id="buttons" className='mb-5 pt-2 pb-5 flex flex-row justify-between'>
+                    {/* <div className='space-x-1 condenseheader:space-x-2 icons:space-x-5'>
                       <FacebookShareButton
                         url={'https://www.fatpuppet.com/posts/' + frontmatter.slug}
                       >
@@ -158,20 +164,28 @@ export default function PostPage({ frontmatter, content, randFiles }) {
 
                       <TwitterShareButton
                         url={'https://www.fatpuppet.com/posts/' + frontmatter.slug}
-                        title={'Lol this is hilarious you all have to read this😂'}
+                        title={'This is hilarious you all have to read this😂'}
                       >
                         <TwitterIcon size={45} round />
                       </TwitterShareButton>
-                    </div>
+                    </div> */}
 
-                    <a href='https://ko-fi.com/C0C8FALNP' target='_blank' className='bg-gray-800 hover:bg-gray-700 rounded-lg pr-2 h-[45px]'>
+                    <button type="button" className='flex flex-grow items-center justify-center mr-2 border border-1 border-black rounded-lg font-merriweathermedium hover:bg-[#FAFAFA]' onClick={() => scrollToBottom()}>
+                        <span className='hidden buttons:contents'>
+                          Join the Newsletter
+                        </span>
+                        <span className='contents buttons:hidden'>
+                          Newsletter
+                        </span>
+                    </button>
+
+                    <a href='https://ko-fi.com/C0C8FALNP' target='_blank' className='bg-zinc-800 hover:bg-black rounded-lg pr-2 h-[45px]'>
                       <div className="flex flex-row items-center">
-                        <img className='h-[45px]' src='/assets/images/kofi-logo.png' alt='Buy Me a Coffee at ko-fi.com' />
-                        <span className='hidden condenseheader:contents font-merriweatherlight text-white'>Support Me on Ko-Fi</span>
-                        <span className='contents condenseheader:hidden font-merriweatherlight text-white'>Tip Jar</span>
+                        <img className='h-[45px] ml-1' src='/assets/images/kofi-logo.png' alt='Buy Me a Coffee at ko-fi.com' />
+                        {/* <span className='hidden condenseheader:contents font-merriweatherlight text-white'>Support Me on Ko-Fi</span> */}
+                        <span className='font-merriweatherregular text-white'>Tip Jar</span>
                       </div>
                     </a>
-          
                 </div>
 
               </div>

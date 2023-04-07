@@ -664,7 +664,7 @@ export default function Signup() {
                         <div class="ml-field-group ml-field-email ml-validate-email ml-validate-required">
                           
                             <!-- input -->
-                                <input type="email" class="form-control" data-inputmask="" name="fields[email]" placeholder="Enter your email to join the newsletter!" autocomplete="email">
+                                <input id="emailInput" type="email" class="form-control" data-inputmask="" name="fields[email]" placeholder="Enter your email to join the newsletter!" autocomplete="email">
                             <!-- /input -->
                         </div>
 
@@ -735,7 +735,7 @@ export default function Signup() {
     
     return (
         <>
-            <div dangerouslySetInnerHTML={{ __html: html }} />
+            <div id="signupForm" dangerouslySetInnerHTML={{ __html: html }} />
         </>
     )
 }
