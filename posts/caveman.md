@@ -69,9 +69,9 @@ date: '15 Apr 2023'
 
 —Instead of many cavewoman, caveman only get one cavewoman. She is called cavewife.
 
-—Ugg thinks that is good idea. Ugg will choose Bibi as wife.
+—Ugg thinks that is good idea. Ugg will choose Bibi as cavewife.
 
-—No, Og already picked Bibi. Ugg can have Blargh.
+—No, Ogg already picked Bibi. Ugg can have Blargh.
 
 //
 
@@ -101,6 +101,6 @@ date: '15 Apr 2023'
 
 —Bibi and Blargh both Ogg’s cavewife. Also all cavewoman Ogg likes are Ogg’s cavewife.
 
-—But Ogg made rule that man only gets one cavewife.
+—But Ogg made rule that caveman only gets one cavewife.
 
 —Ogg decided that rule not apply to Ogg.
