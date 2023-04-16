@@ -101,6 +101,6 @@ date: '15 Apr 2023'
 
 —Bibi and Blargh both Ogg’s cavewife. Also all cavewoman Ogg likes are Ogg’s cavewife.
 
-—But Ogg made rule that caveman only gets one cavewife.
+—But Ogg made rule that caveman only get one cavewife.
 
 —Ogg decided that rule not apply to Ogg.
