@@ -38,7 +38,7 @@ I asked the aliens about this and they said I wasn’t getting paid at all. They
 
 “Alright fine,” I said to them. “But on the way can we stop by the International Space Station? I’ve got a buddy there and I’ve got to drop off this gun I borrowed from him.”
 
-I didn’t actually know anybody on the ISS, but I wanted the aliens to think two things–that I was a cool person who was friends with an astronaut, and that I might have a gun on me that I could shoot their big heads with. Maybe they’d let somebody that impressive and dangerous off the UFO.
+I didn’t actually know anybody on the ISS, but I wanted the aliens to think two things–one, that I was a cool person who was friends with an astronaut, and two, that I might have a gun on me that I could shoot their big heads with. Maybe they’d let somebody that impressive and dangerous off the UFO.
 
 It didn’t work at all. In fact, all it made them do was strip me naked and hook me up to this shaking machine that would get all the guns out of my system. They shook me for about twenty minutes straight. Even though they saw no guns were coming out of me, they kept that machine running.
 
