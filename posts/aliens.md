@@ -12,7 +12,7 @@ At first I was a little flattered. There’s what, a few billion people on this 
 
 I asked one of the aliens in the UFO about it. I said, “Hey, nice to meet you. I must be a pretty interesting human to get abducted, huh?”
 
-He said there wasn’t anything special about me in particular. I just happened to be the only one walking around in the cornfield. I should have known better to take a walk around that cornfield. Aliens love cornfields.
+He said there wasn’t anything special about me in particular. I just happened to be the only one walking around in that cornfield. I should have known better to take a walk there. Aliens love cornfields.
 
 I tried to go back to the tractor beam pod to get back down to Earth. But some aliens grabbed me, rather forcefully I might add, and shoved me onto a surgical table.
 
