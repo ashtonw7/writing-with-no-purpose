@@ -26,7 +26,7 @@ We got to the carnival and they tossed me out of the van. Like I said, they didn
 
 They asked me what I was interested in, and I said I was interested in getting this sack off my head. You’ve already made me a carny, you don’t need to treat me like a kidnapped guy anymore.
 
-They took the sack off and cut the zip ties off my hands and I made a run for it. I made a run for it right into a carny they called Big Al. If you haven’t met Big Al, well, let’s just say he’s not the kind of guy you want to run into. He’s the kind of guy that makes you turn right back around and say, “Alright, no more escaping.” I think it’s that knife he waves around that makes you think that.
+They took the sack off and cut the zip ties off my hands and I made a run for it. I made a run for it right into a carny they called Big Al. If you haven’t met Big Al, well, let’s just say he’s not the kind of guy you want to run into. He’s the kind of guy that makes you turn right back around and say, “Alright, no more escaping.” I think it’s the knife he waves around that makes you think that.
 
 They assigned me to the throw-darts-at-the-balloons game, which wasn’t too bad–during normal carnival hours, that is. Once the carnival lights went off, all the games changed. For example, the dunk tank became the vodka tank, the guess your weight guy started guessing things a bit more risqué, and the ring toss became the vodka ring toss. All in good fun, but my game became the throw-darts-at-the-new-guy game.
 
