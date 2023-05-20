@@ -32,7 +32,8 @@ Here are some of the best duels that I got into.
 
 —
 
-1. A Gold Panner
+*1. A Gold Panner*
+
 This guy came running into town yelling, “There’s gold in them hills!” Alright, I thought. I could use some gold.
 
 So I followed him out to the hills, and when he found some I said, “Let’s split it.”
@@ -43,7 +44,7 @@ Then he challenged me to a duel and shot me in the leg. I should mention that’
 
 —
 
-2. That Criminal Monkey Sheriff
+*2. That Criminal Monkey Sheriff*
 
 I’d had enough of a monkey running the town. Maybe that was okay with these simple-minded people from the past, but I knew that an animal shouldn’t control the law. And if one had to, it shouldn’t be a monkey. Maybe a dolphin mayor would be fine, I heard they’re pretty smart. And that sonar could help find criminals.
 
@@ -51,7 +52,7 @@ Anyway, I started this duel myself. I figured I could beat a monkey. I figured w
 
 —
 
-3. A Priest
+*3. A Priest*
 
 I was getting a little bored in the Wild West. You can only look at a tumbleweed so long before it’s like, “Alright, do a trick or something you dumb tumbleweed. I’ve watched you roll for hours.”
 
@@ -63,7 +64,7 @@ I said how do you even know photos can be deleted, you’ve never even seen a ph
 
 —
 
-4. Another Guy From the Future
+*4. Another Guy From the Future*
 
 I was in the saloon and I saw a guy wearing a Super Bowl LVII shirt. That didn’t make sense, because by my calculations it should have been Super Bowl Negative CLXIII that year.
 
@@ -73,7 +74,7 @@ Then he dueled me. He shot me with this laser gun he’d gotten from the super f
 
 —
 
-5. A Guy with Spurs on His Shoes
+*5. A Guy with Spurs on His Shoes*
 
 This one was on me. I was at the saloon and spilled beer all over this guy's boots. Then I went to help clean it off, and I knocked over a canister of oil that was sitting on the bartop. It spilled all over his spurs.
 
