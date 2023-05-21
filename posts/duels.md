@@ -8,7 +8,7 @@ date: '20 May 2023'
 
 Like most of my best stories, this one starts with me jamming a fork into an electrical outlet. I had a new theory I was testing out.
 
-The theory was that if you jam a fork into an electrical device, something will happen with the electricity that will allow you to travel through space and time. Nobody really understands electricity, so this seemed like a good hypothesis.
+The theory was that if you jam a fork into an outlet, something will happen with the electricity that will allow you to travel through space and time. Nobody really understands electricity, so this seemed like a good hypothesis.
 
 So there I was shoving this fork in and getting shocked, and just when I was about to give up there was a big burst of light. There I was, teleported to ancient China right when they were building the Great Wall.
 
@@ -47,7 +47,7 @@ Then he challenged me to a duel and shot me in the leg. I should mention that’
 
 I’d had enough of a monkey running the town. Maybe that was okay with these simple-minded people from the past, but I knew that an animal shouldn’t control the law. And if one had to, it shouldn’t be a monkey. Maybe a dolphin mayor would be fine, I heard they’re pretty smart. And that sonar could help find criminals.
 
-Anyway, I started this duel myself. I figured I could beat a monkey. I figured wrong.
+Anyways, I started this duel myself. I figured I could beat a monkey. I figured wrong.
 
 —
 
