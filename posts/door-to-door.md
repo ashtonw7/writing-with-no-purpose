@@ -68,7 +68,7 @@ Not me though. I don’t care about things like that. Call the kid whatever you 
 
 “You could name him anything you want. Even a fake name like Glurbo.”
 
-“I don’t want to pay you to name your kid Glurbo.”
+“I don’t want to pay to name your kid Glurbo.”
 
 “That was just an example. It could be any name.”
 
