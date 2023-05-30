@@ -12,7 +12,7 @@ I’d probably trade it for my old job back, which was being a manager with a bi
 
 You couldn’t smoke in there. Or drink a lot. And you definitely couldn’t celebrate Naked Tuesdays. Those were the kinds of things that got you demoted to door-to-door salesman.
 
-But it’s not all bad, selling door-to-door. Sometimes people have a novelty doorbell that plays a funny song. That’s always a treat. But it’s not without its challenges.
+It’s not all bad, selling door-to-door. Sometimes people have a novelty doorbell that plays a funny song. That’s always a treat. But it’s not without its challenges.
 
 One of the biggest challenges is those signs that say “No Soliciting.” I have a pretty good strategy for getting around those though. I ignore them.
 
