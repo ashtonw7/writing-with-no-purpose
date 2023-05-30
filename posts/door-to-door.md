@@ -54,7 +54,7 @@ That’s usually when I lose the sale. Everyone wants to smoke on their blimps.
 
 —
 
-*2. Rights to My Firstborn’s Son’s Name*
+*2. Rights to My Firstborn Son’s Name*
 
 This one seems like a lock. I let people have the option to choose the name of my firstborn son. Everyone wants to name somebody else’s kid. It makes them feel powerful.
 
