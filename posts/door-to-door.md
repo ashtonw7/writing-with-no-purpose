@@ -32,7 +32,7 @@ Even though I got fired, I haven’t given up. I’m still selling things door-t
 
 *1. Blimps*
 
-I saw that there are only about twenty-five blimps left in America right now. “Why’s that,” I wondered. Probably because there aren’t enough people selling them.
+I saw that there are only about twenty-five blimps left in America right now. Now why's that? Probably because there aren’t enough people selling them.
 
 I don’t have any blimps on hand, but once I make the sale I can figure that part out afterwards.
 
