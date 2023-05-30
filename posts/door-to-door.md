@@ -28,7 +28,7 @@ After that I got fired. “Can I at least keep the company card?” I’d asked.
 
 Even though I got fired, I haven’t given up. I’m still selling things door-to-door on my own. My idea is this—sell big, or sell nothing. All I need to do is make one big sale and I’m set. Here are some things I’m currently trying to sell.
 
-—-
+—
 
 *1. Blimps*
 
@@ -52,7 +52,7 @@ The hardest part about selling a blimp is the Hindenburg. Everyone always wants 
 
 That’s usually when I lose the sale. Everyone wants to smoke on their blimps.
 
-—-
+—
 
 *2. Rights to My Firstborn’s Son’s Name*
 
@@ -76,7 +76,7 @@ Not me though. I don’t care about things like that. Call the kid whatever you 
 
 There isn’t any arguing with that, so I just go home at that point.
 
-—-
+—
 
 *3. A Piece of Land on Mars*
 
@@ -100,7 +100,7 @@ But even though the president acknowledges my claim to Mars, I still have troubl
 
 That’s when I take off and run. I don’t want to have to get lawyers involved.
 
-—-
+—
 
 *4. Mob Healthcare*
 
@@ -134,7 +134,7 @@ But a mob doctor is a good connection to have. I cut a deal with him where I can
 
 Most of the time the door gets slammed in my face right about then. One guy actually smashed my kneecaps when I kept pushing the sale and I had to buy surgery from myself. You just have to laugh at situations like that. Lots of irony in door-to-door sales.
 
-—-
+—
 
 *5. Big Ideas*
 
