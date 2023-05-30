@@ -6,7 +6,7 @@ quote: "The biggest challenge though is that I’m not very good at the job. I h
 date: '30 May 2023'
 ---
 
-I just got a new job doing door-to-door sales, and I wouldn’t trade it for anything. I mean some things, sure, I’d trade it for some things. But not just anything.
+I got a new job doing door-to-door sales, and I wouldn’t trade it for anything. I mean some things, sure, I’d trade it for some things. But not just anything.
 
 I’d probably trade it for my old job back, which was being a manager with a big office. Now that was good living. You could do anything you wanted in an office like that. Well, just about anything.
 
