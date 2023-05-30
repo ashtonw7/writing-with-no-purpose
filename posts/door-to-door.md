@@ -1,9 +1,9 @@
 ---
-title: "Conversations I’ve Had Doing Door-To-Door Sales"
+title: "Conversations I've Had Doing Door-To-Door Sales"
 slug: 'door-to-door'
 author: 'Ashton Winters'
 quote: "The biggest challenge though is that I’m not very good at the job. I had the lowest sales recorded in company history. Negative one sales, that’s my claim to fame."
-date: '3 May 2023'
+date: '30 May 2023'
 ---
 
 I just got a new job doing door-to-door sales, and I wouldn’t trade it for anything. I mean some things, sure, I’d trade it for some things. But not just anything.
