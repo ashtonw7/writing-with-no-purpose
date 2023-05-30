@@ -106,7 +106,7 @@ That’s when I take off and run. I don’t want to have to get lawyers involved
 
 Everyone knows a good mob doctor. Or so I thought. It turns out that most people aren’t involved with the mob the way I am. I’ve always found myself intertwined with those guys, usually against my will.
 
-But a mob doctor is a good connection to have. I cut a deal with him where I can sell surgeries door-to-door. Unfortunately, people aren’t biting on this one either. The conversation is usually something like this:
+But a mob doctor is a good connection to have. I cut a deal with him where I can sell surgeries door-to-door. Unfortunately, people aren’t taking to this one either. The conversation is usually something like this:
 
 “You want me to pay you to see a mob doctor?”
 
