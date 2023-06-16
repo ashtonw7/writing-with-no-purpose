@@ -86,4 +86,4 @@ He shot me in the arm and then came over and hit me with his spurs a few times.
 
 —
 
-After five duels, I decided I’d had enough of the Wild West. I waited around for another thunderstorm and shocked myself back to the present. Next time I’m going to a place with a little less dueling. Maybe I’ll go back to Ancient China and help them finish that wall.
+After all those duels, I decided I’d had enough of the Wild West. I waited around for another thunderstorm and shocked myself back to the present. Next time I’m going to a place with a little less dueling. Maybe I’ll go back to Ancient China and help them finish that wall.
