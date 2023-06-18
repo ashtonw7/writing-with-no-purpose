@@ -6,7 +6,7 @@ quote: 'You might not know this, but dolphins have sonar built into their heads.
 date: '16 Jun 2023'
 ---
 
-Did you know that the military uses dolphins for war? I didn’t find that out until I joined the military and got assigned to the dolphin tank because of a paperwork error. I’m always finding things out because of paperwork errors.
+Did you know that the military uses dolphins for war? I didn’t find that out until I signed up and got assigned to the dolphin tank because of a paperwork error. I’m always finding things out because of paperwork errors.
 
 I didn’t know much about dolphins on my first day. The only thing I knew about them was they had slimy skin and were pretty stupid. A dolphin will laugh at anything. Trust me, I’d know. I’ve bombed just about every standup comedy set I’ve ever done except for ones at the aquarium. I’ll admit, the “eee-eee-eees” those dolphins make does wonders for the old ego.
 
