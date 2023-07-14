@@ -1,5 +1,5 @@
 ---
-title: "It's the 1600s and I Became a Pirate and Joined a Mutiny"
+title: "It's the 1600s and I Decided to Become a Pirate"
 slug: 'pirate'
 author: 'Ashton Winters'
 quote: 'A good way to find a pirate is to look for the guys at a tavern with bad teeth. Unfortunately, pretty much everyone in the taverns has bad teeth. We don’t really care about things like oral hygiene in the 1600s.'
