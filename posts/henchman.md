@@ -36,7 +36,7 @@ The reason is it makes the trespasser really feel like they have a shot at takin
 
 Once the trespasser is nice and caged it’s pretty easy to get them into a death trap. But they usually find a way to get out.
 
-Dr. Lasertronicus makes some pretty good death traps, like the Angry Gorilla Pit, which is exactly what it sounds like. He also has some classics, like the sawmill you get strapped to, the laser cutter table, and the room where you’re forced to listen to AM talk radio until you’re bored to death.
+Dr. Lasertronicus makes some pretty good death traps, like the Angry Gorilla Pit, which is exactly what it sounds like. He also has some classics, like the sawmill you get strapped to, the laser cutter table, and the room where you’re forced to listen to NPR until you’re bored to death.
 
 But the problem with these traps is they’re all too slow. The gorillas take a while to get angry, and the sawmill moves at moderate, safe speed. It gives the person strapped in a lot of time to think of a plan. And I don’t know how often you interact with the kind of people who break into evil villain warehouses, but they’re pretty crafty. They always seem to escape.
 
