@@ -140,7 +140,7 @@ Most of the time the door gets slammed in my face right about then. One guy actu
 
 This one seems the easiest to sell since it’s all theoretical. I show up to a guy’s house and sell him on a big idea that I have. Then he does whatever he wants with it. It’s his now.
 
-But you guessed, no bites so far. I haven’t sold a single idea. Here’s how the conversation usually goes:
+But you guessed it, no bites so far. I haven’t sold a single idea. Here’s how the conversation usually goes:
 
 “You want to sell me an idea?”
 
