@@ -35,7 +35,7 @@ date: '15 Apr 2023'
 
 —What does animal taste like?
 
-—Animal taste like power. When Og club animal he feel very strong.
+—Animal taste like power. When Ogg club animal he feel very strong.
 
 —Ugg does not think that sound very healthy.
 
