@@ -24,9 +24,9 @@ I found a really good villain to work for, Dr. Lasertronicus. He gave me a unifo
 
 I also got issued a gun. I got to carry it around for a whole three days before my supervisor took it away because I had too many shooting accidents. They exchanged it for a knife, which I got to keep for a whole week.
 
-Like most villains, he keeps a lot of incriminating things in a warehouse. I’m one of the henchmen that guards the warehouse.
+Like most villains, Dr. Lasertronicus keeps a lot of incriminating things in a warehouse. I’m one of the henchmen that guards the warehouse.
 
-There are a lot of cool things in there to guard, but I’m not allowed to play with any of them. They should have told me that during on-boarding. You expect to plop a guy down in front of a crate of freeze rays and not have him play with one? To not have him freeze his supervisor as a joke? Well anyway, they’ve since made it clear to me. No playing.
+There are a lot of cool things in there to guard, but I’m not allowed to play with any of them. They should have told me that during on-boarding. You expect to plop a guy down in front of a crate of freeze rays and not have him play with one? To not have him freeze his supervisor as a joke? Well anyway, they’ve since made it clear to me—no playing.
 
 You might think that being a henchman is a pretty thrilling job, because you get to spend all day punching trespassers in the face and strapping them into a death trap. But you’d be wrong. This job might be as boring as my last. Most of the time you spend standing around the warehouse waiting. And whenever a so-called hero comes in, you usually get so excited you can’t think straight. Usually you and another henchman charge at him, and he slips right between you two causing you crash headfirst into the other henchman.
 
@@ -36,7 +36,7 @@ The reason is it makes the trespasser really feel like they have a shot at takin
 
 Once the trespasser is nice and caged it’s pretty easy to get them into a death trap. But they usually find a way to get out.
 
-Dr. Lasertronicus makes some pretty good death traps, like the Angry Gorilla Pit, which is exactly what it sounds like. He also has some classics, like the sawmill you get strapped to, the laser cutter table, and the room where you’re forced to listen to NPR until you’re bored to death.
+Dr. Lasertronicus makes some pretty good death traps, like the Angry Gorilla Pit, which is exactly what it sounds like. He also has some classics, like the sawmill you get strapped to, the laser cutter table, and the room where you’re forced to listen to AM talk radio until you’re bored to death.
 
 But the problem with these traps is they’re all too slow. The gorillas take a while to get angry, and the sawmill moves at moderate, safe speed. It gives the person strapped in a lot of time to think of a plan. And I don’t know how often you interact with the kind of people who break into evil villain warehouses, but they’re pretty crafty. They always seem to escape.
 
