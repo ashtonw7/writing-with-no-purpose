@@ -71,7 +71,7 @@ date: '15 Apr 2023'
 
 —Ugg thinks that is good idea. Ugg will choose Bibi as cavewife.
 
-—No, Ogg already pick Bibi. Ugg can have Blargh.
+—No, Ogg already picked Bibi. Ugg can have Blargh.
 
 //
 
