@@ -73,4 +73,4 @@ This one isn’t a Greek god, but it’s still good to have a guy make your kid 
 
 That about sums it up. I’m sure there are some other godfathers you can use too. The more the merrier, I say.
 
-And I’ll let you know when I think of some good Greek godsmothers to keep around too. Right now I’m leaning toward an Aphroditemother, the goddess of love. I think that could avoid some awkward conversations down the line.
+And I’ll let you know when I think of some good Greek godmothers to keep around too. Right now I’m leaning toward an Aphroditemother, the goddess of love. I think that could avoid some awkward conversations down the line.
