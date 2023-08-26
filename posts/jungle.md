@@ -1,5 +1,5 @@
 ---
-title: '7 Reasons You Shouldn’t Buy a Vacation Home in the Jungle'
+title: "7 Reasons You Shouldn't Buy a Vacation Home in the Jungle"
 slug: 'jungle'
 author: 'Ashton Winters'
 quote: 'When I first got a place in the jungle, I realized there weren’t any outlets to plug my cool electronics into. I checked everywhere, even under a gross old log. But I couldn’t find a single outlet.'
