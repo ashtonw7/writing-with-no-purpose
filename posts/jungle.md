@@ -1,5 +1,5 @@
 ---
-title: "7 Reasons You Shouldn't Buy a Vacation Home in the Jungle"
+title: "8 Reasons You Shouldn't Buy a Vacation Home in the Jungle"
 slug: 'jungle'
 author: 'Ashton Winters'
 quote: 'When I first got a place in the jungle, I realized there weren’t any outlets to plug my cool electronics into. I checked everywhere, even under a gross old log. But I couldn’t find a single outlet.'
@@ -56,7 +56,7 @@ I was led to believe that there would be a lot of ancient temples and hidden tre
 
 But it turns out there’s barely any treasure at all. Unless you count yellow fever as treasure.
 
-It’s Hard to Get a Banana
+*7. It’s Hard to Get a Banana*
 
 It turns out bananas are hard to get in the jungle. I thought I could just walk up to any old tree and snag one for free.
 
@@ -64,7 +64,7 @@ You’d be better off just going to a grocery store. They’re cheap, you know. 
 
 First off, they’re high up in the tree, and as I already mentioned I fall out of those a lot. And second, the monkeys get first dibs on the bananas. If you try to take a banana before a monkey, it will do horrible things to you. Horrible, horrible things.
 
-*7. Tarzan*
+*8. Tarzan*
 
 Oh yeah, turns out Tarzan is a real guy and not just from a cartoon. And man is he a headache to deal with. I’d rather listen to the howler monkeys than hear him yell as he swings from vine.
 
