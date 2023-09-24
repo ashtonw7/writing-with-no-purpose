@@ -8,7 +8,7 @@ date: '4 March 2023'
 
 —Gee, I sure hate farming.
 
-—Heh, it’s the worst isn’t. Breaking our backs out in these fields. Gotta do it though, right?
+—Heh, it’s the worst isn’t it. Breaking our backs out in these fields. Gotta do it though, right?
 
 —I was actually thinking about that. What if I didn’t have to do it? All that back breaking work.
 
