@@ -2,7 +2,7 @@
 title: "A Day in the Life of Dracula"
 slug: 'dracula'
 author: 'Ashton Winters'
-quote: '"Time for your dental checkup. Looks like you have some inflammation in your gums. Do they bleed when you floss?" "If only."'
+quote: 'Time for your dental checkup. Looks like you have some inflammation in your gums. Do they bleed when you floss? If only.'
 date: '18 Oct 2023'
 ---
 
