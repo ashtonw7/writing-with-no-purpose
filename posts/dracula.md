@@ -36,7 +36,7 @@ date: '18 Oct 2023'
 
 —So your back’s been bothering you?
 
-—Yes, everyday when I wake up.
+—Yes, every day when I wake up.
 
 —What kind of mattress are you sleeping on?
 
