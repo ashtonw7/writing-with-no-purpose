@@ -22,7 +22,7 @@ date: '18 Oct 2023'
 
 —No, it’s the bloodmobile. You can save people’s lives by giving them blood.
 
-—I see. In that case, I think I’m dying. May I have some of the blood?
+—I see. In that case, I think I’m dying. May I have some blood?
 
 —What are you dying of?
 
