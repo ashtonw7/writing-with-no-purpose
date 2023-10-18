@@ -18,7 +18,7 @@ One of the biggest challenges is those signs that say “No Soliciting.” I hav
 
 People yell at you a lot too. I’ve never had so many people tell me to scram. I don’t even know if anybody had told me to scram before this gig. It’s a bit dehumanizing, really. Makes you feel like a dog.
 
-Dogs too, that’s another challenge. People are always sicking dogs on me.
+Dogs too, that’s another challenge. People are always siccing dogs on me.
 
 The biggest challenge though is that I’m not very good at the job. I had the lowest sales recorded in company history. Negative one sales, that’s my claim to fame. I was trying to sell some knives to this guy when he showed me some better knives that he had. They were pretty cool, so I bought them with my company card.
 
