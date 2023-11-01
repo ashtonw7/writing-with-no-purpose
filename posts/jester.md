@@ -30,6 +30,6 @@ I grabbed a few things off his desk and tried to juggle them a bit. No laughs. T
 
 “I have no idea what you’re trying to do here. Take that hat off and get back to work,” he replied.
 
-And so I sulked back to my desk in shame. My boss hadn’t even had the courtesy to put in the gallows in the town square. We don’t even have a town square.
+And so I sulked back to my desk in shame. My boss hadn’t even had the courtesy to put me in the gallows in the town square. We don’t even have a town square.
 
 So it seems like I’m cursed to yearn for a life I will never live. The world of being a medieval jester will only exist to me in my dreams. Life’s funny like that. It’s a bit of a jester itself.
