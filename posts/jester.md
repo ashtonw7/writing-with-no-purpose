@@ -6,7 +6,7 @@ quote: 'I love everything about the idea of being a jester. Your whole job is to
 date: '19 Jan 2023'
 ---
 
-I was born at the wrong time. I don’t feel the culture of people my age. I also don’t feel like I’d fit in with people older than me. And younger people? Forget it. You know who I do feel a connection to though? Medieval court jesters. I wish I’d been born when they were around.
+I was born at the wrong time. I don’t feel like I fit the culture of people my age. I also don’t feel like I’d fit in with people older than me. And younger people? Forget it. You know who I do feel a connection to though? Medieval court jesters. I wish I’d been born when they were around.
 
 I love everything about the idea of being a jester. Your whole job is to make a rich, fat king laugh at you. I think I’d be very good at this.
 
