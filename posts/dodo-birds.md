@@ -3,7 +3,7 @@ title: 'I’m Honestly Fine with the Fact That Dodo Birds Are Extinct'
 slug: 'dodo-birds'
 author: 'Ashton Winters'
 quote: 'I wonder why dodo birds became so popular. Sometimes I sit around wondering that for an entire afternoon. I can only come to one conclusion.'
-date: '5 Jan 2023'
+date: '23 Feb 2023'
 ---
 
 I’ve never seen the appeal of the dodo bird, I guess. And yet somehow, it’s the most popular extinct animal out there. Everyone knows about the dodo bird. When you’re learning about animals as a kid, the teachers are always like, “And here’s a dodo bird. It’s extinct. That means there aren’t any left.”
