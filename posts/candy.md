@@ -1,5 +1,5 @@
 ---
-title: '5 Cool Ways to Tamper with Your Candy this Halloween'
+title: '5 Cool Ways to Tamper with Your Halloween Candy'
 slug: 'candy'
 author: 'Ashton Winters'
 quote: 'Then I realized there aren’t any laws saying adults can’t trick-or-treat. And so I did it. I came back with my pail of candy and looked for all the tampered-with ones, or as I like to call them, the fun ones.'
