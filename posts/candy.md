@@ -38,7 +38,7 @@ The worst part of Halloween is getting a bad piece of candy or a box of raisins.
 
 *4. Fireworks*
 
-If there’s one thing things love more than candy, it’s having their own fireworks. Most parents won’t let their kids play with fireworks, so this is your chance to be a hero. Don’t worry, it’s not like you’re giving them a book of matches to light them with.
+If there’s one thing kids love more than candy, it’s having their own fireworks. Most parents won’t let their kids play with fireworks, so this is your chance to be a hero. Don’t worry, it’s not like you’re giving them a book of matches to light them with.
 
 —
 
