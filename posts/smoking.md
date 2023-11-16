@@ -14,7 +14,7 @@ Smoking has a bit of an allure to it. Because you have to go out of your way to 
 
 And they say each cigarette takes off ten minutes from your life? Who cares man, let’s light up another. It’s cool when somebody doesn’t care about ten minutes like that.
 
-If you roll your own cigarettes, you’re intriguing. You’re an enigma. If you build your own chair, you’re Amish.
+If you roll your own cigarettes, you’re intriguing. If you build your own chair, you’re Amish.
 
 Anything you aren’t allowed to do on a plane is usually cool, like smoking. Anything you’re forced to do on a plane isn’t, like sitting.
 
