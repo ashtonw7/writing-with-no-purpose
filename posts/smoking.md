@@ -1,5 +1,5 @@
 ---
-title: "Sitting Can't Be the New Smoking–It Isn't Cool Enough"
+title: "Sitting Can't Be the New Smoking—It Isn't Cool Enough"
 slug: 'smoking'
 author: 'Ashton Winters'
 quote: 'They say sitting is the new smoking. Whenever I take a seat, somebody tells me, “May as well just smoke a pack of Marlboro Reds.”'
