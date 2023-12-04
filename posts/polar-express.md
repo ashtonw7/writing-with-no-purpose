@@ -38,7 +38,7 @@ Some other kids refused to give up their seats to a pregnant woman. I don’t ev
 
 There was this pack of kids who were less naughty and more evil. I think Santa should add a new list for these kids. One called the Menacing List or something and it’s red with pictures of devils all over it. Because there’s no way I would have accidentally grabbed a list like that.
 
-I couldn’t stand those evil kids. They all sat in the back of the trains and glared at me the whole ride. I went back there once, to explain to them that the Polar Express is a special opportunity and they really shouldn’t be glaring about it. Then they pinned me down and zip-tied my hands and duct-taped my mouth shut. I guess I should’ve done a pat-down before they got on.
+I couldn’t stand those evil kids. They all sat in the back of the train and glared at me the whole ride. I went back there once, to explain to them that the Polar Express is a special opportunity and they really shouldn’t be glaring about it. Then they pinned me down and zip-tied my hands and duct-taped my mouth shut. I guess I should’ve done a pat-down before they got on.
 
 After that, they crammed me into the carry-on rack in the empty car behind us. They checked in on me now and then, saying they were planning on “Stockholm Syndrome-ing” me in part of their plan to take over the North Pole. I don’t know where kids get these ideas. Probably the media.
 
@@ -58,11 +58,11 @@ I told him that I must have brought the naughty kids somehow. It was an honest m
 
 “What?”
 
-“I’m not the real Santa. The real Santa is in Miami this year. He’s taking a year off and left me in charge. I’m just a normal human Present Packer.”
+“I’m not the real Santa. The real Santa is in Miami. He’s taking a season off and left me in charge. I’m just a normal human Present Packer.”
 
 “How’d Santa pick you?”
 
-“I told a white lie and said my last job was delivering presents to children around the world. And I took off my shirt and showed him how fat I was. But here’s the thing, I didn’t deliver many presents at all. I was a mailman and lost a bunch of presents. And I’m actually skinny and was wearing a fat suit during the conversation.”
+“I told a white lie and said my last job was delivering presents to children around the world. And I showed him how fat I was. But here’s the thing, I didn’t deliver many presents at all. I was a mailman and lost a bunch of presents. And I was just wearing a fat suit.”
 
 “I see. We’re very similar, you and I. But if you aren’t Santa, how did you get those candy canes to appear out of thin air?”
 
@@ -70,7 +70,7 @@ I told him that I must have brought the naughty kids somehow. It was an honest m
 
 “Gotcha. So what do we do now?”
 
-Fake Santa and I decided the best course of action was to just send the kids home and act like nothing happened. The only problem was they were all spread out, causing all sorts of chaos around the workshop. I rounded up a few of them who were pantsing elves. I found some more asking the elves if they could make drugs as a present if a kid really wanted some for Christmas.
+Fake Santa and I decided the best course of action was to send the kids home and act like nothing happened. The only problem was they were all spread out, causing all sorts of chaos around the workshop. I rounded up a few of them who were pantsing elves. I found some more asking the elves if they could make drugs as a present if a kid really wanted some for Christmas.
 
 The evil kids had Mrs. Claus backed into a corner and were advancing on her with their sharpened candy canes. I pulled them away, but first I grabbed one of the candy cane spears and waved it in Mrs. Claus’s face. I  made her promise not to say a word to the real Santa when he got back. Sometimes you gotta threaten the boss’s wife. That’s just part of being the Polar Express Conductor.
 
