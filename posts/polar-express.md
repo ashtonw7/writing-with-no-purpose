@@ -16,7 +16,7 @@ Then I thought maybe I could even be a Head Elf, or at least an Elf Middle Manag
 
 The only good role that’s filled by a normal human is the Polar Express Conductor. So I set my eyes on that. Anytime I was around Santa, I made sure to mention how much I loved trains and how much I loved conducting them. I even told a little white lie and told Santa that before I came to the North Pole I was a good train conductor and even won an award for it. It was a lie because the award I’d won was a letter of termination from Amtrak for gross negligence.
 
-Earlier this year though, the old train conductor finally met his fate. Retirement. He was done with the North Pole, and the spot was mine. Santa gave me a conductor hat and told me to get started growing a conductor mustache. And just like that, the Polar Express was mine.
+Earlier this year though, the old Polar Express Conductor finally met his fate. Retirement. He was done with the North Pole, and the spot was mine. Santa gave me a conductor hat and told me to get started growing a conductor mustache. And just like that, the Polar Express was mine.
 
 It felt good to finally have a role that meant something. It meant that I could take this train away from the North Pole and go somewhere that was warmer and had human women.
 
