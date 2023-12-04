@@ -24,7 +24,7 @@ All I had to do in preparation for the big day was give tickets to some of the k
 
 Anyway, I nodded and told Santa I was on it and then went to his desk and grabbed the first list I saw. You guessed it–I grabbed the naughty one.
 
-I didn’t realize my mistake until it was Christmas Eve and it was time to pick up the kids. I fired up the Polar express and went to the first kids house. I said, “Wanna get on this train to the North Pole?”
+I didn’t realize my mistake until it was Christmas Eve and it was time to pick up the kids. I fired up the Polar express and went to the first kid's house. I said, “Wanna get on this train to the North Pole?”
 
 He replied, “Whatever bozo.” Then he did a jump kick into my stomach and climbed aboard.
 
