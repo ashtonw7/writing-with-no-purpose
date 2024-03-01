@@ -12,7 +12,7 @@ date: '29 Feb 2024'
 
 – How are the people feeling about Rome these days?
 
-– Why, people love Rome.
+– Why, the people love Rome.
 
 – Do they love every part of it? You don’t hear any complaints?
 
