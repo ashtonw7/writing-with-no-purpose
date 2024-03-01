@@ -46,7 +46,7 @@ date: '29 Feb 2024'
 
 – I guess that works.
 
-– But wait, we’ll have an extra quarter of a day laying around. Let’s just stick it on Februarius every four years.
+– But wait, we’ll have an extra quarter of a day lying around. Let’s just stick it on Februarius every four years.
 
 – Alright.
 
