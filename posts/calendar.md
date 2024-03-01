@@ -6,7 +6,6 @@ quote: 'Well look at our calendar. There are only ten months. And then there’s
 date: '29 Feb 2024'
 ---
 
-
 – Come here, Brutus.
 
 – Yes, Caesar?
