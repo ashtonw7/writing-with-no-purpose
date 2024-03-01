@@ -1,5 +1,5 @@
 ---
-title: 'Julius Caesar Creates the New Calendar'
+title: 'Julius Caesar Revises the Roman Calendar'
 slug: 'calendar'
 author: 'Ashton Winters'
 quote: 'Well look at our calendar. There are only ten months. And then there’s this sort of limbo period where we stop caring about months. And then we go right back into months again.'
@@ -35,35 +35,35 @@ date: '29 Feb 2024'
 
 – What will you call them?
 
-– I guess January, after that god. Gods like it when you put their names on calendars.
+– I guess Januarius, after that god. Gods like it when you put their names on calendars.
 
 – So I’ve heard.
 
-– And after that we could do February, named after that festival we have. Festivals like it when you put their names on calendars.
+– And after that we could do Februarius, named after that festival we have. Festivals like it when you put their names on calendars.
 
 – I’ve heard that as well.
 
-– And we’ll have thirty-one days in January and twenty-eight days in February.
+– And we’ll have thirty-one days in Januarius and twenty-eight days in Februarius.
 
 – I guess that works.
 
-– But wait, we’ll have an extra quarter of a day laying around. Let’s just stick it on February every four years.
+– But wait, we’ll have an extra quarter of a day laying around. Let’s just stick it on Februarius every four years.
 
 – Alright.
 
-– But only if the fourth year is divisible by one hundred and four hundred. If it isn’t, no extra day on that February.
+– But only if the fourth year is divisible by one hundred and four hundred. If it isn’t, no extra day on that Februarius.
 
 – Does that math check out?
 
 – I don’t know, probably. I’m pretty good at math. I’m Caesar. I’m the best at everything. In fact, I’m so good I should probably have a month named after me, wouldn’t you say?
 
-– I guess so. But the other months already have names. You already named January for that god and February for that festival. Then we have March for that other god, April for spring, May and June for those goddesses…
+– I guess so. But the other months already have names. You already named Januarius for that god and Februarius for that festival. Then we have Martius for that other god, Aprilis for spring, Maius and Iunius for those goddesses…
 
 – Right but then we Romans got lazy, remember? The rest of the months are all numbers. Surely I could snag one of those number months? Nobody would notice. Numbers don’t care if you put their names on calendars.
 
 – Which one do you want?
 
-– I’ll take the one after June. We can call it July, named after me.
+– I’ll take the one after the goddesses. We can call it July, named after me.
 
 – But your name is Julius.
 
