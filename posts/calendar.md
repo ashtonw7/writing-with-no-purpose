@@ -74,7 +74,7 @@ date: '29 Feb 2024'
 
 – Bruto?
 
-– I don’t know. I don’t like it. I think we’ll leave that one as is. Or maybe whoever succeeds me can take it.
+– I don’t know. I think we’ll leave that one as is. Or maybe whoever succeeds me can take it.
 
 – I can take a different month then.
 
