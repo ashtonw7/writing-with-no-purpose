@@ -10,7 +10,7 @@ date: '29 Feb 2024'
 
 – Yes, Caesar?
 
-– What’s the status of Rome these days?
+– How are the people feeling about Rome these days?
 
 – Why, people love Rome.
 
