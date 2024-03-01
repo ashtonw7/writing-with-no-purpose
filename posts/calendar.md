@@ -2,7 +2,7 @@
 title: 'Julius Caesar Revises the Roman Calendar'
 slug: 'calendar'
 author: 'Ashton Winters'
-quote: 'Well look at our calendar. There are only ten months. And then there’s this sort of limbo period where we stop caring about months. And then we go right back into months again.'
+quote: 'Well, look at our calendar. There are only ten months. And then there’s this sort of limbo period where we stop caring about months. And then we go right back into months again.'
 date: '29 Feb 2024'
 ---
 
@@ -26,7 +26,7 @@ date: '29 Feb 2024'
 
 – What do you mean?
 
-– Well look at our calendar. There are only ten months. And then there’s this sort of limbo period where we stop caring about months. And then we go right back into months again.
+– Well, look at our calendar. There are only ten months. And then there’s this sort of limbo period where we stop caring about months. And then we go right back into months again.
 
 – People love the limbo period. Because it’s dark and cold. You can get away with a lot of stuff in that limbo period.
 
