@@ -26,7 +26,7 @@ I left the bar and looked at the sky. Lucky for me, there was a rainbow right ah
 
 It pretty much went the same way every time—people telling me I was stupid because of rainbow science, me explaining how rainbow science was stupid, and a bunch of scientists nervously tugging at their lab coats.
 
-Finally though, I was outside the city limits and in end-of-rainbow territory. I couldn’t wait to find my pot of gold. Usually the only thing you find in a pot is soup, which is pretty good, but not as good as gold. It’s like I always say, “I’d rather millions of dollars worth of gold than some soup.”
+Finally though, I was outside the city limits and in end-of-rainbow territory. I couldn’t wait to find my pot of gold. Usually the only thing you find in a pot is soup, which is pretty good, but not as good as gold. It’s like I always say, “I’d rather have millions of dollars worth of gold than some soup.”
 
 After stumbling my way through the dirt and brambles for what felt like hours, I could see the end of the rainbow in the distance. And I could also see a bunch of glimmering, probably from the gold. I also heard a heavenly sound going “ahhhh,” which is usually what you hear when you’re around a bunch of gold.
 
