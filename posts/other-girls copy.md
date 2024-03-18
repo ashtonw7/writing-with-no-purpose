@@ -2,7 +2,7 @@
 title: "I Found the End of a Rainbow Even Though Rainbow Science Says It's Impossible"
 slug: 'rainbow'
 author: 'Ashton Winters'
-quote: 'She’s got a good head on her shoulders. Like sometimes I’ll ask her to go see a movie with me, and she’ll curse me. She’s always saying moving pictures are witchcraft and if we watch one we’ll receive eternal damnation.'
+quote: "For me, the best part of rainbows is the gold at the end. I think having a bunch of gold is better than having a bunch of beauty. It’s like I always say, 'I’d rather be rich and ugly than poor and ugly.'"
 date: '17 March 2024'
 ---
 
