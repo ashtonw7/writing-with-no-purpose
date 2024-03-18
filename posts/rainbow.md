@@ -18,7 +18,7 @@ Every St. Patrick’s Day, I try to drink enough beers to convince myself that I
 
 But this year was different. This year I’d had just enough green beers to have the courage to go on my adventure. When I announced that I was heading out to find the end of a rainbow, people called me a fool. They said rainbows don’t have an end, because if they did scientists would have told us about it.
 
-Well how about this, I said. What if those scientists want to keep all the gold for themselves? Scientists are always hoarding gold. That’s why the public doesn’t have access to alchemy.
+Well how about this, I said. What if those scientists just want to keep all the gold for themselves? Scientists are always hoarding gold. That’s why the public doesn’t have access to alchemy.
 
 I saw a few scientists in the bar nervously tugging at their lab coats, so I knew I was onto something.
 
@@ -42,4 +42,4 @@ When I went to sell it though, the guy at the counter told me he wasn’t intere
 
 Then I found out fool’s gold is a real thing. I was stuck with a big pile of fake gold. I was pretty upset that the leprechaun had tricked me. I’d always thought leprechauns were no-good tricksters, but I’m trying to be a better person so I’d trusted him.
 
-By now the rainbow was gone, so it looked like I wasn’t going to get a chance to go back and rough up the leprechaun. At least I’d found a few four-leaf clovers on my journey, so I could just wish for some gold. I’d like to see a scientist tell me that won’t work.
+By now the rainbow was gone, so it looked like I wasn’t going to get a chance to go back and rough up the leprechaun. At least I’d found a few four-leaf clovers on my journey, so I could just wish for some gold. I’d like to see a scientist tell me that wouldn't work.
