@@ -10,7 +10,7 @@ There’s something nice about rainbows. If you’re sitting quietly in an awkwa
 
 Some people like that they come after a storm. One second you’re all sad because you had to climb down from that cool metal pole you got up on, and the next second you’re happy because there are a bunch of colors in the sky.
 
-For me, the best part of rainbows is the gold at the end. I think having a bunch of gold is better than having a bunch of beauty. It’s like I always say, “I’d rather be rich and ugly than poor and ugly.”
+Other people like them because they're beautiful. For me, the best part of rainbows is the gold at the end. I think having a bunch of gold is better than having a bunch of beauty. It’s like I always say, “I’d rather be rich and ugly than poor and ugly.”
 
 But a lot of people don’t believe there are pots of gold at the ends of rainbows. They don’t even believe you can get to the end of a rainbow. These people aren’t drunk enough.
 
