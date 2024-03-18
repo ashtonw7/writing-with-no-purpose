@@ -34,11 +34,11 @@ Another thing I forgot about the jungle is that there are all these companies th
 
 The worst part is they’re stingy about the logs. They won’t give you any unless you buy them wholesale. What am I supposed to do with ten thousand logs? I just need one to make a new lean-to.
 
-*4. Jane Goodall’s Ghost*
+*4. Jane Goodall*
 
 Jane Goodall is probably the most famous person to work in the jungle. She was the best researcher of gorillas, and no scientist can even compare. She figured out so many things about gorillas, and her research is actually more impressive than the scientists who put a man on the moon if you think about it.
 
-At least that’s what her ghost tells me. Jane Goodall’s ghost won’t leave me alone. I don’t think she gets many guests in the jungle, so I just have to sit there and listen to her yammer on.
+At least that’s what she tells me. Jane Goodall won’t leave me alone. I don’t think she gets many guests in the jungle, so I just have to sit there and listen to her yammer on.
 
 *5. My Foot Keeps Getting Digested*
 
@@ -70,4 +70,4 @@ Oh yeah, turns out Tarzan is a real guy and not just from a cartoon. And man is 
 
 The worst part about Tarzan though is that all the women love him. And there aren’t many women living out here in the jungle. But on the off chance there is, you just know she’s walking right out of my lean-to and into Tarzan’s arms, swinging off into the distance.
 
-The only woman who doesn’t like Tarzan is Jane Goodall’s ghost, and I think that’s because she’s jealous of his relationship with the gorillas.
+The only woman who doesn’t like Tarzan is Jane Goodall, and I think that’s because she’s jealous of his relationship with the gorillas.
