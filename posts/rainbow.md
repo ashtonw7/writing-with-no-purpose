@@ -14,17 +14,17 @@ Other people like them because they're beautiful. For me, the best part of rainb
 
 But a lot of people don’t believe there are pots of gold at the ends of rainbows. They don’t even believe you can get to the end of a rainbow. These people aren’t drunk enough.
 
-Every St. Patrick’s Day, I try to drink just enough beers to convince myself that I can reach the end of a rainbow. Usually I go overboard and drink so much I end up fighting the most leprechaun-looking person in the bar. And if there isn’t one, I’ll put a leprechaun hat on the shortest person and go from there.
+Every St. Patrick’s Day, I try to drink enough beers to convince myself that I can reach the end of a rainbow. Usually I go overboard and drink so much I end up fighting the most leprechaun-looking person in the bar. And if there isn’t one, I’ll put a leprechaun hat on the shortest person and go from there.
 
 But this year was different. This year I’d had just enough green beers to have the courage to go on my adventure. When I announced that I was heading out to find the end of a rainbow, people called me a fool. They said rainbows don’t have an end, because if they did scientists would have told us about it.
 
-Well how about this, I said. What if those scientists just want to keep all the gold for themselves? Scientists are always hoarding gold. That’s why the public doesn’t have access to alchemy.
+Well how about this, I said. What if those scientists want to keep all the gold for themselves? Scientists are always hoarding gold. That’s why the public doesn’t have access to alchemy.
 
 I saw a few scientists in the bar nervously tugging at their lab coats, so I knew I was onto something.
 
 I left the bar and looked at the sky. Lucky for me, there was a rainbow right ahead. So I started walking. I got lost a few times and ended up drinking at some more bars.
 
-It pretty much went the same way every time—people telling me I was stupid because of rainbow science, me explaining how rainbow science was stupid, and a bunch of scientists nervously tugging their lab coats.
+It pretty much went the same way every time—people telling me I was stupid because of rainbow science, me explaining how rainbow science was stupid, and a bunch of scientists nervously tugging at their lab coats.
 
 Finally though, I was outside the city limits and in end-of-rainbow territory. I couldn’t wait to find my pot of gold. Usually the only thing you find in a pot is soup, which is pretty good, but not as good as gold. It’s like I always say, “I’d rather millions of dollars worth of gold than some soup.”
 
@@ -36,7 +36,7 @@ The leprechaun walked over to me and stared. I asked if he was going to help me 
 
 He told me that was his, and he kept it under the rainbow for safekeeping. It didn’t seem too safe to me, leaving gold in a place where any drunk could stumble upon it.
 
-I told him, let’s make a deal. You give me some of the gold, and I won’t tell the world that the leprechauns and end of rainbows exist. The leprechaun begrudgingly gave me some and I made my way back to sell all the gold.
+I told him, let’s make a deal. You give me some gold, and I won’t tell the world that leprechauns and ends of rainbows exist. The leprechaun begrudgingly gave me some and I made my way back to sell all the gold.
 
 When I went to sell it though, the guy at the counter told me he wasn’t interested in buying fool’s gold. I said I’m no fool. This is drunk’s gold maybe, but not fool’s gold.
 
