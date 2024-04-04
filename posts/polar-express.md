@@ -40,7 +40,7 @@ There was this pack of kids who were less naughty and more evil. I think Santa s
 
 I couldn’t stand those evil kids. They all sat in the back of the train and glared at me the whole ride. I went back there, to explain to them that the Polar Express is a special opportunity and they shouldn’t be glaring about it. Then they pinned me down and zip-tied my hands and duct-taped my mouth shut. I guess I should’ve done a pat-down before they got on.
 
-After that, they crammed me into the carry-on rack in the empty car behind us. They checked in on me now and then, saying they were planning on “Stockholm Syndrome-ing” me aas part of their plan to take over the North Pole. I don’t know where kids get these ideas. Probably the media.
+After that, they crammed me into the carry-on rack in the empty car behind us. They checked in on me now and then, saying they were planning on “Stockholm Syndrome-ing” me as part of their plan to take over the North Pole. I don’t know where kids get these ideas. Probably the media.
 
 Eventually an elf on board found me and got me down. I tried to throw the kids off the train, but they reminded me that they had tickets. And the tickets said they were guaranteed passage even if they turned out to be naughty. When I leaned in to read the ticket, they smashed my face into a cream pie they’d smuggled on board. At that point I decided to live with it and let them keep riding.
 
