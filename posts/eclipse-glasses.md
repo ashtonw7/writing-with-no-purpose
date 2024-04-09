@@ -2,11 +2,11 @@
 title: "The Eclipse May Be Over, but I’m Not Done Using These Glasses"
 slug: 'eclipse-glasses'
 author: 'Ashton Winters'
-quote: 'One day you buy a nice new pair of sunglasses, and the next day your boss transfers you to the Antarctica office during the six months of darkness. And just when your moon glasses come in the mail, you get transferred to the office at the brightest desert in the world.'
+quote: 'The worst part about glasses is that you always have to throw them away. It doesn’t matter what kind, they just don’t last.'
 date: '9 Apr 2024'
 ---
 
-The worst part about glasses is that you always have to throw them away. It doesn’t matter what kind, they just don’t last.
+The worst part about glasses is that you always have to throw them away. It doesn’t matter what kind—they just don’t last.
 
 One day you buy a nice new pair of sunglasses, and the next day your boss transfers you to the Antarctica office during the six months of darkness. And just when your moon glasses come in the mail, you get transferred to the office at the brightest desert in the world.
 
