@@ -28,7 +28,7 @@ A lot of people in the olden days loved eclipses, like Shakespeare. So another g
 
 If you collect a lot of eclipse glasses that other people have thrown away, you can make some sort of sculpture out of them. But I doubt it’d be very good.
 
-One of the cool parts of the eclipse is looking at the corona of the sun. But I like to use my eclipse glasses to look at a Corona in my fridge. It’s even better in a way, because it’s made of beer and not made of lava or whatever undrinkable thing the sun is made of.
+One of the cool parts of the eclipse is looking at the corona of the sun. But I like to use my eclipse glasses to look at a Corona in my fridge. It’s even better in a way, because it’s made of beer and not lava or whatever undrinkable thing the sun is made of.
 
 You can also pretend you just got your eyes dilated and the eclipse glasses are from the optometrist. You can get away with a lot when people think your eyes are dilated. Like pushing people around and shoplifting.
 
