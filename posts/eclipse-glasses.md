@@ -30,6 +30,6 @@ If you collect a lot of eclipse glasses that other people have thrown away, you 
 
 One of the cool parts of the eclipse is looking at the corona of the sun. But I like to use my eclipse glasses to look at a Corona in my fridge. It’s even better in a way, because it’s made of beer and not lava or whatever undrinkable thing the sun is made of.
 
-You can also pretend you just got your eyes dilated and the eclipse glasses are from the optometrist. You can get away with a lot when people think your eyes are dilated. Like pushing people around and shoplifting.
+You can also pretend you just got your eyes dilated and the eclipse glasses are from the optometrist. You can get away with a lot when people think your eyes are dilated. Like shoplifting and driving under the influence.
 
 Now that I’ve thought about it, these might be the most useful pair of glasses I’ve ever owned. I think I’ll be wearing these every day until the next totality.
