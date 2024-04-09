@@ -24,9 +24,9 @@ If you print a picture of your eyes out and stick them onto your eclipse glasses
 
 Or you can glue sleeping eyes on them to do the opposite. You won’t be able to see much though because the fake eyes will be in the way. But you can still listen. You'd be surprised at the kinds of secrets people will tell when they think there’s a guy sleeping in the corner.
 
-A lot of people in the olden days loved eclipses, like Shakespeare. So another good use of the glasses is to convince a director to add a character into a play, “The Eclipse Starer.” They’ll probably let you do it since you have your glasses.
+A lot of people in the olden days loved eclipses, like Shakespeare. So another good use of the glasses is to convince a director to add a character into a play, “The Eclipse Starer.” They’ll probably let you do it since you already have the glasses.
 
-If you collect a lot of eclipse glasses that other people have thrown away, you can probably make some sort of sculpture out of them. But I doubt it’d be very good.
+If you collect a lot of eclipse glasses that other people have thrown away, you can make some sort of sculpture out of them. But I doubt it’d be very good.
 
 One of the cool parts of the eclipse is looking at the corona of the sun. But I like to use my eclipse glasses to look at a Corona in my fridge. It’s even better in a way, because it’s made of beer and not made of lava or whatever undrinkable thing the sun is made of.
 
