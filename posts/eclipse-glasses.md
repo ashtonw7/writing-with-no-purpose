@@ -1,5 +1,5 @@
 ---
-title: "The Eclipse May Be Over, but I’m Not Done Using These Glasses"
+title: "The Eclipse May Be Over, but I'm Not Done Using These Glasses"
 slug: 'eclipse-glasses'
 author: 'Ashton Winters'
 quote: 'The worst part about glasses is that you always have to throw them away. It doesn’t matter what kind—they just don’t last.'
