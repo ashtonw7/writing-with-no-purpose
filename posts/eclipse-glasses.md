@@ -12,7 +12,7 @@ One day you buy a nice new pair of sunglasses, and the next day your boss transf
 
 You go to a New Year’s Eve party and get some glasses with the year over the lenses thinking you’ll get a whole year’s worth of wear out of them. But then it turns out people only wear those at the party and not at a dinner where you’re meeting a girl’s parents.
 
-You go to a movie and get 3D glasses, and you’re excited because now you can see the rest of the world in 3D too. But then you remember the world was 3D already because you aren’t a cartoon. All you can do is see the world blurry.
+You go to a movie and get 3D glasses, and you’re excited because now you can see the rest of the world in 3D too. But then you remember the world was already 3D because you aren’t a cartoon. All you can do is see the world blurry.
 
 Or you get new prescription lenses, but then you shine a laser pointer in your eyes for an hour because you think it might somehow get you high. And now you need a stronger prescription.
 
