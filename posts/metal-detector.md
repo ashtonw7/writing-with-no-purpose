@@ -2,8 +2,8 @@
 title: "Metal Detectors Are Great, but Here Are Some Other Detectors I Want to See Invented"
 slug: 'metal-detectors'
 author: 'Ashton Winters'
-quote: 'I have returned your proposal to you along with this letter. I suggest you destroy it and never show it to anyone again. These ideas are truly horrible, and I hope you do not pursue them any further.'
-date: '13 Jan 2023'
+quote: 'Youth is fleeting, so you might as well start acting old now. That’s why I decided to buy myself a metal detector.'
+date: '30 Apr 2024'
 ---
 
 If you see an old person doing something, that’s usually a good sign you should do it too. Old people have been around for a long time, so they’ve figured out what things are worth doing.
