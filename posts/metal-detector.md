@@ -1,6 +1,6 @@
 ---
 title: "Metal Detectors Are Great, but Here Are Some Other Detectors I Want to See"
-slug: 'metal-detectors'
+slug: 'metal-detector'
 author: 'Ashton Winters'
 quote: 'Youth is fleeting, so you might as well start acting old now. That’s why I decided to buy myself a metal detector.'
 date: '30 Apr 2024'
