@@ -1,5 +1,5 @@
 ---
-title: "Metal Detectors Are Great, but Here Are Some Other Detectors I Want to See Invented"
+title: "Metal Detectors Are Great, but Here Are Some Other Detectors I Want to See"
 slug: 'metal-detectors'
 author: 'Ashton Winters'
 quote: 'Youth is fleeting, so you might as well start acting old now. That’s why I decided to buy myself a metal detector.'
@@ -10,7 +10,7 @@ If you see an old person doing something, that’s usually a good sign you shoul
 
 That’s why you never see old people jumping. Old people have learned that lesson–there’s no money to be made in jumping around everywhere, so why bother?
 
-But you do see old people doing is using metal detectors. You can find a lot of metal on the ground, and some of it’s probably worth money.
+But you do see old people doing using metal detectors. You can find a lot of metal on the ground, and some of it’s probably worth money.
 
 Youth is fleeting, so you might as well start acting old now. That’s why I decided to buy myself a metal detector.
 
@@ -59,13 +59,13 @@ But what you’re forgetting is that caves are dark, and bats don’t need to se
 
 You’d think having a metal detector would make it impossible to lose your keys because keys are made of metal. But when you’re cheap like me and bought the plastic keys, you’ll find yourself losing them almost every day.
 
-I’ve been missing my keys for over a year now and I have to hitchhike everywhere. And unfortunately, there’s no app that gives you the ratings on the people who’ll pick up a hitchhiker. A friendly stranger detector would make it easier for me to pick a good hitchhikee. I can’t count how many times I’ve asked for ride to the bar and ended up in some guy’s torture cellar.
+I’ve been missing my keys for a month now and I have to hitchhike everywhere. And unfortunately, there’s no app that gives you the ratings on the people who’ll pick up a hitchhiker. A friendly stranger detector would make it easier for me to pick a good hitchhikee. I can’t count how many times I’ve asked for ride to the bar and ended up in some guy’s torture cellar.
 
 —
 
 *Special Blood Alcohol Content Detector*
 
-This one is a lot like the fake metal detector because it doesn’t work the way you’d expect. No matter how drunk you are, it makes you blow a 0.0.
+This one is a lot like the fake metal detector because it doesn’t work the way you’d expect. No matter how hammered you are, it makes you blow a 0.0.
 
 This would be useful because a lot of the people who pick me up when I’m hitchhiking are drunk. And then when they get pulled over and arrested, I’m left stranded on the side of the road. And the cops won’t give you a ride in their car unless you commit a crime.
 
@@ -75,7 +75,7 @@ This would be useful because a lot of the people who pick me up when I’m hitch
 
 I’m always getting bounty hunters called on me, and I’m not sure why. Probably because of all that bail I’m behind on. I think it’d be useful to have a detector that lets me know when a bounty hunter is near me so I can high tail it out there.
 
-If anything it would make things more fair, because with how often I come across them it feels like they have a detector for me.
+If anything it would make things more fair, because with how often I come across bounty hunters it feels like they have a detector for me.
 
 —
 
