@@ -1,5 +1,5 @@
 ---
-title: "I Opened My Own Zoo Because That's Where the Money Is At"
+title: "I Opened My Own Zoo Because That's Where the Money Is"
 slug: 'zoo'
 author: 'Ashton Winters'
 quote: "Some zoos trade animals around to keep things fresh. But none of the zoos I talked to were willing to trade a rhinoceros for my ant farm."
