@@ -12,7 +12,7 @@ date: '15 Aug 2024'
 
 — How so? People love clocks.
 
-— But clocks are boring now. Old news. What we’re making is barely a step above a sundial.
+— But clocks are boring now. Old news. What we’re making is barely a step above the sundial.
 
 — I suppose you're right. We could freshen things up with something new.
 
@@ -20,7 +20,7 @@ date: '15 Aug 2024'
 
 — It smokes cigars and tells me I’m a disappointment?
 
-— No, it rings a loud bell every hour. Even at night when you’re sleeping. Just like my grandfather.
+— No, it rings a loud bell every hour. Even when you’re sleeping. Just like my grandfather.
 
 — Was your grandfather a haunted ferryman?
 
@@ -28,7 +28,7 @@ date: '15 Aug 2024'
 
 — I see.
 
-— It doesn’t have to be just grandfather clocks. We could make a grandmother clock, an uncle clock, a distant cousin clock.
+— And it doesn’t have to just be grandfather clocks. We could make a grandmother clock, an uncle clock, a distant cousin clock.
 
 — I’m not so sure.
 
@@ -40,7 +40,7 @@ date: '15 Aug 2024'
 
 — That’s good! You could strap it to your wrist.
 
-— I was thinking it goes in your pocket. And it’s connected to a chain, so you can choke someone out if it comes down to it.
+— I was thinking it goes in your pocket. And it’s connected to a chain, so you can choke someone out with it if it comes down to it.
 
 — So it’s a weapon?
 
