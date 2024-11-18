@@ -34,4 +34,4 @@ Some people wonder if potions get you drunk. All of mine surely do.
 
 I’ve been working on a new type of potion, the cigarette potion. It isn’t a potion that gives you cigarettes (though that would be a good idea), but rather it’s a potion that you can smoke. I think this would give potions a cool edge and appeal to young people.
 
-A lot of people think only witches should be making potions while wizards should be out doing magic in the field, providing for their family. But listen, it isn’t the 1920s anymore. Wizards should make potions too. Besides, the only magic you can really do in a field is turning a scarecrow to life. And I’m not quite sure what that does to provide for a family, unless you’re a magical swinger.
+A lot of people think only witches should be making potions while wizards should be out doing magic in the field, providing for their family. But listen, it isn’t the 1920s anymore. Wizards should make potions too. Besides, the only magic you can really do in a field is turning a scarecrow to life. And I’m not quite sure what that does to provide for a family, unless you’re magical swingers.
