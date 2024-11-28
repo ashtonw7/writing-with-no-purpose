@@ -1,8 +1,8 @@
 ---
-title: "The White House Would like to Apologize for This Year’s Turkey Pardon"
+title: "The White House Would like to Apologize for This Year's Turkey Pardon"
 slug: 'turkey'
 author: 'Ashton Winters'
-quote: 'I figured they were going to do some research on me. I’ve offered my body up to science plenty of times for a quick buck, so I wasn’t too worried. Usually when you’re selling out your body for research, they aren’t allowed to mess you up too badly.'
+quote: 'We were not aware that not only did the turkey know how to use a gun, but it had used one to rob several local businesses.'
 date: '28 Nov 2024'
 ---
 
@@ -12,7 +12,7 @@ This year that was not the case. The White House staff would like to apologize f
 
 We were not aware that not only did the turkey know how to use a gun, but it had used one to rob several local businesses.
 
-We were not aware that the turkey had a history of giving bad checks to its landlord. In the future we will run a credit check against the turkeys.
+We were not aware that the turkey had a history of giving bad checks to its landlord. In the future, we will run a credit check against the turkeys.
 
 We were not aware of the turkey’s questionable search history.
 
@@ -22,7 +22,7 @@ We were not aware that the turkey was having an affair with an underage hen.
 
 We were not aware that the turkey was capable of speaking human language, but that it only spoke in slurs.
 
-We were not aware that the turkey signed up to bring drinks for its company party, but then showed up empty-handed and everyone was really thirsty.
+We were not aware that the turkey signed up to bring drinks for its company's party but then showed up empty-handed and everyone was really thirsty.
 
 We were not aware that the turkey had ties with evil organizations, nor that it had eight hostages tied up in its roost.
 
