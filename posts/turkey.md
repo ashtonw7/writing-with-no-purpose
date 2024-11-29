@@ -24,7 +24,7 @@ We were not aware that the turkey was capable of speaking human language, but th
 
 We were not aware that the turkey signed up to bring drinks for its company's party but then showed up empty-handed and everyone was really thirsty.
 
-We were not aware that the turkey had ties with evil organizations, nor that it had eight hostages tied up in its roost.
+We were not aware that immediately after being pardoned, the turkey would kidnap the First Lady and hold her hostage in its roost.
 
 We were not aware that the turkey had defrauded the government on multiple occasions. We were not aware it had used its ill-gotten gains to develop a mind-control gas that it spread over the city.
 
