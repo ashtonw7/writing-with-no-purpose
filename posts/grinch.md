@@ -2,7 +2,7 @@
 title: "First Drafts of the Grinch"
 slug: 'grinch'
 author: 'Ashton Winters'
-quote: 'What you might not know is that the Grinch we all know and love isn’t the original. In fact, there were six other drafts because old Seuss landed on the final version of the Grinch. Here they are.'
+quote: 'What you might not know is that the Grinch we all love isn’t the original. In fact, there were a bunch of other drafts before old Seuss landed on the final version of the Grinch.'
 date: '25 Dec 2024'
 ---
 
