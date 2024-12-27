@@ -7,11 +7,11 @@ date: '25 Dec 2024'
 ---
 
 
-Everyone loves the Grinch, because it’s a story that’s relatable to everyone.
+Everyone loves the Grinch, because it’s a story that’s relatable.
 
 If you love Christmas, you can relate to the gleeful little freaks down in Whoville.
 
-If you’re a fan of eat strange meats, mmm, that Roast Beast sounds good.
+If you’re a fan of strange meats, mmm, that Roast Beast sounds good.
 
 If you hate Christmas, or if you’re green, you can relate to the Grinch.
 
