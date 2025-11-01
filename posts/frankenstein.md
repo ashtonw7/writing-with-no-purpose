@@ -1,5 +1,5 @@
 ---
-title: "I'm Dr. Frankenstein Here and I Didn't Mean to Make that Monster"
+title: "I'm Dr. Frankenstein and I Didn't Mean to Make that Monster"
 slug: 'frankenstein'
 author: 'Ashton Winters'
 quote: 'Honestly, it was an accident. I mean yes, I did go dig up all those bodies. And I did stitch all the scariest parts together.'
