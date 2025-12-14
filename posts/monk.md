@@ -42,7 +42,7 @@ date: '14 Dec 2025'
 
 — I guess my primary goal would be pride. So I could look in the mirror and see how much cooler I am than the other monks. Or maybe that’s vanity? I guess I’d do the mohawk for a mix of pride and vanity.
 
-— You could not have a mohawk.
+— You cannot have a mohawk.
 
 — It sounds like a lot of rules. But I bet it’s worth it. Pays pretty well?
 
@@ -52,7 +52,7 @@ date: '14 Dec 2025'
 
 — You cannot.
 
-— Alright. So what’s the women situation here? Do you ever have mixers with the lady monks?
+— Alright. So what’s the woman situation here? Do you ever have mixers with the lady monks?
 
 — There are no lady monks. And you’ll have to take a vow of chastity.
 
