@@ -96,7 +96,7 @@ date: '14 Dec 2025'
 
 — To find inner peace.
 
-— Man, you sure have a lot of statues around here.
+— Man, you sure have a lot of ornate statues around here.
 
 — We do. Each one represents a figure that we could all learn from.
 
